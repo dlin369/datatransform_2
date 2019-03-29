@@ -1,0 +1,2001 @@
+count_consonant,count_tone,count_vowel,date,description,id,internetarchive_url,jsondata,language_pk,markup_description,name,pk,source,source_url
+26,0,10,,,1483,,{},607,,Aari (GM 1483),1735,,
+9,0,5,,,1160,,{},108,,Abau (PH 1160),1468,,
+21,0,18,,,649,,{},1338,,abidji (AA 649),1798,,https://archive.org/details/rosettaproject_abi_ortho-1
+21,2,15,,,1526,,{},1338,,Abidji (GM 1526),1021,,
+13,0,10,,,1914,,{},972,,Abipon (SAPHON 1914),2468,,http://linguistics.berkeley.edu/~saphon/en/inv/Abipon.html
+15,0,5,,,235,,{},972,,ABIPON (UPSID 235),58,,http://web.phonetik.uni-frankfurt.de/L/L6815.html
+59,0,3,,,2468,,{},506,,Abkhaz (Abzhywa) (EA 2468),2334,,http://eurphon.info/languages/html?lang_id=404
+67,0,3,,,2552,,{},506,,Abkhaz (Bzyb) (EA 2552),81,,http://eurphon.info/languages/html?lang_id=63
+27,3,10,,,1297,,{},473,,Abua (GM 1297),1352,,
+22,0,17,,,1701,,{},523,,Abujmaria (RA 1701),2546,,
+17,0,7,,,1159,,{},787,,Abulas (PH 1159),113,,
+20,4,14,,,1521,,{},51,,Abure (GM 1521),1872,,
+21,0,34,,,1093,,{},801,,Acehnese (PH 1093),1808,,
+19,0,10,,,1803,,{},2004,,Achagua (SAPHON 1803),434,,http://linguistics.berkeley.edu/~saphon/en/inv/Achagua.html
+36,0,23,,,2548,,{},620,,Achang (Lianghe) (EA 2548),1946,,http://eurphon.info/languages/html?lang_id=8
+22,0,12,,,2068,,{},1555,,Aché (SAPHON 2068),2335,,http://linguistics.berkeley.edu/~saphon/en/inv/Ache.html
+11,0,10,,,348,,{},1555,,ACHE (UPSID 348),1110,,http://web.phonetik.uni-frankfurt.de/L/L6866.html
+17,3,9,,,1433,,{},1244,,Acholi (GM 1433),2140,,
+15,0,12,,,1946,,{},1532,,Achuar-Shiwiar (SAPHON 1946),751,,http://linguistics.berkeley.edu/~saphon/en/inv/Achuar.html
+17,0,6,,,199,,{},1859,,ACHUMAWI (UPSID 199),438,,http://web.phonetik.uni-frankfurt.de/L/L6744.html
+39,0,12,,,413,,{},962,,ACOMA (UPSID 413),2255,,http://web.phonetik.uni-frankfurt.de/L/L6749.html
+27,0,9,,,1234,,{},307,,Adamawa Fulfulde; Adamawa Fulani (PH 1234),2032,,
+18,0,22,,,1090,,{},792,,Adang (PH 1090),1337,,
+21,3,7,,,650,,{},389,,adioukrou (AA 650),175,,https://archive.org/details/rosettaproject_adj_ortho-1
+21,4,7,,,1527,,{},389,,Adioukrou (GM 1527),606,,
+28,5,12,,,651,,{},619,,adja (AA 651),2694,,
+23,0,14,,,652,,{},619,,adja (AA 652),437,,
+24,0,3,,,2931,,{},762,,Adnyamathanha (ER 2931),2298,,
+54,0,3,,,2349,,{},1634,,Adyghe (EA 2349),1417,,http://eurphon.info/languages/html?lang_id=113
+18,0,7,,,41,,{},411,,Adzera (SPA 41),2156,,https://archive.org/details/azr_SPA1979_phon
+18,0,7,,,200,,{},411,,ADZERA (UPSID 200),2994,,http://web.phonetik.uni-frankfurt.de/L/L2419.html
+17,0,10,,,1342,,{},1225,,Afar (GM 1342),1548,,
+17,3,6,,,1295,,{},534,,Afitti (GM 1295),1855,,
+16,0,23,,,1395,,{},1488,,Afrikaans (GM 1395),1943,,
+28,4,7,,,1161,,{},753,,Agaw (PH 1161),1540,,
+28,2,19,,,1524,,{},1594,,Aghem (GM 1524),2256,,
+25,0,10,,,204,,{},1594,,AGHEM (UPSID 204),1314,,http://web.phonetik.uni-frankfurt.de/L/L4134.html
+20,0,7,,,2880,,{},2124,,Aghu Tharnggala (ER 2880),2898,,
+17,5,14,,,1243,,{},440,,Agni Djuablin (GM 1243),2259,,
+31,4,14,,,1244,,{},1259,,Agni Morofo (GM 1244),2446,,
+21,0,16,,,653,,{},1259,,agni sanvi (AA 653),2545,,
+12,0,8,,,1947,,{},673,,Aguaruna (SAPHON 1947),1921,,http://linguistics.berkeley.edu/~saphon/en/inv/Aguaruna.html
+15,0,6,,,2926,,{},2093,,Agwamin (ER 2926),1364,,
+26,3,14,,,1544,,{},2184,,Ahaan (GM 1544),2833,,
+24,2,14,,,1400,,{},778,,Ahanta (GM 1400),1065,,
+20,4,23,,,1216,,{},1242,,Aheu; Thavung (PH 1216),2438,,
+38,0,14,,,2560,,{},1093,,Ahi (EA 2560),24,,http://eurphon.info/languages/html?lang_id=9
+23,3,7,,,654,,{},961,,ahlõ (AA 654),1901,,https://archive.org/details/rosettaproject_ahl_ortho-2
+30,0,5,,,206,,{},2171,,AHTNA (UPSID 206),2583,,http://web.phonetik.uni-frankfurt.de/L/L6108.html
+15,0,10,,,2118,,{},1325,,Aikanã (SAPHON 2118),227,,http://linguistics.berkeley.edu/~saphon/en/inv/Aikana.html
+12,0,5,,,196,,{},1390,,Ainu (SPA 196),2875,,
+11,0,5,,,207,,{},1390,,AINU (UPSID 207),2708,,http://web.phonetik.uni-frankfurt.de/L/L2140.html
+24,0,8,,,1528,,{},371,,"Aizi, Tiagba (GM 1528)",1072,,
+24,0,9,,,205,,{},606,,AIZI (UPSID 205),2036,,http://web.phonetik.uni-frankfurt.de/L/L4131.html
+38,0,10,,,1250,,{},417,,aja (GM 1250),295,,
+26,3,10,,,1619,,{},1330,,Ajumbu (GM 1619),1396,,
+18,4,9,,,655,,{},754,,akan (AA 655),2378,,https://archive.org/details/rosettaproject_aka_ortho-2
+28,2,30,,,1245,,{},754,,Akan (GM 1245),413,,
+22,3,15,,,140,,{},754,,Akan (SPA 140),2330,,https://archive.org/details/aka_SPA1979_phon
+21,0,14,,,208,,{},754,,AKAN (UPSID 208),520,,http://web.phonetik.uni-frankfurt.de/L/L4115.html
+20,3,29,,,1572,,{},1911,,Akasilimi (GM 1572),70,,
+13,0,10,,,209,,{},1767,,AKAWAIO (UPSID 209),2973,,http://web.phonetik.uni-frankfurt.de/L/L6853.html
+34,0,23,,,2608,,{},1716,,Akha (EA 2608),1401,,http://eurphon.info/languages/html?lang_id=293
+28,3,13,,,1162,,{},1716,,Akha (PH 1162),2801,,
+17,0,3,,,1095,,{},1394,,Aklan (PH 1095),1967,,
+22,4,18,,,656,,{},351,,akɔɔse (AA 656),435,,
+18,2,12,,,1554,,{},351,,Akoose (GM 1554),1218,,
+21,3,10,,,1532,,{},888,,Akpes (GM 1532),2683,,
+11,0,11,,,2069,,{},128,,Akuntsú (SAPHON 2069),1253,,http://linguistics.berkeley.edu/~saphon/en/inv/Akuntsu.html
+10,0,14,,,1862,,{},1323,,Akurio (SAPHON 1862),512,,http://linguistics.berkeley.edu/~saphon/en/inv/Akurio.html
+52,0,10,,,1451,,{},1801,,Alaaba (GM 1451),1225,,
+15,0,6,,,79,,{},1651,,Alabama (SPA 79),1619,,https://archive.org/details/akz_SPA1979_phon
+14,0,3,,,210,,{},1651,,ALABAMA (UPSID 210),213,,http://web.phonetik.uni-frankfurt.de/L/L6759.html
+18,0,6,,,2144,,{},1591,,Alacalufe (SAPHON 2144),2357,,http://linguistics.berkeley.edu/~saphon/en/inv/AlacalufeS.html
+18,0,7,,,221,,{},1852,,ALAMBLAK (UPSID 221),2098,,http://web.phonetik.uni-frankfurt.de/L/L8634.html
+22,0,4,,,2681,,{},1991,,Alawa (ER 2681),2018,,
+23,0,5,,,50,,{},1991,,Alawa (SPA 50),1108,,https://archive.org/details/alh_SPA1979_phon
+22,0,4,,,214,,{},1991,,ALAWA (UPSID 214),2684,,http://web.phonetik.uni-frankfurt.de/L/L8354.html
+28,0,7,,,169,,{},1313,,Albanian (SPA 169),2193,,https://archive.org/details/sqi_SPA1979_phon
+28,0,7,,,215,,{},1313,,ALBANIAN (UPSID 215),1201,,http://web.phonetik.uni-frankfurt.de/L/L2021.html
+30,0,6,,,61,,{},1099,,Aleut (SPA 61),1477,,https://archive.org/details/ale_SPA1979_phon
+24,0,3,,,213,,{},1099,,ALEUT (UPSID 213),2705,,http://web.phonetik.uni-frankfurt.de/L/L6900.html
+23,2,11,,,1529,,{},635,,Alladian (GM 1529),2679,,
+25,0,11,,,212,,{},635,,ALLADIAN (UPSID 212),2707,,http://web.phonetik.uni-frankfurt.de/L/L4152.html
+24,0,4,,,2908,,{},233,,Alngith (ER 2908),1968,,
+18,0,9,,,2412,,{},1978,,Alutor (EA 2412),251,,http://eurphon.info/languages/html?lang_id=110
+25,0,7,,,1163,,{},796,,Alyawarra (PH 1163),1246,,
+40,0,3,,,2702,,{},796,,Alyawarr (ER 2702),785,,
+15,0,8,,,1998,,{},60,,Amahuaca (SAPHON 1998),2548,,http://linguistics.berkeley.edu/~saphon/en/inv/Amahuaca.html
+14,0,8,,,120,,{},60,,Amahuaca (SPA 120),1663,,https://archive.org/details/amc_SPA1979_phon
+14,0,8,,,216,,{},60,,AMAHUACA (UPSID 216),2082,,http://web.phonetik.uni-frankfurt.de/L/L6810.html
+14,0,5,,,1164,,{},1650,,Amanab (PH 1164),2187,,
+15,0,18,,,1920,,{},124,,Amarakaeri (SAPHON 1920),1368,,http://linguistics.berkeley.edu/~saphon/en/inv/Amarakaeri.html
+38,3,10,,,1091,,{},1874,,Ambele (PH 1091),1775,,
+18,0,5,,,1684,,{},226,,Ambon Malay (GM 1684),2114,,
+15,0,5,,,202,,{},1001,,AMELE (UPSID 202),1275,,http://web.phonetik.uni-frankfurt.de/L/L8635.html
+24,0,15,,,2176,,{},311,,American English (UZ 2176),844,,
+52,0,7,,,131,,{},1999,,Amharic (SPA 131),160,,https://archive.org/details/amh_SPA1979_phon
+30,0,7,,,219,,{},1999,,AMHARIC (UPSID 219),2400,,http://web.phonetik.uni-frankfurt.de/L/L4352.html
+61,0,7,,,2156,,{},1999,,Amharic (UZ 2156),2000,,
+25,0,10,,,220,,{},53,,AMO (UPSID 220),2198,,http://web.phonetik.uni-frankfurt.de/L/L4122.html
+23,0,6,,,112,,{},1540,,Amuesha (SPA 112),2167,,https://archive.org/details/ame_SPA1979_phon
+23,0,3,,,217,,{},1540,,AMUESHA (UPSID 217),406,,http://web.phonetik.uni-frankfurt.de/L/L6824.html
+14,0,12,,,2070,,{},1204,,Amundava (SAPHON 2070),2262,,http://linguistics.berkeley.edu/~saphon/en/inv/Amundava.html
+21,0,3,,,2666,,{},545,,Amurdak (ER 2666),2958,,
+25,0,12,,,222,,{},87,,AMUZGO (UPSID 222),2031,,http://web.phonetik.uni-frankfurt.de/L/L6770.html
+18,0,6,,,2021,,{},129,,Ancash Quechua (SAPHON 2021),2411,,http://linguistics.berkeley.edu/~saphon/en/inv/AncashQ.html
+25,0,10,,,1702,,{},1320,,Andamanese (RA 1702),1025,,
+16,0,8,,,227,,{},1320,,ANDAMANESE (UPSID 227),2633,,http://web.phonetik.uni-frankfurt.de/L/L8600.html
+63,0,5,,,2465,,{},1095,,Andi (EA 2465),845,,http://eurphon.info/languages/html?lang_id=72
+15,0,10,,,2138,,{},511,,Andoa (SAPHON 2138),1723,,http://linguistics.berkeley.edu/~saphon/en/inv/Andoa.html
+11,0,24,,,1922,,{},436,,Andoke (SAPHON 1922),1224,,http://linguistics.berkeley.edu/~saphon/en/inv/Andoke.html
+11,0,15,,,224,,{},436,,ANDOKE (UPSID 224),2821,,http://web.phonetik.uni-frankfurt.de/L/L6851.html
+21,0,5,,,1228,,{},1484,,Aneityum; Anejom̃ (PH 1228),1008,,
+38,0,10,,,1661,,{},133,,Anfillo (GM 1661),1918,,
+12,0,9,,,203,,{},1426,,ANGAATIHA (UPSID 203),77,,http://web.phonetik.uni-frankfurt.de/L/L8627.html
+38,5,6,,,1703,,{},737,,Angami (RA 1703),82,,
+24,3,9,,,657,,{},1379,,angas (AA 657),2201,,https://archive.org/details/rosettaproject_anc_ortho-1
+30,3,11,,,125,,{},1379,,Angas (SPA 125),27,,https://archive.org/details/anc_SPA1979_phon
+32,0,11,,,223,,{},1379,,ANGAS (UPSID 223),1341,,http://web.phonetik.uni-frankfurt.de/L/L4367.html
+18,0,6,,,2918,,{},871,,Angkamuthi (ER 2918),623,,
+22,2,12,,,1551,,{},703,,Angolar (GM 1551),523,,
+19,0,17,,,2884,,{},286,,Anguthimri (ER 2884),328,,
+23,2,11,,,1658,,{},1094,,Anii (GM 1658),163,,
+22,0,4,,,2651,,{},1608,,Anindilyakwa (ER 2651),951,,
+17,0,6,,,2958,,{},1160,,Antakirinya (ER 2958),1300,,
+40,0,4,,,2705,,{},1246,,Antekerrepenhe (ER 2705),348,,
+24,0,13,,,1094,,{},1179,,Antiguan Creole (PH 1094),564,,
+22,2,19,,,658,,{},847,,anufɔ (AA 658),696,,https://archive.org/details/rosettaproject_cko_ortho-1
+45,2,12,,,1246,,{},847,,anufɔ (GM 1246),828,,
+21,4,14,,,1298,,{},440,,Anyi (GM 1298),939,,
+19,5,16,,,1242,,{},440,,Anyi Sanvi (GM 1242),1680,,
+19,4,24,,,1165,,{},1887,,Anywa (PH 1165),864,,
+24,3,8,,,1704,,{},554,,Ao-Naga (RA 1704),885,,
+14,0,6,,,497,,{},554,,AO (UPSID 497),2177,,http://web.phonetik.uni-frankfurt.de/L/L2512.html
+12,0,12,,,1863,,{},777,,Apalaí (SAPHON 1863),2787,,http://linguistics.berkeley.edu/~saphon/en/inv/Apalai.html
+24,3,13,,,1705,,{},1686,,Apatani (RA 1705),287,,
+12,0,10,,,2071,,{},527,,Apiaká (SAPHON 2071),261,,http://linguistics.berkeley.edu/~saphon/en/inv/Apiaka.html
+17,0,17,,,1953,,{},1218,,Apinayé (SAPHON 1953),2742,,http://linguistics.berkeley.edu/~saphon/en/inv/Apinaye.html
+14,0,35,,,122,,{},1218,,Apinaye (SPA 122),874,,https://archive.org/details/apn_SPA1979_phon
+13,0,17,,,226,,{},1218,,APINAYE (UPSID 226),2664,,http://web.phonetik.uni-frankfurt.de/L/L6809.html
+14,0,26,,,1092,,{},1929,,Apurinã (PH 1092),405,,
+14,0,20,,,1804,,{},1929,,Apurinã (SAPHON 1804),2728,,http://linguistics.berkeley.edu/~saphon/en/inv/Apurina.html
+21,0,3,,,2761,,{},1623,,Arabana (ER 2761),1957,,
+54,0,8,,,659,,{},1404,,arabe (AA 659),2155,,https://archive.org/details/rosettaproject_apd_ortho-1
+19,0,10,,,2139,,{},64,,Arabela (SAPHON 2139),851,,http://linguistics.berkeley.edu/~saphon/en/inv/Arabela.html
+11,0,7,,,229,,{},64,,ARABELA (UPSID 229),2645,,http://web.phonetik.uni-frankfurt.de/L/L6817.html
+27,0,8,,,231,,{},1570,,ARABIC (UPSID 231),2017,,http://web.phonetik.uni-frankfurt.de/L/L4350.html
+29,0,8,,,2157,,{},1977,,Arabic (UZ 2157),2871,,
+20,0,7,,,2375,,{},189,,Aragonese (Chistabino) (EA 2375),690,,http://eurphon.info/languages/html?lang_id=25
+20,0,25,,,1055,,{},189,,Aragonese (PH 1055),2890,,
+13,0,5,,,1166,,{},466,,Arandai (PH 1166),2918,,
+19,0,4,,,2044,,{},1223,,Araona (SAPHON 2044),2162,,http://linguistics.berkeley.edu/~saphon/en/inv/Araona.html
+15,0,7,,,1167,,{},2062,,Arapesh (PH 1167),867,,
+14,0,8,,,1999,,{},24,,Arara do Acre (SAPHON 1999),739,,http://linguistics.berkeley.edu/~saphon/en/inv/Shawa.html
+19,0,14,,,2119,,{},835,,Arára do Mato Grosso (SAPHON 2119),1877,,http://linguistics.berkeley.edu/~saphon/en/inv/AraraMG.html
+11,0,6,,,1864,,{},1467,,"Arára, Pará (SAPHON 1864)",2957,,http://linguistics.berkeley.edu/~saphon/en/inv/AraraPara.html
+20,0,6,,,106,,{},1086,,Araucanian (SPA 106),2868,,https://archive.org/details/arn_SPA1979_phon
+20,0,6,,,230,,{},1086,,ARAUCANIAN (UPSID 230),2476,,http://web.phonetik.uni-frankfurt.de/L/L6837.html
+12,0,9,,,2072,,{},529,,Araweté (SAPHON 2072),2714,,http://linguistics.berkeley.edu/~saphon/en/inv/Arawete.html
+30,0,7,,,2487,,{},838,,Arbëresh Albanian (Hora e Arbëreshëvet) (EA 2487),1376,,http://eurphon.info/languages/html?lang_id=28
+30,0,6,,,2438,,{},838,,Arbëresh Albanian (Kundisa) (EA 2438),274,,http://eurphon.info/languages/html?lang_id=405
+49,0,10,,,1525,,{},1697,,Arbore (GM 1525),1520,,
+81,0,10,,,228,,{},1035,,ARCHI (UPSID 228),2972,,http://web.phonetik.uni-frankfurt.de/L/L2605.html
+30,0,8,,,1396,,{},970,,Argobba (GM 1396),2033,,
+11,0,14,,,1954,,{},1384,,Arikapú (SAPHON 1954),2908,,http://linguistics.berkeley.edu/~saphon/en/inv/Arikapu.html
+35,5,9,,,1425,,{},1834,,Aringa (GM 1425),2376,,
+17,0,5,,,2909,,{},1701,,Aritinngithigh (ER 2909),332,,
+30,0,7,,,171,,{},780,,Armenian (SPA 171),2738,,https://archive.org/details/hye_SPA1979_phon
+30,0,6,,,362,,{},780,,ARMENIAN (UPSID 362),1183,,http://web.phonetik.uni-frankfurt.de/L/L2022.html
+26,0,3,,,1235,,{},655,,Arrarnte (PH 1235),640,,
+27,0,4,,,2158,,{},1718,,"Arrernte, Central (UZ 2158)",1762,,
+27,0,3,,,201,,{},1718,,ARRERNTE (UPSID 201),958,,http://web.phonetik.uni-frankfurt.de/L/L8362.html
+14,0,8,,,1806,,{},1037,,Asháninka (SAPHON 1806),1397,,http://linguistics.berkeley.edu/~saphon/en/inv/Ashaninka.html
+18,0,20,,,1428,,{},1564,,Asharon (GM 1428),658,,
+20,0,6,,,1807,,{},500,,Ashéninka (SAPHON 1807),2154,,http://linguistics.berkeley.edu/~saphon/en/inv/AsheninkaA.html
+18,0,10,,,1808,,{},877,,Ashéninka (SAPHON 1808),756,,http://linguistics.berkeley.edu/~saphon/en/inv/AsheninkaPe.html
+22,0,8,,,1809,,{},514,,Ashéninka (SAPHON 1809),1908,,http://linguistics.berkeley.edu/~saphon/en/inv/AsheninkaPi.html
+24,0,8,,,1810,,{},983,,Ashéninka (SAPHON 1810),1768,,http://linguistics.berkeley.edu/~saphon/en/inv/AsheninkaUc.html
+22,0,6,,,270,,{},857,,ASHUSLAY (UPSID 270),2563,,http://web.phonetik.uni-frankfurt.de/L/L6814.html
+14,0,5,,,54,,{},2041,,Asmat (SPA 54),2495,,https://archive.org/details/tml_SPA1979_phon
+11,0,6,,,582,,{},2041,,ASMAT (UPSID 582),765,,http://web.phonetik.uni-frankfurt.de/L/L8601.html
+22,0,15,,,1706,,{},480,,Assamese (RA 1706),2404,,
+22,0,14,,,2598,,{},480,,Assamese (Standard) (EA 2598),2179,,http://eurphon.info/languages/html?lang_id=112
+23,0,10,,,2159,,{},480,,Assamese (UZ 2159),2151,,
+20,0,7,,,2571,,{},575,,Asturian (North-Eastern) (EA 2571),2160,,http://eurphon.info/languages/html?lang_id=406
+19,0,7,,,2516,,{},575,,Asturian (Western) (EA 2516),421,,http://eurphon.info/languages/html?lang_id=6
+11,0,5,,,2074,,{},1597,,Asuriní do Tocantins (SAPHON 2074),155,,http://linguistics.berkeley.edu/~saphon/en/inv/AsuriniT.html
+16,0,11,,,2073,,{},976,,Asurini do Xingú (SAPHON 2073),2609,,http://linguistics.berkeley.edu/~saphon/en/inv/AsuriniX.html
+18,0,8,,,2919,,{},1491,,Atampaya (ER 2919),1171,,
+18,0,6,,,2373,,{},1556,,Atayal (EA 2373),2509,,http://eurphon.info/languages/html?lang_id=178
+19,0,8,,,30,,{},1556,,Atayal (SPA 30),440,,https://archive.org/details/tay_SPA1979_phon
+19,0,7,,,562,,{},1556,,ATAYAL (UPSID 562),2698,,http://web.phonetik.uni-frankfurt.de/L/L2407.html
+24,8,15,,,1550,,{},1975,,Attie (GM 1550),2394,,
+11,0,10,,,232,,{},1799,,AUCA (UPSID 232),2547,,http://web.phonetik.uni-frankfurt.de/L/L6818.html
+10,0,7,,,1169,,{},1734,,Au (PH 1169),1172,,
+11,3,6,,,57,,{},1946,,Auyana (SPA 57),3011,,https://archive.org/details/auy_SPA1979_phon
+12,0,12,,,2075,,{},755,,Avá-Canoeiro (SAPHON 2075),2661,,http://linguistics.berkeley.edu/~saphon/en/inv/AvaCanoeiro.html
+59,0,5,,,2467,,{},764,,Avar (Chadakolob) (EA 2467),2757,,http://eurphon.info/languages/html?lang_id=55
+44,0,5,,,233,,{},764,,AVAR (UPSID 233),407,,http://web.phonetik.uni-frankfurt.de/L/L2606.html
+28,4,18,,,1296,,{},2154,,Avatime (GM 1296),2174,,
+25,3,6,,,1358,,{},2121,,Avikam (GM 1358),2044,,
+37,4,14,,,660,,{},1575,,avokaya (AA 660),2981,,https://archive.org/details/rosettaproject_avu_ortho-1
+13,0,3,,,2987,,{},1110,,Awabakal (ER 2987),2025,,
+16,0,10,,,1853,,{},253,,Awa-Cuaiquer (SAPHON 1853),1676,,http://linguistics.berkeley.edu/~saphon/en/inv/AwaCuaiquer.html
+37,0,8,,,1707,,{},1368,,Awadhi (RA 1707),2513,,
+14,0,7,,,1120,,{},253,,Awa Pit (PH 1120),2139,,
+19,0,6,,,1175,,{},1176,,Awara (PH 1175),21,,
+17,0,10,,,1923,,{},1308,,Aʔɨwa (SAPHON 1923),376,,http://linguistics.berkeley.edu/~saphon/en/inv/Aiwa.html
+14,0,12,,,2076,,{},1479,,Awetí (SAPHON 2076),2410,,http://linguistics.berkeley.edu/~saphon/en/inv/Aweti.html
+39,0,17,,,1176,,{},581,,Awing (PH 1176),476,,
+28,4,7,,,128,,{},75,,Awiya (SPA 128),790,,https://archive.org/details/awn_SPA1979_phon
+28,0,7,,,234,,{},75,,AWIYA (UPSID 234),1956,,http://web.phonetik.uni-frankfurt.de/L/L4359.html
+30,3,6,,,1542,,{},75,,Awngi (GM 1542),1555,,
+11,0,7,,,1177,,{},1522,,Awtuw (PH 1177),1467,,
+23,0,8,,,2881,,{},1264,,Awu Alaya (ER 2881),211,,
+14,0,3,,,2032,,{},1077,,Ayacucho Quechua (SAPHON 2032),1920,,http://linguistics.berkeley.edu/~saphon/en/inv/AyacuchoQ.html
+15,0,10,,,2898,,{},1142,,Ayapathu (ER 2898),725,,
+39,0,4,,,2707,,{},1299,,Ayerrerenge (ER 2707),1914,,
+26,0,6,,,1851,,{},2176,,Aymara (SAPHON 1851),2500,,http://linguistics.berkeley.edu/~saphon/en/inv/Aymara.html
+28,0,3,,,2145,,{},2176,,Aymara (SAPHON 2145),2526,,http://linguistics.berkeley.edu/~saphon/en/inv/AymaraC.html
+36,0,6,,,105,,{},230,,Aymara (SPA 105),1709,,https://archive.org/details/ayr_SPA1979_phon
+20,0,10,,,2137,,{},2050,,Ayoreo (SAPHON 2137),2373,,http://linguistics.berkeley.edu/~saphon/en/inv/Ayoreo.html
+19,0,16,,,645,,{},1938,,AZANDE (UPSID 645),157,,http://web.phonetik.uni-frankfurt.de/L/L4130.html
+25,0,9,,,187,,{},1405,,Azerbaijani (SPA 187),1460,,https://archive.org/details/aze_SPA1979_phon
+24,0,9,,,236,,{},1405,,AZERBAIJANI (UPSID 236),166,,http://web.phonetik.uni-frankfurt.de/L/L2159.html
+13,0,6,,,2734,,{},1710,,Baanbay (ER 2734),1824,,
+26,0,7,,,1179,,{},1512,,Babanki (PH 1179),2515,,
+23,0,7,,,1178,,{},663,,Baba (PH 1178),1418,,
+21,4,6,,,1247,,{},160,,babole (GM 1247),2293,,
+56,9,17,,,661,,{},1638,,babungo (AA 661),2001,,
+25,0,13,,,1708,,{},1342,,Badaga (RA 1708),3010,,
+33,4,9,,,1437,,{},446,,Bade (GM 1437),924,,
+20,0,3,,,2768,,{},2162,,Badimaya (ER 2768),1537,,
+27,4,20,,,1444,,{},718,,Bafia (GM 1444),686,,
+27,4,16,,,926,,{},516,,Bafo (PH 926),953,,
+21,10,18,,,662,,{},1504,,bafut (AA 662),2120,,
+17,0,8,,,1060,,{},450,,Baga Koga; Koba; Barka (PH 1060),433,,
+18,0,8,,,1199,,{},2138,,Baga Sitem (PH 1199),1836,,
+29,3,16,,,1469,,{},1189,,Bagirmi (GM 1469),3007,,
+40,0,26,,,2346,,{},1635,,Baima (EA 2346),1693,,http://eurphon.info/languages/html?lang_id=32
+14,0,8,,,267,,{},139,,BAINING (UPSID 267),1045,,http://web.phonetik.uni-frankfurt.de/L/L8631.html
+18,0,11,,,244,,{},2010,,BAI (UPSID 244),1514,,http://web.phonetik.uni-frankfurt.de/L/L2506.html
+17,0,6,,,1081,,{},1584,,"Bajau, West Coast; Land Bajaw; West Coast Bajao (PH 1081)",736,,
+25,6,7,,,663,,{},2142,,baka (AA 663),1689,,
+36,0,10,,,1249,,{},1723,,baka (GM 1249),861,,
+25,3,7,,,1574,,{},2142,,Baka (GM 1574),1182,,
+16,0,14,,,1865,,{},2019,,Bakairí (SAPHON 1865),504,,http://linguistics.berkeley.edu/~saphon/en/inv/BakairiE.html
+16,0,12,,,1866,,{},2019,,Bakairí (SAPHON 1866),569,,http://linguistics.berkeley.edu/~saphon/en/inv/BakairiW.html
+17,0,12,,,254,,{},2019,,BAKAIRI (UPSID 254),1664,,http://web.phonetik.uni-frankfurt.de/L/L6856.html
+15,2,14,,,1556,,{},931,,Bakaka (Babong) (GM 1556),210,,
+16,2,14,,,1557,,{},931,,Bakaka (Mkaa') (GM 1557),1558,,
+19,2,13,,,1555,,{},931,,Bakaka (Mwaneka) (GM 1555),1077,,
+21,0,10,,,2901,,{},31,,Bakanh (ER 2901),1802,,
+24,0,12,,,2249,,{},1825,,Bakhtiari (EA 2249),92,,http://eurphon.info/languages/html?lang_id=313
+26,0,7,,,1180,,{},824,,Bakoko (PH 1180),2483,,
+33,3,14,,,1391,,{},1835,,Balante (GM 1391),2894,,
+17,0,5,,,2864,,{},1334,,Balardung (ER 2864),2110,,
+29,3,10,,,1636,,{},1735,,Balese (GM 1636),1115,,
+23,5,14,,,1181,,{},1006,,Bali-Kumbat (PH 1181),2056,,
+18,0,6,,,1693,,{},729,,Balinese (GM 1693),2360,,
+35,0,5,,,2306,,{},634,,Balti (Kharkoo) (EA 2306),1734,,http://eurphon.info/languages/html?lang_id=143
+35,0,18,,,1709,,{},634,,Balti (RA 1709),55,,
+32,2,24,,,1496,,{},973,,Bamana (GM 1496),2967,,
+34,5,18,,,1204,,{},1211,,Bambalang; Círàmbɔ́ (PH 1204),1200,,
+20,2,21,,,664,,{},973,,bambara (AA 664),2083,,
+21,0,14,,,238,,{},973,,BAMBARA (UPSID 238),2348,,http://web.phonetik.uni-frankfurt.de/L/L4105.html
+23,0,9,,,1182,,{},863,,Bamunka (PH 1182),2214,,
+37,4,3,,,1248,,{},1187,,bana (GM 1248),1066,,
+32,5,8,,,665,,{},165,,banda (AA 665),365,,
+33,3,10,,,666,,{},165,,banda (AA 666),11,,
+18,0,5,,,1685,,{},1539,,Banda Malay (GM 1685),2560,,
+31,5,10,,,1308,,{},1928,,"Banda, West Central (GM 1308)",1177,,
+23,4,21,,,667,,{},1169,,bandi (AA 667),1000,,https://archive.org/details/rosettaproject_bza_ortho-1
+12,0,4,,,248,,{},2143,,BANDJALANG (UPSID 248),2944,,http://web.phonetik.uni-frankfurt.de/L/L8368.html
+20,0,6,,,2875,,{},687,,Bandjigali (ER 2875),511,,
+27,4,9,,,1183,,{},822,,Bangolan (PH 1183),2220,,
+16,0,8,,,1811,,{},720,,Baniwa (SAPHON 1811),95,,http://linguistics.berkeley.edu/~saphon/en/inv/Baniwa.html
+18,0,8,,,1812,,{},720,,Baniwa (SAPHON 1812),2945,,http://linguistics.berkeley.edu/~saphon/en/inv/Baniva.html
+24,0,10,,,1710,,{},1205,,Banjara (RA 1710),2769,,
+36,5,18,,,1384,,{},1860,,Banjun (GM 1384),2189,,
+26,4,7,,,1522,,{},1059,,Bankon (GM 1522),2764,,
+20,3,8,,,1184,,{},1844,,Banoo (PH 1184),1947,,
+25,0,11,,,2588,,{},2182,,Baoan (Ñantoq) (EA 2588),661,,http://eurphon.info/languages/html?lang_id=220
+21,4,12,,,668,,{},1039,,baoulé (AA 668),866,,
+15,0,3,,,2798,,{},1616,,Barada (ER 2798),2923,,
+11,0,6,,,2050,,{},605,,Barasana-Eduria (SAPHON 2050),2562,,http://linguistics.berkeley.edu/~saphon/en/inv/BarasanaE.html
+11,2,12,,,114,,{},1760,,Barasano (SPA 114),2982,,https://archive.org/details/bao_SPA1979_phon
+11,0,12,,,239,,{},1760,,BARASANO (UPSID 239),357,,http://web.phonetik.uni-frankfurt.de/L/L6832.html
+38,0,6,,,1239,,{},2135,,Barbareño (PH 1239),2106,,
+34,0,6,,,862,,{},2135,,Barbareño (PH 862),870,,
+17,0,7,,,2697,,{},1185,,Bardi (ER 2697),964,,
+17,0,7,,,245,,{},1185,,BARDI (UPSID 245),1416,,http://web.phonetik.uni-frankfurt.de/L/L8357.html
+18,0,7,,,2160,,{},1185,,Bardi (UZ 2160),2702,,
+16,3,10,,,1613,,{},1012,,Barein (Giliya) (GM 1613),2942,,
+31,3,10,,,1614,,{},1012,,Barein (Jalking) (GM 1614),2365,,
+28,3,10,,,1612,,{},1012,,Barein (Jalkiya) (GM 1612),2487,,
+32,2,10,,,1615,,{},1012,,Barein (Komiya) (GM 1615),2095,,
+19,0,4,,,1813,,{},2110,,Baré (SAPHON 1813),2100,,http://linguistics.berkeley.edu/~saphon/en/inv/Bare.html
+12,0,5,,,1185,,{},1398,,Bariai (PH 1185),2539,,
+17,2,12,,,669,,{},1226,,bariba (AA 669),2732,,
+18,0,12,,,240,,{},1226,,BARIBA (UPSID 240),1966,,http://web.phonetik.uni-frankfurt.de/L/L4113.html
+10,0,12,,,1892,,{},1624,,Barí (SAPHON 1892),2346,,http://linguistics.berkeley.edu/~saphon/en/inv/Bari.html
+15,0,3,,,2799,,{},213,,Barna (ER 2799),2899,,
+14,0,10,,,1039,,{},532,,Baruga (PH 1039),2557,,
+13,0,10,,,2942,,{},1779,,Barunggam (ER 2942),2565,,
+29,5,7,,,670,,{},1349,,basaa (AA 670),2883,,https://archive.org/details/rosettaproject_bas_ortho-1
+21,3,6,,,1453,,{},1673,,Basari (GM 1453),468,,
+28,0,11,,,2500,,{},1049,,Bashkir (Standard) (EA 2500),989,,http://eurphon.info/languages/html?lang_id=257
+27,0,11,,,237,,{},1049,,BASHKIR (UPSID 237),1944,,http://web.phonetik.uni-frankfurt.de/L/L2163.html
+24,0,12,,,2419,,{},746,,Basque (Arbizu) (EA 2419),2962,,http://eurphon.info/languages/html?lang_id=403
+23,0,7,,,2340,,{},746,,Basque (Baztan) (EA 2340),1338,,http://eurphon.info/languages/html?lang_id=15
+23,0,7,,,2583,,{},746,,Basque (Gernika) (EA 2583),627,,http://eurphon.info/languages/html?lang_id=402
+21,0,7,,,2615,,{},746,,Basque (Ondarroa) (EA 2615),1898,,http://eurphon.info/languages/html?lang_id=468
+23,0,5,,,179,,{},746,,Basque (SPA 179),94,,https://archive.org/details/eus_SPA1979_phon
+23,0,5,,,321,,{},746,,BASQUE (UPSID 321),2055,,http://web.phonetik.uni-frankfurt.de/L/L2714.html
+23,2,10,,,2161,,{},746,,Basque (UZ 2161),1928,,
+22,7,7,,,671,,{},393,,bassa (AA 671),2443,,https://archive.org/details/rosettaproject_bsq_ortho-1
+21,3,6,,,672,,{},1673,,bassar (AA 672),415,,https://archive.org/details/rosettaproject_bud_ortho-1
+20,2,12,,,1559,,{},1415,,Bassossi (GM 1559),1377,,
+16,0,5,,,33,,{},1129,,Batak (SPA 33),1809,,https://archive.org/details/btx_SPA1979_phon
+16,0,5,,,241,,{},1129,,BATAK (UPSID 241),2295,,http://web.phonetik.uni-frankfurt.de/L/L2413.html
+33,0,18,,,2390,,{},1192,,Bats (EA 2390),192,,http://eurphon.info/languages/html?lang_id=142
+35,0,10,,,242,,{},1192,,BATS (UPSID 242),853,,http://web.phonetik.uni-frankfurt.de/L/L2604.html
+16,0,7,,,1100,,{},1039,,Baule (PH 1100),2775,,
+14,0,4,,,1843,,{},1261,,Baure (SAPHON 1843),544,,http://linguistics.berkeley.edu/~saphon/en/inv/Baure.html
+19,2,20,,,144,,{},28,,Beembe (SPA 144),2138,,https://archive.org/details/beq_SPA1979_phon
+16,0,10,,,251,,{},28,,BEEMBE (UPSID 251),1656,,http://web.phonetik.uni-frankfurt.de/L/L4123.html
+43,2,14,,,1186,,{},564,,Befang (PH 1186),806,,
+21,0,5,,,249,,{},773,,BEJA (UPSID 249),2627,,http://web.phonetik.uni-frankfurt.de/L/L4361.html
+23,3,10,,,674,,{},1184,,bekwarra (AA 674),1863,,https://archive.org/details/rosettaproject_bkv_ortho-1
+19,0,6,,,1669,,{},306,,Belait (GM 1669),2935,,
+25,3,10,,,1434,,{},481,,Belanda Boor (GM 1434),457,,
+28,5,10,,,1435,,{},283,,Belanda Viri (GM 1435),1974,,
+28,0,8,,,2236,,{},880,,Belhare (UZ 2236),2529,,
+22,0,13,,,1105,,{},197,,Belizean Creole (PH 1105),1295,,
+28,0,3,,,255,,{},705,,BELLA COOLA (UPSID 255),2629,,http://web.phonetik.uni-frankfurt.de/L/L6771.html
+15,0,10,,,1188,,{},1388,,Bemba (PH 1188),1746,,
+22,2,10,,,1513,,{},601,,Bena (GM 1513),1816,,
+29,6,5,,,1478,,{},1076,,Bench (GM 1478),620,,
+24,6,19,,,676,,{},1526,,bɛ̀ŋ (AA 676),1565,,https://archive.org/details/rosettaproject_nhb_ortho-1
+30,0,17,,,2624,,{},96,,Bengali (Dhaka) (EA 2624),2792,,http://eurphon.info/languages/html?lang_id=305
+34,0,14,,,1711,,{},96,,Bengali (RA 1711),1117,,
+36,0,17,,,177,,{},96,,Bengali (SPA 177),2522,,https://archive.org/details/ben_SPA1979_phon
+29,0,14,,,250,,{},96,,BENGALI (UPSID 250),222,,http://web.phonetik.uni-frankfurt.de/L/L2017.html
+49,0,23,,,2162,,{},96,,Bengali (UZ 2162),904,,
+20,0,6,,,1189,,{},537,,Berbice Dutch (PH 1189),2721,,
+21,3,9,,,1509,,{},1062,,Beria (GM 1509),1522,,
+24,0,7,,,675,,{},889,,berom (AA 675),1005,,https://archive.org/details/rosettaproject_bom_ortho-1
+24,0,5,,,621,,{},1371,,BERTA (UPSID 621),3002,,http://web.phonetik.uni-frankfurt.de/L/L4218.html
+25,0,8,,,2268,,{},503,,Beserman (Šamardan) (EA 2268),184,,http://eurphon.info/languages/html?lang_id=218
+39,2,9,,,1401,,{},383,,Besleri (GM 1401),2359,,
+14,0,12,,,1957,,{},43,,Bésɨro (SAPHON 1957),881,,http://linguistics.berkeley.edu/~saphon/en/inv/Besiro.html
+23,2,26,,,673,,{},740,,bété (AA 673),486,,
+24,0,13,,,252,,{},2060,,BETE (UPSID 252),198,,http://web.phonetik.uni-frankfurt.de/L/L4144.html
+22,0,15,,,2354,,{},33,,Betta Kurumba (EA 2354),2145,,http://eurphon.info/languages/html?lang_id=54
+22,0,15,,,1190,,{},33,,Betta Kurumba (PH 1190),3017,,
+19,2,7,,,677,,{},1783,,bhele (AA 677),970,,https://archive.org/details/rosettaproject_bhy_ortho-1
+35,0,27,,,1712,,{},1007,,Bhili (RA 1712),212,,
+35,0,16,,,2357,,{},1498,,Bhojpuri (EA 2357),2426,,http://eurphon.info/languages/html?lang_id=101
+31,0,16,,,2299,,{},256,,Bhujel (EA 2299),392,,http://eurphon.info/languages/html?lang_id=319
+33,0,21,,,1713,,{},1481,,Bhumij (RA 1713),2152,,
+14,0,5,,,1683,,{},1375,,Biak (GM 1683),2938,,
+14,0,10,,,1191,,{},1375,,Biak (PH 1191),2130,,
+14,3,10,,,678,,{},443,,biali (AA 678),1030,,https://archive.org/details/rosettaproject_beh_ortho-1
+17,0,5,,,2865,,{},1916,,Bibbulman (ER 2865),1524,,
+17,0,8,,,2788,,{},1471,,Bidhawal (ER 2788),112,,
+16,0,4,,,2797,,{},604,,Bidyara (ER 2797),1593,,
+13,0,3,,,2982,,{},1079,,Bigambal (ER 2982),260,,
+18,0,7,,,1494,,{},1583,,Bijogo (GM 1494),130,,
+28,4,23,,,1102,,{},2098,,Bikele (PH 1102),1985,,
+23,0,5,,,1695,,{},1389,,Bikol (Bicolano) (GM 1695),1307,,
+19,5,9,,,1251,,{},522,,bila (GM 1251),841,,
+17,0,6,,,1192,,{},499,,Bilinara (PH 1192),2178,,
+17,0,6,,,2851,,{},499,,Bilinarra (ER 2851),738,,
+12,0,8,,,1104,,{},1854,,Biloxi (PH 1104),1942,,
+16,0,25,,,1210,,{},1158,,Bilua (PH 1210),2291,,
+22,4,18,,,679,,{},211,,bimoba (AA 679),1438,,https://archive.org/details/rosettaproject_bim_ortho-1
+11,0,24,,,1193,,{},894,,Binandere (PH 1193),2273,,
+17,0,6,,,2688,,{},276,,Binbinka (ER 2688),2397,,
+11,0,5,,,872,,{},1774,,Binumarien (PH 872),972,,
+15,0,3,,,2800,,{},213,,Biri (ER 2800),2595,,
+25,0,27,,,1548,,{},859,,Birifor (GM 1548),2964,,
+22,0,7,,,257,,{},889,,BIROM (UPSID 257),992,,http://web.phonetik.uni-frankfurt.de/L/L4120.html
+23,3,15,,,680,,{},919,,bisa (AA 680),900,,https://archive.org/details/rosettaproject_bib_ortho-1
+18,0,6,,,253,,{},919,,BISA (UPSID 253),67,,http://web.phonetik.uni-frankfurt.de/L/L4104.html
+13,0,12,,,1103,,{},2043,,Blackfoot (PH 1103),1131,,
+24,2,14,,,1065,,{},1402,,Blang; Plang; Bulang; Pulang; Pula; Kawa; K''ala; Kontoi' (PH 1065),1241,,
+31,0,7,,,1332,,{},799,,Blin (GM 1332),302,,
+20,2,18,,,681,,{},388,,bobo (AA 681),311,,
+21,0,12,,,243,,{},388,,BOBO-FING (UPSID 243),764,,http://web.phonetik.uni-frankfurt.de/L/L4138.html
+21,3,13,,,1512,,{},388,,"Bobo, North (GM 1512)",2667,,
+19,0,19,,,1194,,{},986,,Bobo (PH 1194),1351,,
+15,0,6,,,263,,{},1143,,BODO (UPSID 263),1020,,http://web.phonetik.uni-frankfurt.de/L/L2515.html
+17,0,8,,,984,,{},17,,Boiken (PH 984),7,,
+23,0,7,,,1662,,{},185,,Bokala-Nkole (GM 1662),190,,
+28,0,10,,,1195,,{},837,,Bole (PH 1195),694,,
+25,0,3,,,2033,,{},800,,Bolivian Quechua (SAPHON 2033),2912,,http://linguistics.berkeley.edu/~saphon/en/inv/BolivianQ.html
+18,0,11,,,1196,,{},1694,,Bongo (PH 1196),1890,,
+20,0,3,,,2775,,{},716,,Boonwurrung (ER 2775),722,,
+29,0,12,,,1857,,{},180,,Bora (SAPHON 1857),2063,,http://linguistics.berkeley.edu/~saphon/en/inv/Bora.html
+19,0,5,,,1897,,{},1867,,Border Kuna (SAPHON 1897),1867,,http://linguistics.berkeley.edu/~saphon/en/inv/Kuna.html
+16,3,6,,,1197,,{},676,,Boro (PH 1197),1155,,
+22,2,8,,,1714,,{},676,,BoRo (RA 1714),762,,
+15,0,7,,,1955,,{},107,,Borôro (SAPHON 1955),343,,http://linguistics.berkeley.edu/~saphon/en/inv/Bororo.html
+13,0,7,,,258,,{},107,,BORORO (UPSID 258),1378,,http://web.phonetik.uni-frankfurt.de/L/L6850.html
+19,3,12,,,682,,{},1740,,boussa (AA 682),1982,,
+20,0,14,,,683,,{},590,,bozo (AA 683),1913,,https://archive.org/details/rosettaproject_bzx_ortho-1
+40,0,21,,,2328,,{},1682,,Brag-g.yab Tibetan (EA 2328),1596,,http://eurphon.info/languages/html?lang_id=291
+26,0,17,,,2290,,{},1219,,Brahui (Jahlawān) (EA 2290),1850,,http://eurphon.info/languages/html?lang_id=407
+26,0,17,,,2377,,{},1219,,Brahui (Sarāwān) (EA 2377),2182,,http://eurphon.info/languages/html?lang_id=156
+24,0,9,,,261,,{},1219,,BRAHUI (UPSID 261),1084,,http://web.phonetik.uni-frankfurt.de/L/L2917.html
+22,0,9,,,259,,{},1626,,BRAO (UPSID 259),1083,,http://web.phonetik.uni-frankfurt.de/L/L2311.html
+32,0,34,,,2584,,{},159,,Breton (Bothoa) (EA 2584),2528,,http://eurphon.info/languages/html?lang_id=144
+25,0,17,,,157,,{},159,,Breton (SPA 157),2089,,https://archive.org/details/bre_SPA1979_phon
+25,0,20,,,260,,{},159,,BRETON (UPSID 260),2090,,http://web.phonetik.uni-frankfurt.de/L/L2002.html
+18,0,9,,,268,,{},810,,BRIBRI (UPSID 268),1865,,http://web.phonetik.uni-frankfurt.de/L/L6801.html
+31,0,10,,,1198,,{},1524,,Brokskat (PH 1198),2579,,
+41,0,15,,,1715,,{},1524,,Brokskat (RA 1715),2205,,
+20,0,22,,,262,,{},821,,BRUU (UPSID 262),389,,http://web.phonetik.uni-frankfurt.de/L/L2316.html
+25,0,14,,,1200,,{},1031,,Bubia (PH 1200),291,,
+19,0,6,,,1694,,{},203,,Bugis (GM 1694),161,,
+23,0,6,,,2219,,{},1482,,Bukharan Tajik (UZ 2219),1859,,
+20,0,10,,,1201,,{},380,,Bukusu (PH 1201),1133,,
+26,0,6,,,2946,,{},1215,,Bularnu (ER 2946),286,,
+37,0,12,,,167,,{},1392,,Bulgarian (SPA 167),2329,,https://archive.org/details/bul_SPA1979_phon
+37,0,6,,,2368,,{},1392,,Bulgarian (Standard) (EA 2368),1226,,http://eurphon.info/languages/html?lang_id=278
+36,0,6,,,265,,{},1392,,BULGARIAN (UPSID 265),2669,,http://web.phonetik.uni-frankfurt.de/L/L2009.html
+23,0,7,,,2163,,{},1392,,Bulgarian (UZ 2163),1298,,
+23,10,13,,,1390,,{},504,,Buli (GM 1390),2456,,
+24,5,7,,,684,,{},769,,bulu (AA 684),1012,,
+37,3,7,,,1575,,{},1410,,Bum (GM 1575),1250,,
+38,0,17,,,1716,,{},1853,,Bundeli (RA 1716),1553,,
+12,0,8,,,2712,,{},637,,Bundjalung (ER 2712),2936,,
+20,0,4,,,2630,,{},1056,,Bunuba (ER 2630),2525,,
+17,0,6,,,1676,,{},1213,,Buol (GM 1676),1082,,
+21,0,5,,,2629,,{},1582,,Burarra (ER 2629),708,,
+16,0,5,,,266,,{},1582,,BURARRA (UPSID 266),1120,,http://web.phonetik.uni-frankfurt.de/L/L8352.html
+27,0,18,,,2317,,{},1636,,Buriat (Standard) (EA 2317),553,,http://eurphon.info/languages/html?lang_id=23
+26,0,10,,,1657,,{},2128,,Burji (GM 1657),2556,,
+33,0,21,,,2338,,{},84,,Burmese (Rangoon) (EA 2338),965,,http://eurphon.info/languages/html?lang_id=147
+34,3,13,,,22,,{},84,,Burmese (SPA 22),1474,,https://archive.org/details/mya_SPA1979_phon
+33,0,13,,,476,,{},84,,BURMESE (UPSID 476),248,,http://web.phonetik.uni-frankfurt.de/L/L2509.html
+33,4,19,,,2164,,{},84,,Burmese (UZ 2164),2498,,
+19,3,16,,,1313,,{},1717,,Burun (GM 1313),1165,,
+38,0,10,,,2613,,{},1020,,Burushaski (Hunza) (EA 2613),761,,http://eurphon.info/languages/html?lang_id=105
+38,0,21,,,2577,,{},1020,,Burushaski (Nagar) (EA 2577),2577,,http://eurphon.info/languages/html?lang_id=408
+38,3,12,,,6,,{},1020,,Burushaski (SPA 6),2844,,https://archive.org/details/bsk_SPA1979_phon
+38,0,5,,,264,,{},1020,,BURUSHASKI (UPSID 264),1789,,http://web.phonetik.uni-frankfurt.de/L/L2715.html
+38,0,10,,,2561,,{},1020,,Burushaski (Werchikwar) (EA 2561),2062,,http://eurphon.info/languages/html?lang_id=409
+16,3,12,,,1252,,{},1586,,busa (GM 1252),2651,,
+16,0,8,,,2940,,{},1779,,Butchulla (ER 2940),2181,,
+38,3,2,,,1402,,{},688,,Buwal (GM 1402),2196,,
+20,0,3,,,2717,,{},227,,Buwandik (ER 2717),2327,,
+17,3,8,,,1603,,{},314,,Bwamut (GM 1603),442,,
+12,0,5,,,1814,,{},1823,,Cabiyarí (SAPHON 1814),2165,,http://linguistics.berkeley.edu/~saphon/en/inv/Cabiyari.html
+12,0,10,,,275,,{},765,,CACUA (UPSID 275),2614,,http://web.phonetik.uni-frankfurt.de/L/L6864.html
+20,0,3,,,269,,{},2036,,CADDO (UPSID 269),65,,http://web.phonetik.uni-frankfurt.de/L/L6775.html
+19,0,3,,,2022,,{},1197,,Cajamarca Quechua (SAPHON 2022),2911,,http://linguistics.berkeley.edu/~saphon/en/inv/CajamarcaQ.html
+26,0,6,,,1985,,{},149,,Callawaya (SAPHON 1985),2950,,http://linguistics.berkeley.edu/~saphon/en/inv/Callawalla.html
+21,0,21,,,14,,{},738,,Cambodian (SPA 14),1124,,https://archive.org/details/khm_SPA1979_phon
+17,0,4,,,110,,{},1037,,Campa (SPA 110),257,,https://archive.org/details/cni_SPA1979_phon
+15,0,4,,,288,,{},1037,,CAMPA (UPSID 288),3015,,http://web.phonetik.uni-frankfurt.de/L/L6825.html
+44,0,14,,,2546,,{},2096,,Campidanese Sardinian (Sestu) (EA 2546),2137,,http://eurphon.info/languages/html?lang_id=252
+21,0,6,,,1924,,{},1882,,Camsá (SAPHON 1924),2284,,http://linguistics.berkeley.edu/~saphon/en/inv/Camsa.html
+22,0,6,,,392,,{},1882,,CAMSA (UPSID 392),985,,http://web.phonetik.uni-frankfurt.de/L/L6863.html
+21,0,6,,,1925,,{},839,,Candoshi-Shapra (SAPHON 1925),1925,,http://linguistics.berkeley.edu/~saphon/en/inv/Candoshi.html
+13,0,16,,,1956,,{},266,,Canela (SAPHON 1956),1744,,http://linguistics.berkeley.edu/~saphon/en/inv/Canela.html
+22,5,5,,,19,,{},683,,Cantonese (SPA 19),1748,,https://archive.org/details/yue_SPA1979_phon
+52,0,11,,,2257,,{},611,,Caodeng rGyalrong (EA 2257),1882,,http://eurphon.info/languages/html?lang_id=296
+16,0,8,,,2000,,{},1668,,Capanahua (SAPHON 2000),826,,http://linguistics.berkeley.edu/~saphon/en/inv/Capanahua.html
+21,0,7,,,1606,,{},457,,Cape Verde Creole (GM 1606),2795,,
+19,0,8,,,1815,,{},555,,Caquinte (SAPHON 1815),2401,,http://linguistics.berkeley.edu/~saphon/en/inv/Caquinte.html
+11,0,6,,,1867,,{},1659,,Carib (SAPHON 1867),2658,,http://linguistics.berkeley.edu/~saphon/en/inv/CaribFrG.html
+9,0,6,,,1868,,{},1659,,Carib (SAPHON 1868),2039,,http://linguistics.berkeley.edu/~saphon/en/inv/CaribVen.html
+9,0,6,,,1869,,{},1659,,Carib (SAPHON 1869),2713,,http://linguistics.berkeley.edu/~saphon/en/inv/CaribESu.html
+16,0,12,,,116,,{},1659,,Carib (SPA 116),573,,https://archive.org/details/car_SPA1979_phon
+16,0,6,,,272,,{},1659,,CARIB (UPSID 272),2854,,http://web.phonetik.uni-frankfurt.de/L/L6807.html
+14,0,7,,,1870,,{},1214,,Carijona (SAPHON 1870),1408,,http://linguistics.berkeley.edu/~saphon/en/inv/Carijona.html
+15,0,6,,,2001,,{},501,,Cashibo-Cacataibo (SAPHON 2001),1087,,http://linguistics.berkeley.edu/~saphon/en/inv/Cashibo.html
+25,0,10,,,2555,,{},437,,Catalan (Central) (EA 2555),629,,http://eurphon.info/languages/html?lang_id=227
+25,0,10,,,2594,,{},437,,Catalan (Mallorcan) (EA 2594),502,,http://eurphon.info/languages/html?lang_id=443
+23,0,16,,,1138,,{},437,,Catalan (PH 1138),2166,,
+25,0,9,,,2425,,{},437,,Catalan (Southern Valencian) (EA 2425),1156,,http://eurphon.info/languages/html?lang_id=444
+20,0,4,,,854,,{},1662,,Cavinena (PH 854),2216,,
+20,0,4,,,2045,,{},1662,,Cavineña (SAPHON 2045),223,,http://linguistics.berkeley.edu/~saphon/en/inv/Cavinenya.html
+24,0,4,,,101,,{},1810,,Cayapa (SPA 101),2037,,https://archive.org/details/cbi_SPA1979_phon
+24,0,4,,,273,,{},1810,,CAYAPA (UPSID 273),991,,http://web.phonetik.uni-frankfurt.de/L/L6803.html
+17,0,16,,,1926,,{},1672,,Cayubaba (SAPHON 1926),2712,,http://linguistics.berkeley.edu/~saphon/en/inv/Cayubaba.html
+17,0,16,,,296,,{},1672,,CAYUVAVA (UPSID 296),1634,,http://web.phonetik.uni-frankfurt.de/L/L6840.html
+16,0,3,,,2430,,{},978,,Cebuano (EA 2430),1362,,http://eurphon.info/languages/html?lang_id=73
+18,0,3,,,1692,,{},978,,Cebuano (GM 1692),2803,,
+40,0,4,,,2706,,{},2164,,Central Arrernte (ER 2706),2449,,
+17,0,29,,,2597,,{},738,,Central Khmer (EA 2597),2585,,http://eurphon.info/languages/html?lang_id=126
+30,0,6,,,2208,,{},1600,,Central Sama (UZ 2208),821,,
+21,4,21,,,685,,{},1053,,cerma (AA 685),89,,https://archive.org/details/rosettaproject_cme_ortho-1
+15,0,3,,,2023,,{},1267,,Chachapoyas Quechua (SAPHON 2023),1463,,http://linguistics.berkeley.edu/~saphon/en/inv/ChachapoyasQ.html
+16,0,4,,,2002,,{},178,,Chácobo (SAPHON 2002),429,,http://linguistics.berkeley.edu/~saphon/en/inv/Chacobo.html
+17,0,4,,,121,,{},178,,Chacobo (SPA 121),352,,https://archive.org/details/cao_SPA1979_phon
+36,0,8,,,1461,,{},1950,,Chaha (GM 1461),781,,
+21,0,16,,,2136,,{},1848,,Chamacoco (SAPHON 2136),1163,,http://linguistics.berkeley.edu/~saphon/en/inv/Chamacoco.html
+19,0,10,,,855,,{},1941,,Chamicuro (PH 855),2596,,
+19,0,10,,,1816,,{},1941,,Chamicuro (SAPHON 1816),543,,http://linguistics.berkeley.edu/~saphon/en/inv/Chamicuro.html
+30,0,6,,,38,,{},556,,Chamorro (SPA 38),1203,,https://archive.org/details/cha_SPA1979_phon
+20,0,6,,,277,,{},556,,CHAMORRO (UPSID 277),1112,,http://web.phonetik.uni-frankfurt.de/L/L2416.html
+24,2,9,,,29,,{},1409,,Cham (SPA 29),2618,,https://archive.org/details/cja_SPA1979_phon
+21,0,11,,,282,,{},1409,,CHAM (UPSID 282),1932,,http://web.phonetik.uni-frankfurt.de/L/L2411.html
+34,0,8,,,1717,,{},1354,,Chandangs and Byangs (RA 1717),2073,,
+25,0,9,,,622,,{},285,,CHANGZHOU (UPSID 622),285,,http://web.phonetik.uni-frankfurt.de/L/L2503.html
+21,0,27,,,2356,,{},1407,,Chantyal (EA 2356),2862,,http://eurphon.info/languages/html?lang_id=263
+23,0,4,,,1854,,{},1810,,Cha'palaa (SAPHON 1854),2951,,http://linguistics.berkeley.edu/~saphon/en/inv/Chapalaa.html
+29,0,15,,,64,,{},542,,Chasta Costa (SPA 64),1648,,https://archive.org/details/tol_SPA1979_phon
+16,0,9,,,294,,{},1181,,CHATINO (UPSID 294),1998,,http://web.phonetik.uni-frankfurt.de/L/L6729.html
+32,0,12,,,856,,{},1233,,Chechen (PH 856),2715,,
+39,0,31,,,2549,,{},1233,,Chechen (Ploskost) (EA 2549),2889,,http://eurphon.info/languages/html?lang_id=17
+39,0,28,,,2276,,{},1233,,Chechen (Pẋarçxoy Äqqiy) (EA 2276),1033,,http://eurphon.info/languages/html?lang_id=411
+39,0,25,,,2512,,{},1233,,Chechen (Şaroy) (EA 2512),411,,http://eurphon.info/languages/html?lang_id=412
+39,0,25,,,2574,,{},1233,,Chechen (Ҫ̇äberloy) (EA 2574),660,,http://eurphon.info/languages/html?lang_id=413
+18,0,6,,,857,,{},1155,,Chepang (PH 857),610,,
+19,0,8,,,858,,{},1367,,Cheremis (PH 858),2092,,
+25,0,9,,,181,,{},1367,,Cheremis (SPA 181),1354,,https://archive.org/details/mhr_SPA1979_phon
+11,0,6,,,280,,{},1329,,CHEROKEE (UPSID 280),299,,http://web.phonetik.uni-frankfurt.de/L/L6781.html
+30,3,24,,,1068,,{},1293,,Che; Rukuba; Kuche; Bache; Inchazi; Sale (PH 1068),1919,,
+16,0,9,,,1230,,{},99,,Chickasaw (PH 1230),2078,,
+32,3,12,,,1115,,{},638,,Chilliwak Halkomelem (PH 1115),1503,,
+33,0,9,,,1082,,{},539,,Chimariko (PH 1082),1429,,
+31,0,5,,,1157,,{},2037,,Chimborazo Quichua (PH 1157),2336,,
+16,0,20,,,1894,,{},400,,Chimila (SAPHON 1894),2299,,http://linguistics.berkeley.edu/~saphon/en/inv/Chimila.html
+28,0,7,,,859,,{},934,,Chinanteco (PH 859),1900,,
+17,4,10,,,1471,,{},340,,Chindali (GM 1471),78,,
+21,6,21,,,2166,,{},683,,Chinese (UZ 2166),1978,,
+41,0,10,,,2126,,{},2000,,Chipaya (SAPHON 2126),2202,,http://linguistics.berkeley.edu/~saphon/en/inv/Chipaya.html
+39,4,18,,,63,,{},881,,Chipewyan (SPA 63),41,,https://archive.org/details/chp_SPA1979_phon
+38,0,14,,,278,,{},881,,CHIPEWYAN (UPSID 278),322,,http://web.phonetik.uni-frankfurt.de/L/L6106.html
+31,4,16,,,951,,{},1412,,Chiricahua Apache (PH 951),2785,,
+12,0,12,,,2077,,{},1277,,Chiriguano (SAPHON 2077),2441,,http://linguistics.berkeley.edu/~saphon/en/inv/ChiriguanoC.html
+12,0,12,,,2078,,{},1277,,Chiriguano (SAPHON 2078),2780,,http://linguistics.berkeley.edu/~saphon/en/inv/ChiriguanoI.html
+15,0,6,,,1071,,{},669,,Choctaw (PH 1071),1470,,
+34,0,5,,,1718,,{},324,,Chokri (RA 1718),2238,,
+15,0,5,,,1921,,{},1148,,Cholón (SAPHON 1921),108,,http://linguistics.berkeley.edu/~saphon/en/inv/Cholon.html
+21,0,19,,,910,,{},1942,,Chong (PH 910),2502,,
+21,0,8,,,1907,,{},1033,,Chon (SAPHON 1907),2492,,http://linguistics.berkeley.edu/~saphon/en/inv/Ona.html
+25,0,12,,,85,,{},1298,,Chontal (SPA 85),792,,https://archive.org/details/chf_SPA1979_phon
+40,2,5,,,1586,,{},1476,,Chonyi (GM 1586),340,,
+16,0,5,,,1981,,{},1100,,Chorote (SAPHON 1981),1650,,http://linguistics.berkeley.edu/~saphon/en/inv/Chorote.html
+20,0,13,,,861,,{},895,,Chrau (PH 861),1091,,
+12,0,5,,,284,,{},258,,CHUAVE (UPSID 284),194,,http://web.phonetik.uni-frankfurt.de/L/L8611.html
+14,0,6,,,2362,,{},1821,,Chukchi (EA 2362),669,,http://eurphon.info/languages/html?lang_id=191
+15,0,7,,,195,,{},1821,,Chukchi (SPA 195),1952,,https://archive.org/details/ckt_SPA1979_phon
+15,0,7,,,285,,{},1821,,CHUKCHI (UPSID 285),967,,http://web.phonetik.uni-frankfurt.de/L/L2708.html
+22,0,6,,,1983,,{},857,,Chulupí (SAPHON 1983),2034,,http://linguistics.berkeley.edu/~saphon/en/inv/Chulupi.html
+21,0,9,,,686,,{},1764,,chumburung (AA 686),1621,,https://archive.org/details/rosettaproject_ncu_ortho-1
+30,0,9,,,189,,{},2082,,Chuvash (SPA 189),791,,https://archive.org/details/chv_SPA1979_phon
+21,0,9,,,281,,{},2082,,CHUVASH (UPSID 281),645,,http://web.phonetik.uni-frankfurt.de/L/L2160.html
+19,7,10,,,1289,,{},1117,,cilungu (GM 1289),700,,
+19,0,8,,,2222,,{},945,,Cocos Malay (UZ 2222),2691,,
+40,0,8,,,863,,{},360,,Coeur d''Alene' (PH 863),1878,,
+27,0,10,,,1895,,{},1089,,Cofán (SAPHON 1895),3004,,http://linguistics.berkeley.edu/~saphon/en/inv/Cofan.html
+30,0,5,,,289,,{},1089,,COFAN (UPSID 289),2332,,http://web.phonetik.uni-frankfurt.de/L/L6836.html
+16,0,9,,,1222,,{},855,,Colorado; Tsafiki (PH 1222),943,,
+12,0,6,,,864,,{},760,,Comanche (PH 864),2276,,
+32,2,5,,,1547,,{},2178,,"Comorian, Ndzwani (GM 1547)",488,,
+37,0,5,,,1107,,{},1757,,Comox (PH 1107),2520,,
+61,2,5,,,1318,,{},806,,Copi (GM 1318),1049,,
+25,0,11,,,1139,,{},812,,Croatian (PH 1139),2288,,
+10,3,10,,,1238,,{},1516,,Crow (PH 1238),181,,
+11,0,12,,,295,,{},1446,,CUBEO (UPSID 295),2831,,http://web.phonetik.uni-frankfurt.de/L/L6846.html
+17,0,8,,,1910,,{},1378,,Cuiba (SAPHON 1910),982,,http://linguistics.berkeley.edu/~saphon/en/inv/Cuiba.html
+16,0,5,,,435,,{},1867,,CUNA (UPSID 435),1683,,http://web.phonetik.uni-frankfurt.de/L/L6857.html
+27,0,11,,,865,,{},432,,Cupeno (PH 865),2896,,
+25,0,4,,,1817,,{},856,,Curripaco (SAPHON 1817),2697,,http://linguistics.berkeley.edu/~saphon/en/inv/Curripaco.html
+27,0,2,,,866,,{},1286,,Cuvok (PH 866),2598,,
+26,0,5,,,2024,,{},1200,,Cuzco-Collao Quechua (SAPHON 2024),3005,,http://linguistics.berkeley.edu/~saphon/en/inv/CuzcoCollaoQ.html
+25,3,10,,,1499,,{},1448,,Cwaya (GM 1499),1951,,
+27,0,13,,,2274,,{},1795,,Czech (Bohemian) (EA 2274),2337,,http://eurphon.info/languages/html?lang_id=152
+27,0,13,,,2480,,{},1795,,Czech (Moravian) (EA 2480),2264,,http://eurphon.info/languages/html?lang_id=414
+25,0,13,,,1140,,{},1795,,Czech (PH 1140),528,,
+36,5,6,,,687,,{},68,,daba (AA 687),1430,,https://archive.org/details/rosettaproject_dbq_ortho-1
+36,4,6,,,1576,,{},68,,Daba (GM 1576),1535,,
+13,0,10,,,468,,{},2108,,DADIBI (UPSID 468),320,,http://web.phonetik.uni-frankfurt.de/L/L8616.html
+16,2,9,,,21,,{},1828,,Dafla (SPA 21),3000,,https://archive.org/details/dap_SPA1979_phon
+15,0,9,,,302,,{},1828,,DAFLA (UPSID 302),2040,,http://web.phonetik.uni-frankfurt.de/L/L2508.html
+24,3,27,,,688,,{},997,,dagaare (AA 688),2399,,https://archive.org/details/rosettaproject_dga_ortho-1
+29,3,9,,,689,,{},2031,,dagara (AA 689),2289,,https://archive.org/details/rosettaproject_dgi_ortho-1
+23,2,6,,,690,,{},505,,dagbani (AA 690),2540,,https://archive.org/details/rosettaproject_dag_ortho-1
+24,2,11,,,139,,{},505,,Dagbani (SPA 139),1393,,https://archive.org/details/dag_SPA1979_phon
+23,0,6,,,299,,{},505,,DAGBANI (UPSID 299),1044,,http://web.phonetik.uni-frankfurt.de/L/L4110.html
+22,0,7,,,312,,{},1048,,DAGUR (UPSID 312),599,,http://web.phonetik.uni-frankfurt.de/L/L2176.html
+54,0,5,,,301,,{},1455,,DAHALO (UPSID 301),72,,http://web.phonetik.uni-frankfurt.de/L/L4372.html
+24,0,6,,,300,,{},459,,DAJU (UPSID 300),1063,,http://web.phonetik.uni-frankfurt.de/L/L4225.html
+27,0,9,,,75,,{},2145,,Dakota (SPA 75),2016,,https://archive.org/details/lkt_SPA1979_phon
+28,0,8,,,445,,{},2145,,DAKOTA (UPSID 445),628,,http://web.phonetik.uni-frankfurt.de/L/L6756.html
+23,0,6,,,2652,,{},558,,Dalabon (ER 2652),482,,
+20,0,7,,,1898,,{},1228,,Damana (SAPHON 1898),2768,,http://linguistics.berkeley.edu/~saphon/en/inv/Damana.html
+20,5,23,,,691,,{},1243,,dan (AA 691),131,,https://archive.org/details/rosettaproject_daf_ortho-1
+21,0,7,,,297,,{},515,,DANGALEAT (UPSID 297),656,,http://web.phonetik.uni-frankfurt.de/L/L4374.html
+44,8,40,,,1393,,{},1243,,Dan (GM 1393),1223,,
+23,4,12,,,692,,{},1676,,dangme (AA 692),2023,,https://archive.org/details/rosettaproject_ada_ortho-1
+15,0,11,,,2265,,{},2161,,Danish (EA 2265),2271,,http://eurphon.info/languages/html?lang_id=234
+20,0,49,,,2167,,{},2161,,Danish (UZ 2167),1566,,
+12,0,12,,,308,,{},1832,,DANI (UPSID 308),614,,http://web.phonetik.uni-frankfurt.de/L/L8613.html
+19,0,20,,,298,,{},1243,,DAN (UPSID 298),2825,,http://web.phonetik.uni-frankfurt.de/L/L4106.html
+20,0,19,,,2256,,{},870,,Darkhat (EA 2256),2129,,http://eurphon.info/languages/html?lang_id=302
+15,0,3,,,2984,,{},1182,,Darkinyung (ER 2984),548,,
+26,0,8,,,2383,,{},15,,Darma (EA 2383),895,,http://eurphon.info/languages/html?lang_id=82
+34,0,8,,,1719,,{},15,,Darmiya (RA 1719),1832,,
+20,0,3,,,2774,,{},2084,,Daungwurrung (ER 2774),994,,
+45,0,12,,,2312,,{},1048,,Daur (EA 2312),915,,http://eurphon.info/languages/html?lang_id=221
+24,0,15,,,1990,,{},1253,,Dâw (SAPHON 1990),1608,,http://linguistics.berkeley.edu/~saphon/en/inv/Daw.html
+21,0,11,,,693,,{},524,,daza (AA 693),14,,https://archive.org/details/rosettaproject_dzg_ortho-1
+18,5,19,,,1385,,{},1083,,Defaka (GM 1385),2183,,
+24,2,10,,,1452,,{},1761,,Degema (GM 1452),1090,,
+22,0,17,,,73,,{},3,,Delaware (SPA 73),2232,,https://archive.org/details/unm_SPA1979_phon
+18,0,4,,,1845,,{},1643,,Dení (SAPHON 1845),1658,,http://linguistics.berkeley.edu/~saphon/en/inv/Deni.html
+37,0,28,,,2415,,{},1806,,Denjongka (EA 2415),501,,http://eurphon.info/languages/html?lang_id=47
+22,0,8,,,867,,{},187,,Denya (PH 867),1800,,
+11,0,6,,,395,,{},37,,DERA (UPSID 395),2363,,http://web.phonetik.uni-frankfurt.de/L/L8619.html
+12,0,6,,,2052,,{},1385,,Desano (SAPHON 2052),2161,,http://linguistics.berkeley.edu/~saphon/en/inv/Desano.html
+33,2,3,,,1299,,{},1629,,Dghwede (GM 1299),981,,
+34,0,5,,,868,,{},682,,Dhangar (PH 868),927,,
+20,0,6,,,2971,,{},119,,Dhangu (ER 2971),2471,,
+14,0,3,,,2812,,{},604,,Dharawala (ER 2812),979,,
+19,0,6,,,2993,,{},1503,,Dharawal (ER 2993),391,,
+16,0,3,,,2985,,{},1674,,Dharuk (ER 2985),2756,,
+19,0,6,,,2994,,{},1503,,Dharumba (ER 2994),2022,,
+18,0,3,,,2813,,{},940,,Dharumbal (ER 2813),728,,
+20,0,6,,,2973,,{},1842,,Dhay'yi (ER 2973),2239,,
+31,0,22,,,2463,,{},882,,Dhimal (EA 2463),1469,,http://eurphon.info/languages/html?lang_id=204
+27,0,12,,,2315,,{},1998,,Dhivehi (Malé) (EA 2315),122,,http://eurphon.info/languages/html?lang_id=241
+26,3,9,,,694,,{},303,,dholuo (AA 694),1443,,
+15,0,6,,,2727,,{},828,,Dhudhuroa (ER 2727),73,,
+19,0,6,,,2995,,{},1495,,Dhurga (ER 2995),1185,,
+27,3,27,,,695,,{},4,,dida (AA 695),1188,,
+24,0,14,,,1720,,{},1924,,Didayi (RA 1720),300,,
+36,4,18,,,1431,,{},1525,,Didinga (GM 1431),2820,,
+25,0,9,,,306,,{},2169,,DIEGUENO (UPSID 306),779,,http://web.phonetik.uni-frankfurt.de/L/L6743.html
+41,2,5,,,1587,,{},1972,,Digo (GM 1587),424,,
+36,0,6,,,2590,,{},602,,Digor Ossetic (EA 2590),755,,http://eurphon.info/languages/html?lang_id=297
+25,0,9,,,90,,{},2169,,Digueno (SPA 90),259,,https://archive.org/details/dih_SPA1979_phon
+53,2,18,,,1440,,{},195,,Dime (GM 1440),2081,,
+30,0,14,,,1109,,{},1501,,Dimili (PH 1109),959,,
+27,0,14,,,2421,,{},419,,Dingri Tibetan (EA 2421),2415,,http://eurphon.info/languages/html?lang_id=251
+20,3,26,,,1398,,{},1460,,Dinka (GM 1398),2172,,
+20,3,37,,,1309,,{},1617,,"Dinka, South Central (GM 1309)",734,,
+19,0,13,,,307,,{},176,,DINKA (UPSID 307),2403,,http://web.phonetik.uni-frankfurt.de/L/L4226.html
+19,0,10,,,315,,{},1280,,DIOLA (UPSID 315),1717,,http://web.phonetik.uni-frankfurt.de/L/L4108.html
+23,2,14,,,696,,{},1138,,dioula (AA 696),521,,https://archive.org/details/rosettaproject_dyu_ortho-1
+23,0,5,,,1271,,{},672,,diriku (GM 1271),1194,,
+17,3,12,,,697,,{},510,,ditammari (AA 697),127,,https://archive.org/details/rosettaproject_tbz_ortho-1
+22,0,3,,,2749,,{},145,,Diyari (ER 2749),193,,
+22,0,3,,,305,,{},145,,DIYARI (UPSID 305),2282,,http://web.phonetik.uni-frankfurt.de/L/L8367.html
+24,0,6,,,457,,{},1901,,DIZI (UPSID 457),727,,http://web.phonetik.uni-frankfurt.de/L/L4363.html
+13,0,6,,,2890,,{},325,,Djabugay (ER 2890),1383,,
+17,0,4,,,2785,,{},1553,,Djabwurung (ER 2785),1304,,
+25,0,6,,,2974,,{},1335,,Djambarrpuyngu (ER 2974),96,,
+13,0,3,,,2893,,{},872,,Djangun (ER 2893),1776,,
+19,0,6,,,2992,,{},493,,Djapu (ER 2992),255,,
+22,0,3,,,2976,,{},1630,,Djinang (ER 2976),1211,,
+22,0,3,,,2977,,{},1046,,Djinba (ER 2977),2459,,
+13,0,6,,,2729,,{},169,,Djindewal (ER 2729),2816,,
+19,0,6,,,2996,,{},1846,,Djirringany (ER 2996),403,,
+22,4,22,,,698,,{},365,,doayo (AA 698),805,,https://archive.org/details/rosettaproject_dow_ortho-1
+22,0,12,,,310,,{},365,,DOAYO (UPSID 310),2368,,http://web.phonetik.uni-frankfurt.de/L/L4128.html
+19,0,5,,,981,,{},1102,,Dobu (PH 981),2340,,
+21,0,21,,,699,,{},2092,,dogon (AA 699),1633,,
+16,0,12,,,313,,{},2092,,DOGON (UPSID 313),618,,http://web.phonetik.uni-frankfurt.de/L/L4170.html
+24,0,12,,,2388,,{},1332,,Dolakha Newar (EA 2388),1119,,http://eurphon.info/languages/html?lang_id=174
+22,0,20,,,2255,,{},526,,Dolgan (EA 2255),2810,,http://eurphon.info/languages/html?lang_id=207
+33,0,12,,,2530,,{},758,,Domari (Palestinian) (EA 2530),2940,,http://eurphon.info/languages/html?lang_id=186
+22,2,7,,,1495,,{},1918,,Dompo (GM 1495),183,,
+49,0,29,,,2591,,{},1682,,Dongwang Tibetan (EA 2591),76,,http://eurphon.info/languages/html?lang_id=254
+28,0,6,,,2477,,{},1002,,Dongxiang (EA 2477),1721,,http://eurphon.info/languages/html?lang_id=295
+29,0,13,,,2411,,{},419,,Drokpa Tibetan (Zhongba) (EA 2411),2905,,http://eurphon.info/languages/html?lang_id=294
+21,5,7,,,700,,{},911,,duala (AA 700),2489,,
+15,0,6,,,2253,,{},486,,Dupaningan Agta (EA 2253),1237,,http://eurphon.info/languages/html?lang_id=193
+15,0,5,,,1085,,{},486,,Dupaningan Agta; Eastern Cagayan Agta; Dupaninan Agta (PH 1085),714,,
+42,2,5,,,701,,{},898,,duruma (AA 701),1659,,https://archive.org/details/rosettaproject_dug_ortho-1
+40,2,5,,,1588,,{},898,,Duruma (GM 1588),350,,
+18,0,25,,,2405,,{},1436,,Dutch (EA 2405),1320,,http://eurphon.info/languages/html?lang_id=217
+24,0,15,,,1050,,{},1436,,Dutch (PH 1050),2112,,
+22,0,15,,,2169,,{},1436,,Dutch (UZ 2169),1546,,
+22,1,33,,,2170,,{},1436,,Dutch (UZ 2170),1915,,
+25,1,25,,,2171,,{},1436,,Dutch (UZ 2171),339,,
+24,0,30,,,2172,,{},1436,,Dutch (UZ 2172),1889,,
+22,0,36,,,2173,,{},1436,,Dutch (UZ 2173),2710,,
+24,0,33,,,2174,,{},1436,,Dutch (UZ 2174),306,,
+13,0,10,,,2943,,{},1464,,Duungidjawu (ER 2943),1048,,
+13,0,3,,,2732,,{},1251,,Dyirbal (ER 2732),1556,,
+13,0,3,,,303,,{},1251,,DYIRBAL (UPSID 303),1505,,http://web.phonetik.uni-frankfurt.de/L/L8371.html
+32,0,26,,,2394,,{},1824,,Dzongkha (EA 2394),2042,,http://eurphon.info/languages/html?lang_id=139
+26,3,26,,,1468,,{},1864,,Dzuungoo (GM 1468),1560,,
+17,0,4,,,2782,,{},841,,East Djadjawurung (ER 2782),2008,,
+40,0,4,,,2703,,{},2007,,Eastern Anmatyerre (ER 2703),1699,,
+40,0,4,,,2708,,{},1718,,Eastern Arrernte (ER 2708),341,,
+35,0,19,,,2498,,{},736,,Eastern Hill Balochi (EA 2498),1758,,http://eurphon.info/languages/html?lang_id=243
+18,0,13,,,1137,,{},761,,Eastern Khanty (PH 1137),1399,,
+18,0,12,,,2434,,{},612,,Eastern Khanty (Vakh) (EA 2434),2180,,http://eurphon.info/languages/html?lang_id=89
+22,0,9,,,2413,,{},1367,,Eastern Mari (EA 2413),2771,,http://eurphon.info/languages/html?lang_id=123
+19,0,6,,,2947,,{},836,,Eastern Wakaya (ER 2947),2038,,
+24,0,13,,,2399,,{},1545,,Eastern Yiddish (Central) (EA 2399),1770,,http://eurphon.info/languages/html?lang_id=314
+28,0,14,,,2242,,{},163,,Eastern Yugur (EA 2242),1923,,http://eurphon.info/languages/html?lang_id=240
+19,0,5,,,1037,,{},2003,,East Makian (PH 1037),1893,,
+19,3,9,,,702,,{},1720,,ebira (AA 702),461,,https://archive.org/details/rosettaproject_igb_ortho-1
+17,2,10,,,1646,,{},918,,Eciruuri (GM 1646),963,,
+25,2,21,,,704,,{},1027,,ẹdo (AA 704),1543,,https://archive.org/details/rosettaproject_bin_ortho-1
+27,3,12,,,703,,{},82,,eʋe (AA 703),2516,,
+13,0,7,,,316,,{},217,,EFIK (UPSID 316),2913,,http://web.phonetik.uni-frankfurt.de/L/L4119.html
+30,2,18,,,1523,,{},237,,Efutu (GM 1523),2171,,
+27,3,9,,,1233,,{},330,,Ega (PH 1233),2747,,
+30,5,7,,,873,,{},563,,Eggon (PH 873),29,,
+58,0,9,,,132,,{},1570,,Egyptian Arabic (SPA 132),2939,,https://archive.org/details/arz_SPA1979_phon
+21,4,7,,,706,,{},1424,,ejagham de l'ouest (AA 706),2253,,https://archive.org/details/rosettaproject_etu_ortho-1
+19,3,7,,,1654,,{},1424,,Ejagham (GM 1654),1379,,
+20,0,7,,,320,,{},1424,,EJAGHAM (UPSID 320),1740,,http://web.phonetik.uni-frankfurt.de/L/L4125.html
+10,0,5,,,317,,{},817,,EKARI (UPSID 317),2819,,http://web.phonetik.uni-frankfurt.de/L/L8650.html
+24,4,9,,,874,,{},586,,Ekpeye (PH 874),1962,,
+37,0,50,,,2473,,{},1013,,Elfdalian (EA 2473),2722,,http://eurphon.info/languages/html?lang_id=93
+41,3,7,,,1300,,{},1231,,Eloyi (GM 1300),1897,,
+27,0,21,,,707,,{},713,,emai (AA 707),1595,,
+21,0,12,,,1901,,{},2005,,Emberá-Baudó (SAPHON 1901),2904,,http://linguistics.berkeley.edu/~saphon/en/inv/EmberaBaudo.html
+19,0,12,,,1902,,{},1721,,Emberá-Catío (SAPHON 1902),603,,http://linguistics.berkeley.edu/~saphon/en/inv/EmberaCatio.html
+16,0,12,,,1903,,{},63,,Emberá-Chamí (SAPHON 1903),1262,,http://linguistics.berkeley.edu/~saphon/en/inv/EmberaChami.html
+16,0,14,,,2079,,{},942,,Emerillon (SAPHON 2079),729,,http://linguistics.berkeley.edu/~saphon/en/inv/Emerillon.html
+27,0,5,,,2641,,{},551,,Emmi (ER 2641),1041,,
+13,0,12,,,1818,,{},1762,,Enawené-Nawé (SAPHON 1818),263,,http://linguistics.berkeley.edu/~saphon/en/inv/EnaweneNawe.html
+39,0,6,,,1466,,{},525,,Endegen (GM 1466),1213,,
+13,3,20,,,875,,{},1576,,Endo (PH 875),594,,
+39,0,6,,,1467,,{},525,,Ener (GM 1467),1359,,
+20,3,10,,,708,,{},2119,,engenni (AA 708),1022,,https://archive.org/details/rosettaproject_enn_ortho-1
+24,0,15,,,2175,,{},311,,English (American) (UZ 2175),2921,,
+25,0,19,,,2177,,{},311,,English (Australian) (UZ 2177),692,,
+24,1,16,,,2178,,{},311,,English (British) (UZ 2178),2741,,
+24,0,15,,,2180,,{},311,,English (British) (UZ 2180),1796,,
+24,0,16,,,2515,,{},311,,English (Liverpool) (EA 2515),2480,,http://eurphon.info/languages/html?lang_id=441
+24,0,21,,,2179,,{},311,,English (New Zealand) (UZ 2179),2451,,
+24,0,20,,,2252,,{},311,,English (RP) (EA 2252),831,,http://eurphon.info/languages/html?lang_id=181
+27,0,13,,,160,,{},311,,English (SPA 160),485,,https://archive.org/details/eng_SPA1979_phon
+40,0,7,,,1465,,{},525,,Ennemor (GM 1465),242,,
+16,0,3,,,2986,,{},1674,,Eora (ER 2986),2207,,
+17,0,14,,,546,,{},1347,,EPENA PEDEE (UPSID 546),1035,,http://web.phonetik.uni-frankfurt.de/L/L6811.html
+17,0,21,,,1905,,{},1347,,Epena (SAPHON 1905),2061,,http://linguistics.berkeley.edu/~saphon/en/inv/Epena.html
+18,0,5,,,2648,,{},1419,,Erre (ER 2648),1839,,
+54,0,6,,,2533,,{},1063,,Ersu (EA 2533),988,,http://eurphon.info/languages/html?lang_id=70
+29,0,6,,,2616,,{},784,,Erzya (Standard) (EA 2616),633,,http://eurphon.info/languages/html?lang_id=116
+18,0,4,,,2047,,{},952,,Ese Eja (SAPHON 2047),2514,,http://linguistics.berkeley.edu/~saphon/en/inv/EseEja.html
+17,0,4,,,2046,,{},952,,Ese Ejja (SAPHON 2046),914,,http://linguistics.berkeley.edu/~saphon/en/inv/EseEjja.html
+29,0,8,,,876,,{},1588,,Esimbi (PH 876),2997,,
+17,0,9,,,2248,,{},1656,,Estonian (Standard) (EA 2248),177,,http://eurphon.info/languages/html?lang_id=138
+45,0,9,,,2181,,{},1656,,Estonian (UZ 2181),996,,
+21,2,15,,,1563,,{},2045,,Eton (GM 1563),1736,,
+26,3,7,,,1110,,{},937,,Etsako (PH 1110),2345,,
+38,0,11,,,1074,,{},1781,,Euchee; Yuchi (PH 1074),1294,,
+18,0,11,,,2238,,{},578,,Evenki (UZ 2238),2111,,
+18,0,18,,,2288,,{},1305,,Even (Ola) (EA 2288),1259,,http://eurphon.info/languages/html?lang_id=30
+18,0,18,,,192,,{},1305,,Even (SPA 192),221,,https://archive.org/details/eve_SPA1979_phon
+17,0,10,,,322,,{},1305,,EVEN (UPSID 322),1432,,http://web.phonetik.uni-frankfurt.de/L/L2167.html
+28,3,14,,,142,,{},82,,Ewe (SPA 142),48,,https://archive.org/details/ewe_SPA1979_phon
+26,0,14,,,323,,{},82,,EWE (UPSID 323),956,,http://web.phonetik.uni-frankfurt.de/L/L4114.html
+15,3,7,,,709,,{},533,,ewondo (AA 709),1191,,https://archive.org/details/rosettaproject_ewo_ortho-1
+26,0,8,,,324,,{},533,,EWONDO (UPSID 324),2,,http://web.phonetik.uni-frankfurt.de/L/L4141.html
+32,0,13,,,325,,{},671,,EYAK (UPSID 325),1331,,http://web.phonetik.uni-frankfurt.de/L/L6109.html
+27,2,9,,,705,,{},929,,ẹzaa (AA 705),1455,,
+33,0,6,,,1460,,{},854,,Ezha (GM 1460),214,,
+12,0,8,,,974,,{},845,,Faiwol (PH 974),819,,
+23,3,10,,,1621,,{},567,,Fang (GM 1621),1067,,
+25,0,16,,,877,,{},727,,Fan (PH 877),750,,
+16,0,20,,,2378,,{},1803,,Faroese (EA 2378),250,,http://eurphon.info/languages/html?lang_id=151
+23,0,6,,,2520,,{},1125,,Farsi (EA 2520),1296,,http://eurphon.info/languages/html?lang_id=255
+24,0,6,,,516,,{},1125,,FARSI (UPSID 516),1726,,http://web.phonetik.uni-frankfurt.de/L/L2013.html
+11,0,10,,,326,,{},212,,FASU (UPSID 326),2413,,http://web.phonetik.uni-frankfurt.de/L/L8617.html
+23,5,16,,,710,,{},2040,,fe'efe'fe (AA 710),450,,https://archive.org/details/rosettaproject_fmp_ortho-1
+17,0,8,,,330,,{},2040,,FE?FE? (UPSID 330),2019,,http://web.phonetik.uni-frankfurt.de/L/L4148.html
+16,0,3,,,2025,,{},1297,,Ferreñafe Quechua (SAPHON 2025),1510,,http://linguistics.berkeley.edu/~saphon/en/inv/FerrenafeQ.html
+19,0,11,,,328,,{},331,,FIJIAN (UPSID 328),2554,,http://web.phonetik.uni-frankfurt.de/L/L2439.html
+17,0,10,,,1212,,{},1984,,Filipino (PH 1212),2865,,
+25,0,17,,,180,,{},1675,,Finnish (SPA 180),749,,https://archive.org/details/fin_SPA1979_phon
+15,0,8,,,2535,,{},1675,,Finnish (Standard) (EA 2535),1783,,http://eurphon.info/languages/html?lang_id=27
+17,0,8,,,329,,{},1675,,FINNISH (UPSID 329),1406,,http://web.phonetik.uni-frankfurt.de/L/L2153.html
+20,1,14,,,1659,,{},91,,Fipa (GM 1659),1539,,
+24,4,14,,,711,,{},681,,fɔn (AA 711),3008,,https://archive.org/details/rosettaproject_fon_ortho-1
+23,3,18,,,1310,,{},1339,,Foodo (GM 1310),2281,,
+25,0,8,,,2469,,{},1831,,Forest Enets (EA 2469),173,,http://eurphon.info/languages/html?lang_id=129
+25,0,13,,,2450,,{},1499,,Forest Nenets (EA 2450),1311,,http://eurphon.info/languages/html?lang_id=119
+20,2,8,,,1325,,{},483,,Frafra (GM 1325),43,,
+20,0,14,,,2269,,{},50,,French (EA 2269),2077,,http://eurphon.info/languages/html?lang_id=81
+23,0,17,,,162,,{},50,,French (SPA 162),2805,,https://archive.org/details/fra_SPA1979_phon
+21,0,16,,,331,,{},50,,FRENCH (UPSID 331),1571,,http://web.phonetik.uni-frankfurt.de/L/L2010.html
+21,0,15,,,2182,,{},50,,French (UZ 2182),1343,,
+23,0,19,,,1111,,{},327,,Frisian (PH 1111),1628,,
+19,0,32,,,2470,,{},1274,,Frisian (West) (EA 2470),1492,,http://eurphon.info/languages/html?lang_id=38
+25,0,14,,,2334,,{},748,,Friulian (EA 2334),382,,http://eurphon.info/languages/html?lang_id=198
+25,0,14,,,1231,,{},748,,Friulian (PH 1231),2124,,
+28,0,10,,,1301,,{},632,,Fula (Nigeria) (GM 1301),699,,
+24,0,10,,,712,,{},307,,fulfulde (AA 712),118,,
+27,0,10,,,713,,{},1923,,fulfulde (AA 713),46,,
+27,0,10,,,714,,{},1514,,fulfulde (AA 714),2445,,https://archive.org/details/rosettaproject_ffm_ortho-1
+27,0,5,,,715,,{},1174,,fulfulde (AA 715),1804,,
+37,0,10,,,1241,,{},307,,Fulfulde (Cameroon) (GM 1241),2670,,
+29,0,10,,,1253,,{},307,,fulfulde (fuunaangere) (GM 1253),1544,,
+47,0,10,,,1254,,{},632,,fulfulde (NGA) (GM 1254),1675,,
+24,2,10,,,1651,,{},803,,Fuliiru (GM 1651),2610,,
+25,0,10,,,716,,{},803,,fuliru (AA 716),1216,,https://archive.org/details/rosettaproject_flr_ortho-1
+31,0,10,,,878,,{},927,,Furu (PH 878),1212,,
+19,0,11,,,333,,{},461,,FUR (UPSID 333),2893,,http://web.phonetik.uni-frankfurt.de/L/L4203.html
+14,0,7,,,276,,{},1957,,FUZHOU (UPSID 276),2387,,http://web.phonetik.uni-frankfurt.de/L/L2505.html
+50,0,10,,,852,,{},18,,Fwe (PH 852),604,,
+24,2,12,,,717,,{},759,,ga (AA 717),479,,https://archive.org/details/rosettaproject_gaa_ortho-1
+17,0,10,,,2653,,{},1141,,Gaagudju (ER 2653),2604,,
+34,3,12,,,1616,,{},1632,,Gaahmg (GM 1616),2640,,
+15,0,3,,,2801,,{},1616,,Gabalbara (ER 2801),2277,,
+13,0,6,,,2941,,{},1370,,Gabi-Gabi (ER 2941),657,,
+19,0,20,,,2543,,{},1543,,Gadaba (EA 2543),1605,,http://eurphon.info/languages/html?lang_id=187
+31,0,19,,,1721,,{},1493,,Gade-Lohar (RA 1721),134,,
+9,4,6,,,56,,{},368,,Gadsup (SPA 56),1249,,https://archive.org/details/gaj_SPA1979
+9,0,6,,,336,,{},368,,GADSUP (UPSID 336),1834,,http://web.phonetik.uni-frankfurt.de/L/L8608.html
+28,0,18,,,2331,,{},363,,Gagauz (Standard) (EA 2331),1356,,http://eurphon.info/languages/html?lang_id=272
+20,0,6,,,2835,,{},2076,,Galaagu (ER 2835),1813,,
+23,0,7,,,2619,,{},153,,Galician (EA 2619),1303,,http://eurphon.info/languages/html?lang_id=180
+21,0,7,,,1141,,{},153,,Galician (PH 1141),1720,,
+32,3,22,,,1348,,{},1727,,Galke (GM 1348),1281,,
+26,0,10,,,1362,,{},873,,Galla (GM 1362),2208,,
+17,0,12,,,1722,,{},924,,Gallong (RA 1722),1151,,
+20,0,5,,,3008,,{},434,,Gambera (ER 3008),310,,
+15,0,6,,,2719,,{},162,,Gamilaraay (ER 2719),534,,
+26,0,10,,,1481,,{},1073,,Gamo (GM 1481),1652,,
+18,0,6,,,3001,,{},177,,Gangalidda (ER 3001),531,,
+22,3,14,,,718,,{},36,,gangam (AA 718),138,,https://archive.org/details/rosettaproject_gng_ortho-1
+16,0,6,,,2802,,{},1616,,Gangulu (ER 2802),2663,,
+15,0,3,,,2803,,{},1616,,Ganulu (ER 2803),2325,,
+17,0,3,,,879,,{},618,,Garadjari (PH 879),2884,,
+19,0,3,,,337,,{},926,,GARAWA (UPSID 337),1879,,http://web.phonetik.uni-frankfurt.de/L/L8345.html
+21,0,3,,,2670,,{},280,,Garig (ER 2670),1283,,
+15,0,3,,,2804,,{},213,,Garingbal (ER 2804),721,,
+18,0,3,,,2767,,{},1692,,Garlali (ER 2767),188,,
+16,0,5,,,1723,,{},1237,,Garo (RA 1723),1660,,
+21,0,5,,,24,,{},1237,,Garo (SPA 24),42,,https://archive.org/details/grt_SPA1979_phon
+14,0,3,,,2645,,{},926,,Garrwa (ER 2645),787,,
+32,3,12,,,141,,{},759,,Ga (SPA 141),1427,,https://archive.org/details/gaa_SPA1979_phon
+29,0,12,,,335,,{},759,,GA (UPSID 335),871,,http://web.phonetik.uni-frankfurt.de/L/L4117.html
+47,3,5,,,1577,,{},1748,,Gavar (GM 1577),2467,,
+19,0,10,,,2080,,{},375,,Gavião do Jiparaná (SAPHON 2080),2192,,http://linguistics.berkeley.edu/~saphon/en/inv/GaviaoJ.html
+11,0,10,,,1958,,{},963,,Gavião do Pará (SAPHON 1958),1937,,http://linguistics.berkeley.edu/~saphon/en/inv/GaviaoP.html
+19,0,8,,,1052,,{},497,,Gayo (PH 1052),2195,,
+20,4,12,,,1562,,{},1154,,Gban (GM 1562),1061,,
+24,0,7,,,880,,{},902,,Gbari (PH 880),726,,
+30,4,19,,,719,,{},943,,gbaya (AA 719),2968,,
+29,4,12,,,720,,{},1003,,gbaya (AA 720),1793,,
+31,3,13,,,1282,,{},1790,,gbesi (GM 1282),2975,,
+31,2,12,,,148,,{},1003,,Gbeya (SPA 148),1301,,https://archive.org/details/gbp_SPA1979_phon
+31,0,12,,,338,,{},1003,,GBEYA (UPSID 338),1515,,http://web.phonetik.uni-frankfurt.de/L/L4129.html
+29,0,22,,,1302,,{},2068,,Gechode (GM 1302),2985,,
+31,0,12,,,340,,{},1288,,GELAO (UPSID 340),269,,http://web.phonetik.uni-frankfurt.de/L/L2436.html
+27,3,14,,,721,,{},422,,gɛn-mina (AA 721),925,,https://archive.org/details/rosettaproject_gej_ortho-1
+25,3,12,,,722,,{},422,,gɛn-mina (AA 722),1079,,
+31,0,22,,,1303,,{},1872,,Genyanga (GM 1303),114,,
+28,0,5,,,2428,,{},14,,Georgian (EA 2428),969,,http://eurphon.info/languages/html?lang_id=182
+29,0,6,,,5,,{},14,,Georgian (SPA 5),2612,,https://archive.org/details/kat_SPA1979_phon
+28,0,6,,,390,,{},14,,GEORGIAN (UPSID 390),387,,http://web.phonetik.uni-frankfurt.de/L/L2600.html
+28,0,5,,,2183,,{},14,,georgian (UZ 2183),107,,
+23,0,16,,,161,,{},246,,German (SPA 161),1965,,https://archive.org/details/deu_SPA1979_phon
+24,0,16,,,2398,,{},246,,German (Standard) (EA 2398),807,,http://eurphon.info/languages/html?lang_id=212
+22,0,19,,,304,,{},246,,GERMAN (UPSID 304),702,,http://web.phonetik.uni-frankfurt.de/L/L2004.html
+21,0,19,,,2184,,{},246,,German (UZ 2184),1533,,
+27,0,16,,,2358,,{},1756,,Gheg Albanian (North-Eastern) (EA 2358),1819,,http://eurphon.info/languages/html?lang_id=61
+13,0,8,,,2713,,{},290,,Gidabal (ER 2713),1961,,
+34,0,10,,,194,,{},1549,,Gilyak (SPA 194),2574,,https://archive.org/details/niv_SPA1979_phon
+46,5,5,,,1477,,{},1076,,Gimira (GM 1477),416,,
+40,2,5,,,1589,,{},2183,,Giryama (GM 1589),185,,
+29,5,3,,,1624,,{},135,,Gisiga (GM 1624),1102,,
+34,2,7,,,1543,,{},2144,,Glavda (GM 1543),1433,,
+35,0,8,,,2263,,{},181,,gLo Tibetan (EA 2263),2203,,http://eurphon.info/languages/html?lang_id=140
+28,0,18,,,109,,{},1863,,Goajiro (SPA 109),1402,,https://archive.org/details/guc_SPA1979_phon
+26,3,13,,,723,,{},378,,godié (AA 723),2425,,
+53,0,13,,,2565,,{},408,,Godoberi (EA 2565),1394,,http://eurphon.info/languages/html?lang_id=37
+34,0,7,,,1457,,{},458,,Goggot (GM 1457),1763,,
+32,0,18,,,1112,,{},726,,Gojri; Gujari; Gujar (PH 1112),1559,,
+35,3,19,,,1724,,{},726,,Gojri (RA 1724),2873,,
+13,0,10,,,881,,{},1119,,Golin (PH 881),409,,
+23,2,14,,,724,,{},923,,gonja (AA 724),1805,,https://archive.org/details/rosettaproject_gjn_ortho-1
+19,0,4,,,2631,,{},2035,,Gooniyandi (ER 2631),2046,,
+17,0,5,,,2866,,{},2095,,Goreng (ER 2866),948,,
+16,0,10,,,2364,,{},456,,Gorum (EA 2364),1853,,http://eurphon.info/languages/html?lang_id=53
+26,3,28,,,1605,,{},710,,Gouro (GM 1605),2131,,
+19,4,13,,,725,,{},1196,,grebo (AA 725),800,,
+24,0,5,,,2458,,{},597,,Greek (Standard) (EA 2458),2589,,http://eurphon.info/languages/html?lang_id=1
+27,0,12,,,2228,,{},449,,greek Thrace Xoraxane Romane (UZ 2228),1486,,
+21,0,5,,,318,,{},597,,GREEK (UPSID 318),1458,,http://web.phonetik.uni-frankfurt.de/L/L2000.html
+36,0,5,,,2186,,{},597,,Greek (UZ 2186),1661,,
+18,0,5,,,2187,,{},597,,Greek (UZ 2187),2125,,
+48,0,10,,,2553,,{},2167,,gSerpa (EA 2553),2392,,http://eurphon.info/languages/html?lang_id=317
+23,0,17,,,2435,,{},1924,,Gtaʔ (EA 2435),402,,http://eurphon.info/languages/html?lang_id=183
+17,0,18,,,1911,,{},1645,,Guahibo (SAPHON 1911),1829,,http://linguistics.berkeley.edu/~saphon/en/inv/Guahibo.html
+17,0,12,,,346,,{},1645,,GUAHIBO (UPSID 346),1034,,http://web.phonetik.uni-frankfurt.de/L/L6830.html
+14,0,7,,,882,,{},1620,,Guajajara (PH 882),1319,,
+15,0,7,,,2082,,{},1620,,Guajajára (SAPHON 2082),1462,,http://linguistics.berkeley.edu/~saphon/en/inv/Guajajara.html
+12,0,12,,,2081,,{},1034,,Guajá (SAPHON 2081),935,,http://linguistics.berkeley.edu/~saphon/en/inv/Guaja.html
+14,0,12,,,344,,{},1863,,GUAJIRO (UPSID 344),1355,,http://web.phonetik.uni-frankfurt.de/L/L6826.html
+20,0,5,,,1855,,{},1554,,Guambiano (SAPHON 1855),2096,,http://linguistics.berkeley.edu/~saphon/en/inv/Guambiano.html
+18,0,6,,,347,,{},1554,,GUAMBIANO (UPSID 347),1585,,http://web.phonetik.uni-frankfurt.de/L/L6862.html
+24,0,12,,,119,,{},1519,,Guarani (SPA 119),2845,,https://archive.org/details/gug_SPA1979_phon
+24,0,12,,,345,,{},1519,,GUARANI (UPSID 345),2650,,http://web.phonetik.uni-frankfurt.de/L/L6828.html
+14,0,12,,,2085,,{},147,,Guarayu (SAPHON 2085),1096,,http://linguistics.berkeley.edu/~saphon/en/inv/Guarayu.html
+17,0,8,,,1959,,{},1769,,Guató (SAPHON 1959),1686,,http://linguistics.berkeley.edu/~saphon/en/inv/Guato.html
+16,0,6,,,1912,,{},1008,,Guayabero (SAPHON 1912),2029,,http://linguistics.berkeley.edu/~saphon/en/inv/Guayabero.html
+16,0,3,,,2689,,{},930,,Gudanji (ER 2689),2701,,
+30,2,4,,,726,,{},922,,guɗe (AA 726),2584,,
+30,2,4,,,1578,,{},922,,Gu'de (GM 1578),2653,,
+15,0,3,,,2818,,{},469,,Gudjal (ER 2818),1588,,
+14,0,3,,,2819,,{},860,,Gugu Badhun (ER 2819),331,,
+13,0,3,,,2885,,{},1054,,Gugu Wakura (ER 2885),467,,
+13,0,3,,,349,,{},1054,,GUGU-YALANDYI (UPSID 349),2163,,http://web.phonetik.uni-frankfurt.de/L/L8364.html
+35,0,25,,,1725,,{},347,,Gujarati (RA 1725),1521,,
+31,0,27,,,2452,,{},347,,Gujarati (Standard) (EA 2452),625,,http://eurphon.info/languages/html?lang_id=39
+20,3,10,,,727,,{},10,,gulmancema (AA 727),2829,,
+25,0,6,,,2975,,{},392,,Gumatj (ER 2975),2065,,
+13,0,6,,,2735,,{},1710,,Gumbaynggir (ER 2735),2842,,
+35,0,7,,,1462,,{},1041,,Gumer (GM 1462),1623,,
+34,0,10,,,1475,,{},448,,Gumuz (GM 1475),2572,,
+22,0,5,,,2656,,{},562,,Gun-Dedjnjenghmi (ER 2656),2199,,
+22,0,5,,,2657,,{},562,,Gun-Djeihmi (ER 2657),503,,
+19,0,6,,,2997,,{},1885,,Gundungurra (ER 2997),370,,
+16,0,4,,,2814,,{},2081,,Gungabula (ER 2814),1040,,
+15,0,3,,,2815,,{},328,,Gunggari (ER 2815),1484,,
+29,0,7,,,1906,,{},1152,,Günün Yajich (SAPHON 1906),619,,http://linguistics.berkeley.edu/~saphon/en/inv/GununYajich.html
+19,0,5,,,883,,{},2086,,Gunwinggu (PH 883),390,,
+25,0,6,,,2816,,{},1016,,Gunya (ER 2816),83,,
+25,0,6,,,2972,,{},259,,Gupapuyngu (ER 2972),1257,,
+36,0,6,,,1463,,{},122,,Gura (GM 1463),754,,
+13,0,10,,,2938,,{},1434,,Gureng-gureng (ER 2938),1227,,
+17,0,6,,,2853,,{},1111,,Gurindji (ER 2853),1895,,
+22,0,5,,,2677,,{},2133,,Gurr-Goni (ER 2677),1580,,
+29,0,20,,,2344,,{},485,,Gurung (Western) (EA 2344),1453,,http://eurphon.info/languages/html?lang_id=58
+17,0,19,,,2576,,{},974,,Gutob (Koraput) (EA 2576),1678,,http://eurphon.info/languages/html?lang_id=260
+21,0,19,,,1726,,{},974,,Gutob (RA 1726),2603,,
+17,0,6,,,2886,,{},1731,,Guugu Yimidhirr (ER 2886),600,,
+20,0,3,,,2737,,{},565,,Guwa (ER 2737),2774,,
+15,0,6,,,3017,,{},1470,,Guwamu (ER 3017),493,,
+13,0,6,,,2714,,{},1786,,Guwar (ER 2714),168,,
+13,0,10,,,2939,,{},1434,,Guweng (ER 2939),171,,
+32,8,12,,,1353,,{},282,,Gwandara (Cancara) (GM 1353),1339,,
+35,8,21,,,1355,,{},282,,Gwandara (Gitata) (GM 1355),526,,
+28,8,10,,,1352,,{},282,,Gwandara (Karshi) (GM 1352),1336,,
+28,8,12,,,1356,,{},282,,Gwandara (Koro) (GM 1356),890,,
+43,8,14,,,1357,,{},282,,Gwandara (Nimbia) (GM 1357),120,,
+28,8,12,,,1354,,{},282,,Gwandara (Toni) (GM 1354),1934,,
+20,0,6,,,339,,{},1058,,GWARI (UPSID 339),50,,http://web.phonetik.uni-frankfurt.de/L/L4140.html
+39,0,6,,,1464,,{},122,,Gyeto (GM 1464),2535,,
+46,0,10,,,1363,,{},1875,,Hadiyya (GM 1363),2481,,
+57,0,5,,,357,,{},994,,HADZA (UPSID 357),1285,,http://web.phonetik.uni-frankfurt.de/L/L4900.html
+47,0,3,,,67,,{},1307,,Haida (SPA 67),1564,,https://archive.org/details/hdn_SPA1979_phon
+46,0,3,,,353,,{},1307,,HAIDA (UPSID 353),1697,,http://web.phonetik.uni-frankfurt.de/L/L6100.html
+23,0,16,,,2323,,{},277,,Hakka Chinese (EA 2323),2680,,http://eurphon.info/languages/html?lang_id=104
+26,5,16,,,2165,,{},277,,Hakka Chinese (UZ 2165),1375,,
+21,4,6,,,18,,{},277,,Hakka (SPA 18),2229,,https://archive.org/details/hak_SPA1979_phon
+16,0,6,,,350,,{},277,,HAKKA (UPSID 350),986,,http://web.phonetik.uni-frankfurt.de/L/L2502.html
+29,0,13,,,1727,,{},1019,,Halbi (RA 1727),698,,
+25,0,10,,,218,,{},874,,HAMER (UPSID 218),2091,,http://web.phonetik.uni-frankfurt.de/L/L4365.html
+23,0,6,,,728,,{},1282,,hanga (AA 728),105,,https://archive.org/details/rosettaproject_hag_ortho-1
+16,0,7,,,1064,,{},797,,Hanga Hundi; Kwasengen; West Wosera (PH 1064),2980,,
+25,0,9,,,1397,,{},1614,,Harari (GM 1397),2250,,
+33,0,10,,,729,,{},1688,,hausa (AA 729),244,,https://archive.org/details/rosettaproject_hau_ortho-2
+25,0,6,,,730,,{},1688,,hausa (AA 730),1584,,https://archive.org/details/rosettaproject_hau_ortho-3
+32,3,10,,,124,,{},1688,,Hausa (SPA 124),2763,,https://archive.org/details/hau_SPA1979_phon
+31,0,7,,,351,,{},1688,,HAUSA (UPSID 351),2252,,http://web.phonetik.uni-frankfurt.de/L/L4366.html
+32,4,10,,,2188,,{},1688,,Hausa (UZ 2188),2638,,
+9,0,10,,,43,,{},1195,,Hawaiian (SPA 43),662,,https://archive.org/details/haw_SPA1979_phon
+8,0,5,,,352,,{},1195,,HAWAIIAN (UPSID 352),1215,,http://web.phonetik.uni-frankfurt.de/L/L2424.html
+19,0,10,,,884,,{},2094,,Haya (PH 884),2136,,
+26,0,28,,,2396,,{},1940,,Hayu (EA 2396),824,,http://eurphon.info/languages/html?lang_id=24
+22,0,5,,,2189,,{},561,,Hebrew (UZ 2189),345,,
+27,0,7,,,1497,,{},1826,,Heiban (GM 1497),1534,,
+19,2,5,,,1255,,{},1696,,herero (GM 1255),1140,,
+37,0,4,,,1403,,{},1438,,Hide (GM 1403),1426,,
+26,0,15,,,279,,{},1784,,HIGHLAND CHINANTEC (UPSID 279),1837,,http://web.phonetik.uni-frankfurt.de/L/L6786.html
+26,2,7,,,1368,,{},2033,,Higi (GM 1368),1885,,
+20,0,5,,,1696,,{},1097,,Hiligaynon (GM 1696),1629,,
+26,2,10,,,1323,,{},739,,Hill Guang (GM 1323),2647,,
+28,0,11,,,896,,{},2064,,Hill Jarawa (PH 896),174,,
+23,0,10,,,2581,,{},712,,Hill Mari (Jaransk) (EA 2581),1422,,http://eurphon.info/languages/html?lang_id=434
+24,0,10,,,2273,,{},712,,Hill Mari (Kozmodemjansk) (EA 2273),1349,,http://eurphon.info/languages/html?lang_id=304
+34,0,21,,,2542,,{},1296,,Hindi (EA 2542),2143,,http://eurphon.info/languages/html?lang_id=279
+37,0,21,,,1728,,{},1296,,Hindi (RA 1728),753,,
+71,0,23,,,176,,{},1296,,Hindi-Urdu (SPA 176),2925,,https://archive.org/details/hin_SPA1979_phon
+40,0,21,,,354,,{},1296,,HINDI-URDU (UPSID 354),1499,,http://web.phonetik.uni-frankfurt.de/L/L2016.html
+63,0,11,,,2190,,{},1296,,Hindi (UZ 2190),2374,,
+18,0,5,,,1871,,{},62,,Hixkaryána (SAPHON 1871),1365,,http://linguistics.berkeley.edu/~saphon/en/inv/Hixkaryana.html
+18,0,5,,,355,,{},62,,HIXKARYANA (UPSID 355),2053,,http://web.phonetik.uni-frankfurt.de/L/L6842.html
+48,0,13,,,2239,,{},2017,,Hmong Njua (Green Hmong) (EA 2239),1138,,http://eurphon.info/languages/html?lang_id=97
+46,0,10,,,291,,{},1709,,HMONG (UPSID 291),2015,,http://web.phonetik.uni-frankfurt.de/L/L2519.html
+16,0,5,,,1211,,{},1227,,Hoava (PH 1211),2914,,
+17,2,7,,,1389,,{},814,,Holoholo (GM 1389),1028,,
+22,0,13,,,2359,,{},1815,,Ho (Mayurbhanj) (EA 2359),1997,,http://eurphon.info/languages/html?lang_id=321
+31,0,18,,,95,,{},1343,,Hopi (SPA 95),1610,,https://archive.org/details/hop_SPA1979_phon
+22,0,6,,,356,,{},1343,,HOPI (UPSID 356),412,,http://web.phonetik.uni-frankfurt.de/L/L6738.html
+24,0,19,,,1729,,{},1815,,Ho (RA 1729),1917,,
+21,0,14,,,2120,,{},196,,Hoti (SAPHON 2120),735,,http://linguistics.berkeley.edu/~saphon/en/inv/Hoti.html
+21,0,10,,,1155,,{},660,,Huallaga (Huanuco) Quechua (PH 1155),3009,,
+16,0,6,,,2034,,{},2006,,Huallaga Huánuco Quechua (SAPHON 2034),386,,http://linguistics.berkeley.edu/~saphon/en/inv/HuallagaHQ.html
+15,0,8,,,1948,,{},1886,,Huambisa (SAPHON 1948),1518,,http://linguistics.berkeley.edu/~saphon/en/inv/Huambisa.html
+22,0,5,,,889,,{},643,,Huanca (PH 889),1244,,
+22,0,10,,,563,,{},1325,,HUARI (UPSID 563),430,,http://web.phonetik.uni-frankfurt.de/L/L6841.html
+21,0,5,,,360,,{},1565,,HUASTECO (UPSID 360),1483,,http://web.phonetik.uni-frankfurt.de/L/L6776.html
+26,0,10,,,1116,,{},1565,,Huastec (PH 1116),2261,,
+18,0,6,,,888,,{},885,,"Huave, San Mateo del Mar (PH 888)",1730,,
+23,0,6,,,361,,{},885,,HUAVE (UPSID 361),1733,,http://web.phonetik.uni-frankfurt.de/L/L6716.html
+17,0,6,,,2035,,{},216,,Huaylas-Conchucos Quechua (SAPHON 2035),1909,,http://linguistics.berkeley.edu/~saphon/en/inv/HuaylasCQ.html
+20,0,10,,,887,,{},1796,,Huaylas (PH 887),2354,,
+15,0,10,,,886,,{},425,,Huichol (PH 886),1907,,
+18,0,6,,,2128,,{},1070,,"Huitoto, Minica (SAPHON 2128)",713,,http://linguistics.berkeley.edu/~saphon/en/inv/HuitotoMinica.html
+14,0,6,,,2129,,{},41,,"Huitoto, Murui (SAPHON 2129)",2024,,http://linguistics.berkeley.edu/~saphon/en/inv/HuitotoMurui.html
+41,0,28,,,2313,,{},1953,,Humla Bhotia (EA 2313),179,,http://eurphon.info/languages/html?lang_id=130
+50,0,15,,,183,,{},1358,,Hungarian (SPA 183),1160,,https://archive.org/details/hun_SPA1979_phon
+25,0,14,,,2557,,{},1358,,Hungarian (Standard) (EA 2557),1964,,http://eurphon.info/languages/html?lang_id=161
+26,0,14,,,358,,{},1358,,HUNGARIAN (UPSID 358),2458,,http://web.phonetik.uni-frankfurt.de/L/L2154.html
+50,0,14,,,2191,,{},1358,,Hungarian (UZ 2191),1475,,
+36,0,24,,,2237,,{},964,,Hunzib (UZ 2237),910,,
+35,0,7,,,65,,{},80,,Hupa (SPA 65),115,,https://archive.org/details/hup_SPA1979_phon
+28,0,7,,,359,,{},80,,HUPA (UPSID 359),2859,,http://web.phonetik.uni-frankfurt.de/L/L6105.html
+20,0,9,,,1020,,{},674,,Hup (PH 1020),1273,,
+19,0,15,,,1991,,{},674,,Hup (SAPHON 1991),364,,http://linguistics.berkeley.edu/~saphon/en/inv/Hupde.html
+11,0,6,,,885,,{},2109,,Huron (PH 885),1435,,
+33,0,19,,,39,,{},67,,Iai (SPA 39),2215,,https://archive.org/details/iai_SPA1979_phon
+36,0,16,,,363,,{},67,,IAI (UPSID 363),2068,,http://web.phonetik.uni-frankfurt.de/L/L2422.html
+18,0,12,,,332,,{},678,,IATE (UPSID 332),741,,http://web.phonetik.uni-frankfurt.de/L/L6870.html
+25,3,10,,,891,,{},2186,,Ibani (PH 891),1698,,
+19,0,6,,,364,,{},1248,,IBAN (UPSID 364),2699,,http://web.phonetik.uni-frankfurt.de/L/L2435.html
+17,2,13,,,1057,,{},1653,,Ibibio (PH 1057),20,,
+30,0,15,,,2568,,{},131,,Icelandic (EA 2568),2798,,http://eurphon.info/languages/html?lang_id=323
+23,0,16,,,158,,{},131,,Icelandic (SPA 158),695,,https://archive.org/details/isl_SPA1979_phon
+17,0,6,,,1187,,{},1294,,Ida''an' (PH 1187),2517,,
+47,5,23,,,1536,,{},1088,,Idu (GM 1536),545,,
+19,3,12,,,731,,{},284,,ifɛ̀ (AA 731),1639,,
+28,0,8,,,732,,{},315,,igbo (AA 732),2544,,https://archive.org/details/rosettaproject_ibo_ortho-2
+46,3,16,,,143,,{},315,,Igbo (SPA 143),2251,,https://archive.org/details/ibo_SPA1979_phon
+43,0,16,,,365,,{},315,,IGBO (UPSID 365),1536,,http://web.phonetik.uni-frankfurt.de/L/L4116.html
+24,3,8,,,2192,,{},315,,Igbo (UZ 2192),428,,
+24,4,10,,,733,,{},1862,,igede (AA 733),1420,,https://archive.org/details/rosettaproject_ige_ortho-1
+15,0,4,,,1844,,{},853,,Ignaciano (SAPHON 1844),1785,,http://linguistics.berkeley.edu/~saphon/en/inv/Ignaciano.html
+23,3,7,,,1580,,{},961,,Igo (GM 1580),496,,
+21,2,7,,,1337,,{},1064,,Iikile (GM 1337),558,,
+24,2,18,,,734,,{},138,,ijo de l'est; Eastern Ijo (AA 734),1677,,
+62,4,5,,,1276,,{},58,,Ikalanga (GM 1276),542,,
+16,0,16,,,1096,,{},1523,,Ika (PH 1096),464,,
+18,0,5,,,2878,,{},289,,Ikarranggal (ER 2878),2716,,
+15,0,6,,,1891,,{},1523,,Ika (SAPHON 1891),1986,,http://linguistics.berkeley.edu/~saphon/en/inv/Ika.html
+12,0,6,,,1872,,{},1036,,Ikpeng (SAPHON 1872),232,,http://linguistics.berkeley.edu/~saphon/en/inv/Ikpeng.html
+31,0,13,,,368,,{},1372,,IK (UPSID 368),757,,http://web.phonetik.uni-frankfurt.de/L/L4208.html
+23,5,18,,,1405,,{},965,,Ikwere (GM 1405),2142,,
+29,2,9,,,735,,{},2156,,ikwo (AA 735),2987,,
+21,0,3,,,2671,,{},1807,,Ilgar (ER 2671),784,,
+19,0,6,,,2606,,{},81,,Ilocano (EA 2606),1007,,http://eurphon.info/languages/html?lang_id=290
+17,0,4,,,1117,,{},81,,Ilocano (PH 1117),2072,,
+17,0,6,,,1670,,{},81,,Iloko/Ilocano (GM 1670),1592,,
+17,0,3,,,2026,,{},1017,,Imbabura Quichua (SAPHON 2026),371,,http://linguistics.berkeley.edu/~saphon/en/inv/ImbaburaQ.html
+13,0,10,,,892,,{},897,,Imonda (PH 892),315,,
+13,0,18,,,1819,,{},1804,,Iñapari (SAPHON 1819),2297,,http://linguistics.berkeley.edu/~saphon/en/inv/Inyapari.html
+23,0,8,,,1690,,{},1127,,Indonesian (GM 1690),1769,,
+22,0,9,,,1144,,{},1127,,Indonesian (PH 1144),497,,
+10,0,11,,,1873,,{},1767,,Ingarikó (SAPHON 1873),253,,http://linguistics.berkeley.edu/~saphon/en/inv/Ingariko.html
+19,0,3,,,2027,,{},167,,Inga (SAPHON 2027),1587,,http://linguistics.berkeley.edu/~saphon/en/inv/IngaHQ.html
+13,0,3,,,2028,,{},598,,Inga (SAPHON 2028),679,,http://linguistics.berkeley.edu/~saphon/en/inv/IngaJQ.html
+52,0,17,,,2251,,{},301,,Ingush (EA 2251),2071,,http://eurphon.info/languages/html?lang_id=3
+35,0,13,,,893,,{},301,,Ingush (PH 893),2361,,
+32,0,6,,,62,,{},1830,,Inuit (SPA 62),1647,,https://archive.org/details/kal_SPA1979_phon
+19,0,3,,,388,,{},1830,,INUIT (UPSID 388),472,,http://web.phonetik.uni-frankfurt.de/L/L6901.html
+24,0,3,,,1077,,{},304,,Iñupiaq; Iñupiat; Inupiat; Inupiaq (PH 1077),855,,
+11,0,8,,,2140,,{},1473,,Iquito (SAPHON 2140),1902,,http://linguistics.berkeley.edu/~saphon/en/inv/Iquito.html
+21,0,18,,,371,,{},423,,IRANXE (UPSID 371),2499,,http://web.phonetik.uni-frankfurt.de/L/L6845.html
+33,3,12,,,129,,{},241,,Iraqw (SPA 129),162,,https://archive.org/details/irk_SPA1979_phon
+33,0,12,,,370,,{},241,,IRAQW (UPSID 370),139,,http://web.phonetik.uni-frankfurt.de/L/L4360.html
+12,0,7,,,369,,{},49,,IRARUTU (UPSID 369),344,,http://web.phonetik.uni-frankfurt.de/L/L2440.html
+34,0,18,,,2521,,{},920,,Irish (Corca Dhuibhne) (EA 2521),2386,,http://eurphon.info/languages/html?lang_id=417
+44,0,24,,,156,,{},920,,Irish Gaelic (SPA 156),1598,,https://archive.org/details/gle_SPA1979_phon
+35,0,14,,,2262,,{},920,,Irish (Gaoth Dobhair) (EA 2262),279,,http://eurphon.info/languages/html?lang_id=247
+45,0,24,,,342,,{},920,,IRISH (UPSID 342),2850,,http://web.phonetik.uni-frankfurt.de/L/L2001.html
+35,0,15,,,2193,,{},920,,Irish (UZ 2193),2960,,
+33,0,7,,,2432,,{},1084,,Iron Ossetic (Alagir) (EA 2432),2427,,http://eurphon.info/languages/html?lang_id=459
+37,0,7,,,2476,,{},1084,,Iron Ossetic (Ksani) (EA 2476),1507,,http://eurphon.info/languages/html?lang_id=460
+39,0,7,,,2626,,{},1084,,Iron Ossetic (Kurtat) (EA 2626),1481,,http://eurphon.info/languages/html?lang_id=461
+40,0,7,,,2408,,{},1084,,Iron Ossetic (Roka) (EA 2408),1403,,http://eurphon.info/languages/html?lang_id=462
+40,0,7,,,2424,,{},1084,,Iron Ossetic (Standard) (EA 2424),650,,http://eurphon.info/languages/html?lang_id=378
+37,0,7,,,2351,,{},1084,,Iron Ossetic (Tual-Ch) (EA 2351),1702,,http://eurphon.info/languages/html?lang_id=463
+32,0,7,,,2283,,{},1084,,Iron Ossetic (Tual-S) (EA 2283),182,,http://eurphon.info/languages/html?lang_id=464
+36,0,7,,,2509,,{},1084,,Iron Ossetic (Tual-Sh) (EA 2509),905,,http://eurphon.info/languages/html?lang_id=463
+40,0,7,,,2324,,{},1084,,Iron Ossetic (Upper Alagir) (EA 2324),1070,,http://eurphon.info/languages/html?lang_id=465
+40,0,7,,,2389,,{},1084,,Iron Ossetic (Urs-Tual) (EA 2389),1611,,http://eurphon.info/languages/html?lang_id=466
+31,0,21,,,1730,,{},399,,Irula (RA 1730),1784,,
+9,4,5,,,894,,{},954,,Isaka (PH 894),878,,
+32,0,7,,,2270,,{},2099,,Ishkashimi (EA 2270),1766,,http://eurphon.info/languages/html?lang_id=120
+17,0,12,,,107,,{},103,,Island Carib (SPA 107),169,,https://archive.org/details/crb_SPA1979_phon
+16,0,11,,,292,,{},103,,ISLAND CARIB (UPSID 292),2781,,http://web.phonetik.uni-frankfurt.de/L/L6823.html
+28,0,9,,,372,,{},1133,,ISOKO (UPSID 372),778,,http://web.phonetik.uni-frankfurt.de/L/L4147.html
+20,0,5,,,2449,,{},561,,Israeli Hebrew (EA 2449),616,,http://eurphon.info/languages/html?lang_id=43
+22,3,7,,,2218,,{},1818,,Isthmus (Juchitán) Zapotec (UZ 2218),2391,,
+23,0,7,,,2427,,{},1022,,Italian (EA 2427),579,,http://eurphon.info/languages/html?lang_id=69
+23,0,7,,,1145,,{},1022,,Italian (PH 1145),2602,,
+39,0,31,,,2195,,{},1022,,Italian (UZ 2195),776,,
+27,0,5,,,2297,,{},1411,,Itelmen (EA 2297),2375,,http://eurphon.info/languages/html?lang_id=308
+27,0,5,,,373,,{},1411,,ITELMEN (UPSID 373),1026,,http://web.phonetik.uni-frankfurt.de/L/L2710.html
+63,5,6,,,1533,,{},1156,,Iten (GM 1533),556,,
+19,0,6,,,1928,,{},30,,Itonama (SAPHON 1928),693,,http://linguistics.berkeley.edu/~saphon/en/inv/Itonama.html
+19,0,6,,,103,,{},30,,Itonama (SPA 103),2491,,https://archive.org/details/ito_SPA1979_phon
+19,0,6,,,374,,{},30,,ITONAMA (UPSID 374),2132,,http://web.phonetik.uni-frankfurt.de/L/L6800.html
+31,9,8,,,2216,,{},2146,,Itunyoso Trique (UZ 2216),1489,,
+19,0,4,,,376,,{},1042,,IVATAN (UPSID 376),919,,http://web.phonetik.uni-frankfurt.de/L/L2428.html
+20,0,3,,,2672,,{},2020,,Iwaidja (ER 2672),1162,,
+11,0,6,,,377,,{},35,,IWAM (UPSID 377),3001,,http://web.phonetik.uni-frankfurt.de/L/L8605.html
+53,4,7,,,1664,,{},1263,,Iyive (GM 1664),643,,
+27,5,7,,,1538,,{},2064,,Izere (GM 1538),3006,,
+40,2,9,,,736,,{},677,,izi (AA 736),2217,,
+17,0,3,,,2699,,{},1667,,Jabirr-Jabirr (ER 2699),54,,
+14,0,10,,,1960,,{},2166,,Jabutí (SAPHON 1960),4,,http://linguistics.berkeley.edu/~saphon/en/inv/Jabuti.html
+27,0,5,,,378,,{},239,,JACALTEC (UPSID 378),596,,http://web.phonetik.uni-frankfurt.de/L/L6780.html
+22,0,30,,,2567,,{},1091,,Jah-Hut (EA 2567),887,,http://eurphon.info/languages/html?lang_id=310
+19,0,14,,,895,,{},1876,,Jalonke (PH 895),499,,
+21,0,12,,,1053,,{},1421,,Jamaican Creole (PH 1053),663,,
+12,0,4,,,1846,,{},1966,,Jamamadí (SAPHON 1846),2976,,http://linguistics.berkeley.edu/~saphon/en/inv/Jamamadi.html
+18,0,4,,,2683,,{},1900,,Jaminjung (ER 2683),1274,,
+37,2,21,,,1442,,{},326,,"Jamsay, Dogon (GM 1442)",505,,
+13,0,6,,,2728,,{},431,,Jandai (ER 2728),2860,,
+27,2,11,,,197,,{},2044,,Japanese (SPA 197),1046,,https://archive.org/details/jpn_SPA1979_phon
+15,0,5,,,384,,{},2044,,JAPANESE (UPSID 384),2644,,http://web.phonetik.uni-frankfurt.de/L/L2171.html
+16,0,5,,,2196,,{},2044,,Japanese (UZ 2196),701,,
+50,0,8,,,2407,,{},1202,,Japhug (EA 2407),2616,,http://eurphon.info/languages/html?lang_id=64
+14,0,6,,,1874,,{},1550,,Japreria (SAPHON 1874),1321,,http://linguistics.berkeley.edu/~saphon/en/inv/Japreria.html
+12,0,12,,,386,,{},1550,,JAPRERIA (UPSID 386),568,,http://web.phonetik.uni-frankfurt.de/L/L6848.html
+36,0,6,,,1852,,{},230,,Jaqaru (SAPHON 1852),452,,http://linguistics.berkeley.edu/~saphon/en/inv/Jaqaru.html
+36,0,3,,,385,,{},230,,JAQARU (UPSID 385),685,,http://web.phonetik.uni-frankfurt.de/L/L6820.html
+11,0,4,,,897,,{},1966,,Jarawara (PH 897),2432,,
+11,0,8,,,1847,,{},1966,,Jarawara (SAPHON 1847),827,,http://linguistics.berkeley.edu/~saphon/en/inv/Jarawara.html
+17,0,4,,,2783,,{},1517,,Jardwadjali (ER 2783),897,,
+17,0,6,,,2854,,{},1028,,Jaru (ER 2854),820,,
+16,0,6,,,2029,,{},643,,Jauja-Huanca Quechua (SAPHON 2029),146,,http://linguistics.berkeley.edu/~saphon/en/inv/JaujaHuancaQ.html
+34,0,17,,,1731,,{},1351,,Jaunsari (RA 1731),835,,
+24,0,9,,,1675,,{},1363,,Javanese (GM 1675),1109,,
+22,0,8,,,36,,{},1363,,Javanese (SPA 36),1579,,https://archive.org/details/jav_SPA1979_phon
+21,0,8,,,380,,{},1363,,JAVANESE (UPSID 380),75,,http://web.phonetik.uni-frankfurt.de/L/L2409.html
+17,0,3,,,2700,,{},1861,,Jawi (ER 2700),1525,,
+22,0,5,,,2662,,{},807,,Jawoyn (ER 2662),2827,,
+19,0,4,,,381,,{},1500,,JEBERO (UPSID 381),2835,,http://web.phonetik.uni-frankfurt.de/L/L6844.html
+39,0,22,,,898,,{},1301,,Jemez (PH 898),319,,
+24,4,16,,,1539,,{},1317,,Jere (GM 1539),1001,,
+23,0,32,,,2596,,{},1229,,Jèrriais (Eastern Jersey) (EA 2596),1815,,http://eurphon.info/languages/html?lang_id=18
+49,0,8,,,1208,,{},611,,Jiarong (PH 1208),2551,,
+30,0,8,,,2621,,{},152,,Jibbali (Central) (EA 2621),2685,,http://eurphon.info/languages/html?lang_id=300
+34,3,19,,,1232,,{},1698,,Jicarilla Apache (PH 1232),1421,,
+29,3,16,,,899,,{},1024,,Jili (PH 899),208,,
+25,0,5,,,387,,{},820,,JINGPHO (UPSID 387),2048,,http://web.phonetik.uni-frankfurt.de/L/L2511.html
+17,0,3,,,2687,,{},42,,Jingulu (ER 2687),1305,,
+17,2,10,,,1439,,{},916,,Jita (GM 1439),2503,,
+16,0,8,,,113,,{},699,,Jivaro (SPA 113),103,,https://archive.org/details/jiv_SPA1979_phon
+15,0,8,,,383,,{},699,,JIVARO (UPSID 383),1107,,http://web.phonetik.uni-frankfurt.de/L/L6835.html
+20,0,6,,,2744,,{},270,,Jiwarli (ER 2744),377,,
+40,2,5,,,1590,,{},2183,,Jiβana (GM 1590),522,,
+14,0,7,,,580,,{},1951,,JOMANG (UPSID 580),2778,,http://web.phonetik.uni-frankfurt.de/L/L4142.html
+19,0,10,,,737,,{},1280,,joola (AA 737),1916,,
+31,0,20,,,1311,,{},584,,Joola Huluf (GM 1311),2656,,
+20,4,21,,,1287,,{},136,,jowulu (GM 1287),86,,
+19,0,18,,,2258,,{},319,,Juang (EA 2258),1990,,http://eurphon.info/languages/html?lang_id=301
+19,0,10,,,1089,,{},319,,Juang (PH 1089),207,,
+24,0,12,,,1732,,{},319,,Juang (RA 1732),1353,,
+20,0,5,,,2285,,{},1276,,Judaeo-Spanish (Beiruti) (EA 2285),85,,http://eurphon.info/languages/html?lang_id=78
+20,0,14,,,2194,,{},1276,,Judeo-Spanish (UZ 2194),151,,
+23,0,8,,,2284,,{},1067,,Juhuri (EA 2284),1407,,http://eurphon.info/languages/html?lang_id=121
+22,0,6,,,2695,,{},947,,Jukun (ER 2695),2050,,
+12,0,12,,,2086,,{},320,,Júma (SAPHON 2086),2704,,http://linguistics.berkeley.edu/~saphon/en/inv/Juma.html
+20,3,16,,,1312,,{},416,,Jumjum (GM 1312),2342,,
+31,0,18,,,738,,{},1724,,jur mödö (AA 738),903,,https://archive.org/details/rosettaproject_bex_ortho-1
+18,0,10,,,2087,,{},354,,Jurúna (SAPHON 2087),1935,,http://linguistics.berkeley.edu/~saphon/en/inv/Juruna.html
+15,0,11,,,2088,,{},958,,Kaapor (SAPHON 2088),254,,http://linguistics.berkeley.edu/~saphon/en/inv/Kaapor.html
+47,0,8,,,2310,,{},1380,,Kabardian (Baksan) (EA 2310),1147,,http://eurphon.info/languages/html?lang_id=315
+49,0,7,,,4,,{},1380,,Kabardian (SPA 4),2966,,https://archive.org/details/kbd_SPA1979_phon
+44,0,7,,,2610,,{},1380,,Kabardian (Turkish) (EA 2610),1370,,http://eurphon.info/languages/html?lang_id=418
+53,0,8,,,2401,,{},1380,,Kabardian (Ulyap) (EA 2401),957,,http://eurphon.info/languages/html?lang_id=419
+49,0,7,,,391,,{},1380,,KABARDIAN (UPSID 391),1134,,http://web.phonetik.uni-frankfurt.de/L/L2601.html
+24,0,23,,,739,,{},804,,kabiyɛ (AA 739),547,,
+22,2,23,,,1142,,{},804,,Kabiye (PH 1142),715,,
+27,0,3,,,900,,{},786,,Kabyle (PH 900),356,,
+28,2,8,,,901,,{},1865,,Kada (PH 901),1398,,
+23,0,8,,,1118,,{},2021,,Kadiweu (PH 1118),2605,,
+23,0,8,,,1915,,{},2021,,Kadiwéu (SAPHON 1915),88,,http://linguistics.berkeley.edu/~saphon/en/inv/Kadiweu.html
+39,3,20,,,1421,,{},698,,Kadugli (Kadugli) (GM 1421),2265,,
+39,2,20,,,1423,,{},698,,Kadugli (Katcha) (GM 1423),2673,,
+41,2,20,,,1422,,{},698,,Kadugli (Miri) (GM 1422),1696,,
+22,0,5,,,627,,{},698,,KADUGLI (UPSID 627),2830,,http://web.phonetik.uni-frankfurt.de/L/L4102.html
+26,0,5,,,1381,,{},627,,Kagulu (GM 1381),2244,,
+14,0,10,,,902,,{},1869,,Kaiabi (PH 902),28,,
+13,0,14,,,1980,,{},1741,,"Kaingáng, São Paulo (SAPHON 1980)",1948,,http://linguistics.berkeley.edu/~saphon/en/inv/KaingangSP.html
+11,0,5,,,1961,,{},1961,,Kaingang (SAPHON 1961),282,,http://linguistics.berkeley.edu/~saphon/en/inv/Kaingang.html
+13,0,14,,,402,,{},1961,,KAINGANG (UPSID 402),1939,,http://web.phonetik.uni-frankfurt.de/L/L6808.html
+14,0,12,,,2089,,{},316,,Kaiwá (SAPHON 2089),1024,,http://linguistics.berkeley.edu/~saphon/en/inv/Kaiwa.html
+22,2,14,,,1515,,{},23,,Kakabe (GM 1515),747,,
+33,4,13,,,740,,{},1838,,kakɔ (AA 740),32,,
+33,2,12,,,1581,,{},1838,,Kako (GM 1581),1790,,
+21,0,5,,,1950,,{},765,,Kakua (SAPHON 1950),1886,,http://linguistics.berkeley.edu/~saphon/en/inv/Cacua.html
+20,0,6,,,2836,,{},1109,,Kalaamaya (ER 2836),901,,
+22,3,18,,,1048,,{},97,,Kalabari; Kirike; Kalabari-Ijo (PH 1048),2009,,
+18,0,6,,,2966,,{},550,,Kala Kawaw Ya (ER 2966),1052,,
+18,0,6,,,2967,,{},1925,,Kala Lagaw Ya (ER 2967),1841,,
+18,0,6,,,475,,{},1925,,KALA LAGAW YA (UPSID 475),1494,,http://web.phonetik.uni-frankfurt.de/L/L8365.html
+18,0,10,,,40,,{},1706,,Kaliai (SPA 40),159,,https://archive.org/details/khl_SPA1979_phon
+16,0,5,,,406,,{},339,,KALIAI (UPSID 406),2688,,http://web.phonetik.uni-frankfurt.de/L/L2421.html
+36,3,6,,,1339,,{},763,,Kaliko (GM 1339),1903,,
+20,0,6,,,2739,,{},1722,,Kalkatungu (ER 2739),64,,
+20,0,3,,,431,,{},1722,,KALKATUNGU (UPSID 431),2185,,http://web.phonetik.uni-frankfurt.de/L/L8369.html
+23,0,16,,,2599,,{},1561,,Kalmyk (Standard) (EA 2599),1701,,http://eurphon.info/languages/html?lang_id=91
+23,0,6,,,903,,{},1502,,Kamasau (PH 903),237,,
+26,0,11,,,2459,,{},1456,,Kamassian (EA 2459),1129,,http://eurphon.info/languages/html?lang_id=228
+14,0,12,,,2090,,{},757,,Kamayurá (SAPHON 2090),186,,http://linguistics.berkeley.edu/~saphon/en/inv/Kamayura.html
+49,0,10,,,1373,,{},656,,Kambaata (GM 1373),342,,
+28,1,27,,,741,,{},691,,kambari (AA 741),838,,
+40,2,5,,,1591,,{},1151,,Kambe (GM 1591),216,,
+19,0,10,,,1679,,{},992,,Kambera (GM 1679),1042,,
+56,0,21,,,2525,,{},1682,,Kami Tibetan (EA 2525),2213,,http://eurphon.info/languages/html?lang_id=253
+20,0,7,,,309,,{},168,,KAM (UPSID 309),849,,http://web.phonetik.uni-frankfurt.de/L/L2404.html
+24,0,11,,,420,,{},1678,,KANAKURU (UPSID 420),777,,http://web.phonetik.uni-frankfurt.de/L/L4370.html
+54,2,20,,,1419,,{},52,,Kanga (Kanga) (GM 1419),1847,,
+53,2,20,,,1420,,{},52,,Kanga (Kufa) (GM 1420),1221,,
+27,0,9,,,2301,,{},292,,Kangjia (EA 2301),580,,http://eurphon.info/languages/html?lang_id=5
+29,0,12,,,1733,,{},1052,,Kangri (RA 1733),2971,,
+32,0,10,,,1735,,{},906,,Kanigke:rgotti (RA 1735),1554,,
+17,0,5,,,2867,,{},1075,,Kaniyang (ER 2867),1143,,
+36,0,11,,,1734,,{},13,,Kannada (RA 1734),1148,,
+34,0,10,,,2277,,{},13,,Kannada (Standard) (EA 2277),1142,,http://eurphon.info/languages/html?lang_id=48
+12,0,14,,,904,,{},1278,,Kanoe (PH 904),2436,,
+12,0,14,,,2121,,{},1278,,Kanoé (SAPHON 2121),453,,http://linguistics.berkeley.edu/~saphon/en/inv/Kanoe.html
+18,0,7,,,742,,{},766,,kanuri (AA 742),813,,
+25,4,6,,,150,,{},766,,Kanuri (SPA 150),52,,https://archive.org/details/knc_SPA1979_phon
+23,0,6,,,421,,{},766,,KANURI (UPSID 421),45,,http://web.phonetik.uni-frankfurt.de/L/L4201.html
+17,0,5,,,2529,,{},2027,,Kapampangan (Balingcanaway) (EA 2529),1562,,http://eurphon.info/languages/html?lang_id=49
+17,0,5,,,1697,,{},2027,,Kapampangan (GM 1697),189,,
+20,4,21,,,743,,{},1315,,karaboro (AA 743),624,,
+29,0,8,,,2403,,{},907,,Karaim (Northwestern) (EA 2403),97,,http://eurphon.info/languages/html?lang_id=236
+17,0,4,,,2825,,{},618,,Karajarri (ER 2825),200,,
+9,0,15,,,1962,,{},1207,,Karajá (SAPHON 1962),1601,,http://linguistics.berkeley.edu/~saphon/en/inv/Karaja.html
+25,0,13,,,2318,,{},1557,,Karakalpak (EA 2318),1389,,http://eurphon.info/languages/html?lang_id=289
+30,4,6,,,744,,{},732,,karaŋ (AA 744),367,,https://archive.org/details/rosettaproject_kzr_ortho-1
+22,0,3,,,2751,,{},1590,,Karangura (ER 2751),2870,,
+11,0,12,,,2054,,{},1640,,Karapanã (SAPHON 2054),281,,http://linguistics.berkeley.edu/~saphon/en/inv/Karapana.html
+46,0,10,,,2580,,{},925,,Karata (EA 2580),2301,,http://eurphon.info/languages/html?lang_id=164
+28,3,11,,,1736,,{},599,,Karbi (Mikir) (RA 1736),2878,,
+30,3,24,,,1347,,{},2075,,Kare (GM 1347),1788,,
+16,0,14,,,2446,,{},225,,Karelian (North) (EA 2446),1050,,http://eurphon.info/languages/html?lang_id=208
+27,3,9,,,25,,{},711,,Karen (SPA 25),1317,,https://archive.org/details/ksw_SPA1979_phon
+27,0,9,,,430,,{},711,,KAREN (UPSID 430),297,,http://web.phonetik.uni-frankfurt.de/L/L2516.html
+21,6,39,,,1351,,{},1401,,Karimojong (GM 1351),1385,,
+22,0,10,,,907,,{},1418,,Karipuna Creole (PH 907),2672,,
+14,0,7,,,2122,,{},1904,,Karirí-Xocó (SAPHON 2122),1290,,http://linguistics.berkeley.edu/~saphon/en/inv/KaririXocoDz.html
+11,0,14,,,1076,,{},77,,Karitiana; Karitiâna (PH 1076),940,,
+11,0,20,,,2091,,{},77,,Karitiâna (SAPHON 2091),444,,http://linguistics.berkeley.edu/~saphon/en/inv/Karitiana.html
+20,0,3,,,2839,,{},649,,Kariyarra (ER 2839),2358,,
+16,0,8,,,1665,,{},1820,,Karo Batak (GM 1665),2749,,
+27,3,11,,,88,,{},1146,,Karok (SPA 88),2466,,https://archive.org/details/kyh_SPA1979_phon
+16,0,11,,,438,,{},1146,,KAROK (UPSID 438),1773,,http://web.phonetik.uni-frankfurt.de/L/L6741.html
+14,2,11,,,1097,,{},1897,,Karo (PH 1097),752,,
+14,0,11,,,2092,,{},1897,,Karo (SAPHON 2092),1738,,http://linguistics.berkeley.edu/~saphon/en/inv/Karo.html
+16,3,7,,,906,,{},2079,,Kar (PH 906),1350,,
+17,0,7,,,2952,,{},298,,Kartujarra (ER 2952),1395,,
+23,0,7,,,1737,,{},399,,Kasaba (RA 1737),2915,,
+19,1,20,,,745,,{},928,,kasem (AA 745),2999,,https://archive.org/details/rosettaproject_xsm_ortho-2
+27,0,29,,,174,,{},1639,,Kashimiri (SPA 174),1541,,https://archive.org/details/kas_SPA1979_phon
+15,0,8,,,2003,,{},1140,,Kashinawa (SAPHON 2003),307,,http://linguistics.berkeley.edu/~saphon/en/inv/Kashinawa.html
+28,0,28,,,1738,,{},1639,,Kashmiri (RA 1738),808,,
+27,0,28,,,389,,{},1639,,KASHMIRI (UPSID 389),1941,,http://web.phonetik.uni-frankfurt.de/L/L2018.html
+21,4,20,,,746,,{},928,,kasɩm (AA 746),2851,,https://archive.org/details/rosettaproject_xsm_ortho-1
+23,2,7,,,136,,{},1387,,Katcha (SPA 136),447,,https://archive.org/details/xtc_SPA1979_phon
+13,0,6,,,2989,,{},478,,Katthang (ER 2989),61,,
+26,0,7,,,1739,,{},576,,Kattunaika (RA 1739),758,,
+12,0,8,,,1952,,{},1439,,Katukína (SAPHON 1952),71,,http://linguistics.berkeley.edu/~saphon/en/inv/Katukina.html
+15,0,4,,,2004,,{},2150,,Katukína (SAPHON 2004),1150,,http://linguistics.berkeley.edu/~saphon/en/inv/KatukinaPan.html
+40,2,5,,,1592,,{},629,,Kauma (GM 1592),814,,
+20,0,5,,,2932,,{},1201,,Kaurna (ER 2932),977,,
+25,0,6,,,624,,{},235,,KAWAIISU (UPSID 624),2085,,http://web.phonetik.uni-frankfurt.de/L/L6763.html
+18,0,6,,,1801,,{},1591,,Kawesqar (SAPHON 1801),2731,,http://linguistics.berkeley.edu/~saphon/en/inv/Kawesqar.html
+15,0,5,,,2005,,{},826,,Kaxararí (SAPHON 2005),1461,,http://linguistics.berkeley.edu/~saphon/en/inv/Kaxarari.html
+12,0,6,,,1875,,{},208,,Kaxuiâna (SAPHON 1875),648,,http://linguistics.berkeley.edu/~saphon/en/inv/Kaxuiana.html
+14,0,12,,,2093,,{},1869,,Kayabí (SAPHON 2093),1722,,http://linguistics.berkeley.edu/~saphon/en/inv/Kayabi.html
+17,0,6,,,3002,,{},742,,Kayardild (ER 3002),1243,,
+40,0,3,,,2711,,{},1029,,Kaytetye (ER 2711),2885,,
+18,0,4,,,2225,,{},381,,Kedayan (UZ 2225),1672,,
+22,0,5,,,394,,{},1907,,KEFA (UPSID 394),270,,http://web.phonetik.uni-frankfurt.de/L/L4364.html
+37,2,20,,,1417,,{},547,,Keiga (GM 1417),2736,,
+21,0,5,,,397,,{},659,,K'EKCHI (UPSID 397),706,,http://web.phonetik.uni-frankfurt.de/L/L6714.html
+16,0,14,,,1173,,{},827,,Kela (PH 1173),723,,
+20,6,8,,,1412,,{},1655,,Kemezung (GM 1412),2381,,
+55,0,10,,,905,,{},538,,Kensei Nsei (PH 905),1164,,
+21,0,20,,,908,,{},109,,Kenyang (PH 908),2986,,
+24,0,6,,,1215,,{},193,,Ke''o; Kéo' (PH 1215),1464,,
+20,0,3,,,2792,,{},45,,Keramin (ER 2792),187,,
+24,0,6,,,398,,{},1490,,KERA (UPSID 398),863,,http://web.phonetik.uni-frankfurt.de/L/L4371.html
+24,0,6,,,2220,,{},1490,,Kera (UZ 2220),2057,,
+16,4,5,,,1290,,{},2116,,kete (GM 1290),1335,,
+14,0,11,,,2395,,{},878,,Ket (Kellog) (EA 2395),84,,http://eurphon.info/languages/html?lang_id=44
+18,0,14,,,2,,{},878,,Ket (SPA 2),1384,,https://archive.org/details/ket_SPA1979_phon
+18,0,7,,,399,,{},878,,KET (UPSID 399),47,,http://web.phonetik.uni-frankfurt.de/L/L2706.html
+15,0,5,,,414,,{},1279,,KEWA (UPSID 414),1624,,http://web.phonetik.uni-frankfurt.de/L/L8610.html
+23,0,16,,,2433,,{},1578,,Khakas (Standard) (EA 2433),1006,,http://eurphon.info/languages/html?lang_id=265
+23,0,14,,,2537,,{},1964,,Khalkhal (EA 2537),1716,,http://eurphon.info/languages/html?lang_id=203
+21,0,14,,,191,,{},1772,,Khalkha (SPA 191),1745,,https://archive.org/details/khk_SPA1979_phon
+21,0,12,,,405,,{},1772,,KHALKHA (UPSID 405),1700,,http://web.phonetik.uni-frankfurt.de/L/L2166.html
+53,0,6,,,2534,,{},2167,,Khalong Tibetan (EA 2534),2175,,http://eurphon.info/languages/html?lang_id=242
+44,0,7,,,2600,,{},1682,,Kham Tibetan (EA 2600),1786,,http://eurphon.info/languages/html?lang_id=84
+19,0,13,,,396,,{},761,,KHANTY (UPSID 396),2990,,http://web.phonetik.uni-frankfurt.de/L/L2150.html
+34,0,5,,,2511,,{},114,,Kharia (Dudh) (EA 2511),273,,http://eurphon.info/languages/html?lang_id=200
+37,0,10,,,909,,{},114,,Kharia (PH 909),2231,,
+31,0,14,,,1740,,{},114,,Kharia (RA 1740),2561,,
+31,0,10,,,11,,{},114,,Kharia (SPA 11),659,,https://archive.org/details/khr_SPA1979_phon
+31,0,5,,,408,,{},114,,KHARIA (UPSID 408),209,,http://web.phonetik.uni-frankfurt.de/L/L2301.html
+27,0,13,,,1741,,{},1822,,Khasi (RA 1741),2512,,
+19,0,9,,,12,,{},1822,,Khasi (SPA 12),2323,,https://archive.org/details/kha_SPA1979_phon
+21,0,8,,,403,,{},1822,,KHASI (UPSID 403),1737,,http://web.phonetik.uni-frankfurt.de/L/L2302.html
+42,3,8,,,1742,,{},1376,,Khezha (RA 1742),1695,,
+21,0,21,,,407,,{},738,,KHMER (UPSID 407),1992,,http://web.phonetik.uni-frankfurt.de/L/L2306.html
+20,4,20,,,955,,{},1567,,Khmu (PH 955),1272,,
+23,0,18,,,412,,{},2073,,KHMU? (UPSID 412),2668,,http://web.phonetik.uni-frankfurt.de/L/L2312.html
+31,3,9,,,1336,,{},1032,,Kibudu (GM 1336),2383,,
+24,0,5,,,1638,,{},338,,Kigweno (GM 1638),148,,
+23,2,10,,,1643,,{},358,,Kihangaza (GM 1643),1414,,
+20,3,10,,,1114,,{},1800,,Kihungan (PH 1114),968,,
+19,0,5,,,2674,,{},202,,Kija (ER 2674),810,,
+22,0,10,,,1642,,{},220,,Kikahe (GM 1642),1488,,
+13,4,14,,,1443,,{},615,,Kikamba (GM 1443),1114,,
+18,0,14,,,748,,{},1649,,kikuyu (AA 748),2822,,https://archive.org/details/rosettaproject_kik_ortho-1
+24,2,5,,,1304,,{},1572,,Kilba (GM 1304),373,,
+113,0,15,,,2260,,{},206,,Kildin Saami (EA 2260),2159,,http://eurphon.info/languages/html?lang_id=197
+18,0,5,,,1668,,{},1948,,Kimaragang (GM 1668),676,,
+17,0,10,,,1641,,{},770,,Kimeru (GM 1641),554,,
+20,0,5,,,1644,,{},44,,Kimochi (GM 1644),1309,,
+21,0,5,,,1448,,{},396,,Kimwani (GM 1448),1858,,
+13,0,10,,,1820,,{},2070,,Kinikinao (SAPHON 1820),1431,,http://linguistics.berkeley.edu/~saphon/en/inv/Kinikinao.html
+31,0,15,,,1226,,{},1413,,Kinnauri; Kanauri (PH 1226),2188,,
+20,3,10,,,1392,,{},610,,Kinyambo (GM 1392),312,,
+36,3,14,,,970,,{},2131,,Kinyamwezi (PH 970),1003,,
+39,0,10,,,911,,{},574,,Kinyarwanda (PH 911),298,,
+22,0,20,,,409,,{},1072,,KIOWA (UPSID 409),426,,http://web.phonetik.uni-frankfurt.de/L/L6785.html
+14,4,19,,,1387,,{},1558,,Kipsigis (GM 1387),717,,
+20,0,16,,,188,,{},232,,Kirghiz (SPA 188),2351,,https://archive.org/details/kir_SPA1979_phon
+22,0,8,,,410,,{},232,,KIRGHIZ (UPSID 410),2149,,http://web.phonetik.uni-frankfurt.de/L/L2162.html
+24,2,10,,,912,,{},745,,Kirike (PH 912),2287,,
+38,5,7,,,1377,,{},1104,,Kirya-Konzɘl (GM 1377),2549,,
+22,0,20,,,749,,{},509,,kisiei (AA 749),587,,
+23,2,14,,,1645,,{},1654,,Kisimbiti (GM 1645),1152,,
+13,0,18,,,1994,,{},1327,,Kithaulhu (SAPHON 1994),473,,http://linguistics.berkeley.edu/~saphon/en/inv/Kithaulhu.html
+15,2,5,,,1571,,{},741,,Kituba (GM 1571),2464,,
+33,0,4,,,416,,{},1026,,KLAMATH (UPSID 416),552,,http://web.phonetik.uni-frankfurt.de/L/L6707.html
+11,0,16,,,417,,{},1381,,KLAO (UPSID 417),1472,,http://web.phonetik.uni-frankfurt.de/L/L4133.html
+29,0,16,,,1380,,{},1203,,Koalib (GM 1380),712,,
+15,4,6,,,1106,,{},693,,Koasati (PH 1106),346,,
+27,0,25,,,1743,,{},1945,,Kod̩agu (RA 1743),1388,,
+23,3,10,,,1305,,{},1603,,Kofyar (GM 1305),2058,,
+24,0,12,,,1896,,{},1,,Kogi (SAPHON 1896),768,,http://linguistics.berkeley.edu/~saphon/en/inv/Kogi.html
+28,0,10,,,246,,{},333,,KOHUMONO (UPSID 246),2479,,http://web.phonetik.uni-frankfurt.de/L/L4136.html
+11,0,5,,,393,,{},244,,KOIARI (UPSID 393),1058,,http://web.phonetik.uni-frankfurt.de/L/L8622.html
+11,0,5,,,1909,,{},495,,Kokama-Kokamilla (SAPHON 1909),2867,,http://linguistics.berkeley.edu/~saphon/en/inv/Kokama.html
+18,0,7,,,2904,,{},819,,Kok Nar (ER 2904),1668,,
+15,0,6,,,2922,,{},879,,Koko Bera (ER 2922),922,,
+22,0,5,,,913,,{},1449,,Kokota (PH 913),399,,
+17,0,5,,,2773,,{},2174,,Kolakngat (ER 2773),1410,,
+21,0,13,,,1744,,{},269,,Kolami (RA 1744),2550,,
+16,0,10,,,2445,,{},269,,Kolami (Wardha) (EA 2445),2740,,http://eurphon.info/languages/html?lang_id=280
+27,0,7,,,914,,{},1139,,Kole (PH 914),2861,,
+19,0,18,,,367,,{},92,,KOLOKUMA IJO (UPSID 367),2613,,http://web.phonetik.uni-frankfurt.de/L/L4150.html
+20,0,16,,,2625,,{},1175,,Kolyma Yukaghir (EA 2625),2900,,http://eurphon.info/languages/html?lang_id=312
+59,7,9,,,750,,{},1217,,kom (AA 750),529,,
+23,0,8,,,625,,{},1396,,KOMA (UPSID 625),1984,,http://web.phonetik.uni-frankfurt.de/L/L4220.html
+30,0,7,,,2575,,{},552,,Komi-Permyak (EA 2575),2677,,http://eurphon.info/languages/html?lang_id=79
+29,0,7,,,182,,{},1802,,Komi (SPA 182),1047,,https://archive.org/details/kpv_SPA1979_phon
+26,0,7,,,426,,{},1802,,KOMI (UPSID 426),2832,,http://web.phonetik.uni-frankfurt.de/L/L2152.html
+30,0,7,,,2460,,{},1802,,Komi-Zyrian (Syktyvkar) (EA 2460),1971,,http://eurphon.info/languages/html?lang_id=216
+24,4,7,,,751,,{},648,,komo (AA 751),1567,,
+23,0,5,,,1484,,{},1396,,Komo (GM 1484),2941,,
+23,0,10,,,2481,,{},975,,Konda (EA 2481),1667,,http://eurphon.info/languages/html?lang_id=194
+23,0,20,,,1745,,{},768,,Kon̩d̩a or Kubi (RA 1745),1860,,
+19,0,12,,,1746,,{},2105,,Kon̩ekar Gadaba (RA 1746),1085,,
+35,0,10,,,1747,,{},1437,,Konkani (RA 1747),167,,
+19,0,18,,,422,,{},1437,,KONKANI (UPSID 422),308,,http://web.phonetik.uni-frankfurt.de/L/L2024.html
+22,8,12,,,752,,{},1730,,konkomba (AA 752),539,,https://archive.org/details/rosettaproject_xon_ortho-1
+21,3,14,,,1508,,{},1730,,Konkomba (GM 1508),1972,,
+31,0,18,,,915,,{},1898,,Konni (PH 915),1835,,
+39,0,7,,,290,,{},1915,,KONYAGI (UPSID 290),62,,http://web.phonetik.uni-frankfurt.de/L/L4145.html
+51,0,10,,,1482,,{},774,,Koorete (GM 1482),37,,
+22,6,24,,,747,,{},2049,,kɔɔzime (AA 747),2597,,
+19,0,5,,,871,,{},1451,,Korafe (PH 871),2230,,
+21,0,13,,,1748,,{},161,,Koraga (RA 1748),164,,
+21,0,17,,,2287,,{},1593,,Korean (Seoul) (EA 2287),1409,,http://eurphon.info/languages/html?lang_id=92
+22,0,18,,,1,,{},1593,,Korean (SPA 1),102,,https://archive.org/details/kor_SPA1979_phon
+21,0,11,,,423,,{},1593,,KOREAN (UPSID 423),2115,,http://web.phonetik.uni-frankfurt.de/L/L2170.html
+20,0,28,,,2197,,{},1593,,Korean (UZ 2197),1906,,
+18,0,12,,,2055,,{},1284,,Koreguaje (SAPHON 2055),1756,,http://linguistics.berkeley.edu/~saphon/en/inv/Koreguaje.html
+31,0,10,,,2528,,{},1883,,Korku (EA 2528),533,,http://eurphon.info/languages/html?lang_id=136
+26,0,11,,,1749,,{},1883,,Korku (RA 1749),454,,
+14,0,6,,,2006,,{},1489,,Korubo (SAPHON 2006),672,,http://linguistics.berkeley.edu/~saphon/en/inv/Korubo.html
+16,0,5,,,427,,{},571,,KORYAK (UPSID 427),1381,,http://web.phonetik.uni-frankfurt.de/L/L2709.html
+23,3,11,,,1620,,{},1884,,Koshin (GM 1620),2241,,
+29,3,13,,,1281,,{},1397,,kotafon (GM 1281),2840,,
+26,0,15,,,1750,,{},968,,Kota (RA 1750),906,,
+23,0,11,,,9,,{},968,,Kota (SPA 9),1846,,https://archive.org/details/kfe_SPA1979_phon
+23,0,5,,,400,,{},968,,KOTA (UPSID 400),932,,http://web.phonetik.uni-frankfurt.de/L/L2903.html
+30,4,6,,,1597,,{},544,,Kotoko (GM 1597),2690,,
+27,0,9,,,198,,{},868,,KOTOKO (UPSID 198),2118,,http://web.phonetik.uni-frankfurt.de/L/L4373.html
+29,2,12,,,1498,,{},1025,,Koyaga (GM 1498),2879,,
+21,0,10,,,1751,,{},1295,,Koya (RA 1751),1187,,
+19,0,5,,,401,,{},1295,,KOYA (UPSID 401),2542,,http://web.phonetik.uni-frankfurt.de/L/L2905.html
+25,5,18,,,1258,,{},718,,kpaʔ (GM 1258),1348,,
+24,0,10,,,424,,{},730,,KPAN (UPSID 424),703,,http://web.phonetik.uni-frankfurt.de/L/L4135.html
+27,0,8,,,754,,{},2157,,kpɛlɛwoo (AA 754),1719,,https://archive.org/details/rosettaproject_gkp_ortho-1
+21,3,21,,,753,,{},996,,kpelle (AA 753),2718,,https://archive.org/details/rosettaproject_xpe_ortho-1
+24,3,12,,,1514,,{},2157,,"Kpelle, North (GM 1514)",466,,
+32,3,14,,,137,,{},996,,Kpelle (SPA 137),1871,,https://archive.org/details/xpe_SPA1979_phon
+22,0,12,,,626,,{},996,,KPELLE (UPSID 626),99,,http://web.phonetik.uni-frankfurt.de/L/L4103.html
+17,3,24,,,1306,,{},372,,Krache (GM 1306),2518,,
+12,0,34,,,1964,,{},948,,Krahô (SAPHON 1964),1782,,http://linguistics.berkeley.edu/~saphon/en/inv/Kraho.html
+22,0,13,,,1965,,{},1592,,Krenak (SAPHON 1965),2956,,http://linguistics.berkeley.edu/~saphon/en/inv/Krenak.html
+41,5,10,,,755,,{},341,,kresh (AA 755),231,,
+22,0,16,,,1307,,{},890,,Krim (GM 1307),1820,,
+11,0,15,,,1966,,{},988,,Krinkati-Timbira (SAPHON 1966),973,,http://linguistics.berkeley.edu/~saphon/en/inv/Krinkati.html
+22,0,10,,,756,,{},1746,,krio (AA 756),2726,,https://archive.org/details/rosettaproject_kri_ortho-1
+25,3,7,,,1570,,{},1746,,Krio (GM 1570),202,,
+23,0,5,,,1553,,{},1604,,Kriyol (GM 1553),2370,,
+40,2,20,,,1418,,{},154,,Krongo (GM 1418),2331,,
+17,4,18,,,757,,{},1011,,kroumen tépo (AA 757),1759,,https://archive.org/details/rosettaproject_ted_ortho-1
+20,0,18,,,2386,,{},896,,Ksingmul (EA 2386),769,,http://eurphon.info/languages/html?lang_id=145
+22,0,25,,,916,,{},1598,,Kuay (PH 916),1176,,
+11,0,6,,,2051,,{},1446,,Kubeo (SAPHON 2051),1674,,http://linguistics.berkeley.edu/~saphon/en/inv/Kubeo.html
+20,0,10,,,2899,,{},382,,Kugu Nganhcara (ER 2899),1054,,
+14,0,12,,,1876,,{},1266,,Kuikúro-Kalapálo (SAPHON 1876),1801,,http://linguistics.berkeley.edu/~saphon/en/inv/Kuikuro.html
+20,0,19,,,1752,,{},430,,Kui (RA 1752),2762,,
+17,0,6,,,2937,,{},1700,,Kukata (ER 2937),1038,,
+17,0,6,,,2959,,{},1671,,Kukatja (ER 2959),2367,,
+16,0,7,,,2828,,{},445,,Kukatj (ER 2828),145,,
+13,0,3,,,2887,,{},1054,,Kuku Yalanji (ER 2887),219,,
+27,2,17,,,1607,,{},633,,Kulango (GM 1607),1542,,
+17,0,4,,,1848,,{},2172,,Kulina (SAPHON 1848),2855,,http://linguistics.berkeley.edu/~saphon/en/inv/Kulina.html
+24,0,5,,,343,,{},350,,KULLO (UPSID 343),2122,,http://web.phonetik.uni-frankfurt.de/L/L4362.html
+22,0,21,,,917,,{},1647,,Kulung (PH 917),946,,
+31,0,11,,,1753,,{},1566,,Kumauni (RA 1753),766,,
+23,0,8,,,2355,,{},111,,Kumyk (EA 2355),1167,,http://eurphon.info/languages/html?lang_id=215
+27,0,8,,,2221,,{},1273,,Kumzari (UZ 2221),49,,
+19,0,7,,,433,,{},1939,,KUNAMA (UPSID 433),220,,http://web.phonetik.uni-frankfurt.de/L/L4219.html
+23,3,8,,,2198,,{},1939,,Kunama (UZ 2198),1017,,
+22,0,6,,,2658,,{},891,,Kune (ER 2658),917,,
+17,0,5,,,2675,,{},1895,,Kungarakany (ER 2675),1511,,
+26,0,4,,,2759,,{},121,,Kungardutji (ER 2759),121,,
+19,0,6,,,2765,,{},484,,Kungkari (ER 2765),611,,
+20,0,5,,,2336,,{},1440,,Kunigami (Nakijin) (EA 2336),877,,http://eurphon.info/languages/html?lang_id=19
+15,0,5,,,58,,{},355,,Kunimaipa (SPA 58),1173,,https://archive.org/details/kup_SPA1979_phon
+15,0,5,,,434,,{},355,,KUNIMAIPA (UPSID 434),2493,,http://web.phonetik.uni-frankfurt.de/L/L8620.html
+14,0,3,,,2647,,{},926,,Kunindirri (ER 2647),1289,,
+22,0,5,,,2659,,{},98,,Kuninjku (ER 2659),720,,
+23,0,5,,,46,,{},1974,,Kunjen (SPA 46),400,,https://archive.org/details/kjn_SPA1979_phon
+22,0,5,,,2660,,{},951,,Kunwinjku (ER 2660),911,,
+23,0,10,,,2123,,{},1194,,Kunza (SAPHON 2123),1382,,http://linguistics.berkeley.edu/~saphon/en/inv/Kunza.html
+29,3,24,,,1346,,{},843,,Kuo (GM 1346),1955,,
+13,0,6,,,918,,{},675,,Kuot (PH 918),2087,,
+19,0,6,,,1687,,{},479,,Kupang Malay (GM 1687),1036,,
+26,0,28,,,1622,,{},751,,Kuranko (GM 1622),2666,,
+31,0,8,,,2250,,{},1255,,Kurdish (Sorani) (EA 2250),2642,,http://eurphon.info/languages/html?lang_id=318
+30,0,17,,,419,,{},1808,,KURDISH (UPSID 419),462,,http://web.phonetik.uni-frankfurt.de/L/L2015.html
+15,0,7,,,758,,{},1989,,kuria (AA 758),2190,,https://archive.org/details/rosettaproject_kuj_ortho-1
+21,0,6,,,2840,,{},624,,Kurrama (ER 2840),2637,,
+25,0,12,,,1075,,{},720,,Kurripako; Baniwa; Baniwa (Icana) (PH 1075),1899,,
+19,0,9,,,2905,,{},636,,Kurtjar (ER 2905),2772,,
+31,0,14,,,2439,,{},20,,Kurtoep (EA 2439),1626,,http://eurphon.info/languages/html?lang_id=210
+18,0,10,,,2094,,{},250,,Kuruáya (SAPHON 2094),1485,,http://linguistics.berkeley.edu/~saphon/en/inv/Kuruaya.html
+46,0,22,,,7,,{},348,,Kurukh (SPA 7),2983,,https://archive.org/details/kru_SPA1979_phon
+21,0,11,,,429,,{},348,,KURUKH (UPSID 429),218,,http://web.phonetik.uni-frankfurt.de/L/L2904.html
+31,0,25,,,1754,,{},348,,Kurux (RA 1754),510,,
+22,0,22,,,759,,{},1602,,kusal (AA 759),1261,,https://archive.org/details/rosettaproject_kus_ortho-1
+32,0,6,,,919,,{},577,,Kusunda (PH 919),1694,,
+28,5,13,,,1119,,{},1340,,Kuteb (PH 1119),74,,
+17,0,8,,,2906,,{},1906,,Kuthant (ER 2906),1473,,
+15,0,6,,,2900,,{},25,,Kuugu Ya'u (ER 2900),1032,,
+22,0,15,,,2293,,{},1210,,Kuvi (EA 2293),1724,,http://eurphon.info/languages/html?lang_id=80
+22,0,15,,,920,,{},1210,,Kuvi (PH 920),2903,,
+28,0,19,,,1755,,{},1210,,Kuvi (RA 1755),2843,,
+16,0,5,,,436,,{},1812,,KWAIO (UPSID 436),607,,http://web.phonetik.uni-frankfurt.de/L/L2433.html
+46,0,9,,,71,,{},173,,Kwakiutl (SPA 71),2847,,https://archive.org/details/kwk_SPA1979_phon
+42,0,6,,,437,,{},173,,KWAKW'ALA (UPSID 437),517,,http://web.phonetik.uni-frankfurt.de/L/L6731.html
+20,0,5,,,1487,,{},1771,,Kwama (GM 1487),2564,,
+29,2,6,,,1503,,{},944,,Kwambi (GM 1503),1927,,
+28,2,10,,,1604,,{},1956,,Kwami (GM 1604),1436,,
+22,0,5,,,1272,,{},1377,,kwangari (GM 1272),2902,,
+21,4,18,,,1582,,{},1744,,Kwanja (GM 1582),1280,,
+26,2,5,,,1501,,{},816,,Kwanyama (GM 1501),116,,
+20,4,10,,,1549,,{},1009,,Kwatay (GM 1549),2116,,
+29,0,16,,,921,,{},690,,Kwaza (PH 921),2475,,
+19,0,16,,,2124,,{},690,,Kwaza (SAPHON 2124),2739,,http://linguistics.berkeley.edu/~saphon/en/inv/Kwaza.html
+16,3,6,,,1291,,{},406,,kwezo (GM 1291),2423,,
+17,0,11,,,3009,,{},1581,,Kwini (ER 3009),422,,
+24,0,7,,,418,,{},1827,,KWOMA (UPSID 418),241,,http://web.phonetik.uni-frankfurt.de/L/L8602.html
+22,3,12,,,1519,,{},2071,,Kyanga (GM 1519),381,,
+40,0,23,,,2393,,{},1579,,Kyirong Tibetan (EA 2393),1062,,http://eurphon.info/languages/html?lang_id=76
+21,0,16,,,2382,,{},232,,Kyrgyz (Standard) (EA 2382),2292,,http://eurphon.info/languages/html?lang_id=33
+22,3,9,,,1493,,{},987,,Laarim (GM 1493),541,,
+44,0,6,,,2502,,{},1328,,Labrang Tibetan (EA 2502),1817,,http://eurphon.info/languages/html?lang_id=226
+33,0,5,,,2366,,{},100,,Ladakhi (Leh) (EA 2366),2080,,http://eurphon.info/languages/html?lang_id=75
+33,0,5,,,922,,{},100,,Ladakhi (PH 922),1807,,
+37,0,8,,,1756,,{},100,,Ladakhi (RA 1756),1780,,
+17,0,4,,,2779,,{},95,,Ladji-Ladji (ER 2779),2641,,
+34,2,5,,,1406,,{},474,,Lagwan (GM 1406),732,,
+24,0,22,,,2319,,{},130,,Lahu (Black) (EA 2319),2754,,http://eurphon.info/languages/html?lang_id=176
+26,5,9,,,23,,{},130,,Lahu (SPA 23),9,,https://archive.org/details/lhu_SPA1979_phon
+26,0,9,,,443,,{},130,,LAHU (UPSID 443),1818,,http://web.phonetik.uni-frankfurt.de/L/L2510.html
+45,0,7,,,287,,{},207,,LAI (UPSID 287),2678,,http://web.phonetik.uni-frankfurt.de/L/L2432.html
+29,0,10,,,1087,,{},1528,,Lake Miwok; Miwok (Lake) (PH 1087),195,,
+31,6,22,,,26,,{},1547,,Lakkia (SPA 26),1657,,https://archive.org/details/lbc_SPA1979_phon
+33,0,22,,,439,,{},1547,,LAKKIA (UPSID 439),1219,,http://web.phonetik.uni-frankfurt.de/L/L2401.html
+58,0,10,,,2335,,{},1221,,Lak (Kumux) (EA 2335),31,,http://eurphon.info/languages/html?lang_id=115
+60,0,9,,,3,,{},1221,,Lak (SPA 3),1599,,https://archive.org/details/lbe_SPA1979_phon
+60,0,9,,,440,,{},1221,,LAK (UPSID 440),165,,http://web.phonetik.uni-frankfurt.de/L/L2602.html
+17,3,33,,,760,,{},697,,lama (AA 760),2955,,
+26,0,3,,,2894,,{},1902,,Lamalama (ER 2894),1603,,
+37,0,4,,,1404,,{},793,,Lamang (GM 1404),2652,,
+30,0,18,,,1757,,{},1205,,Lamani (RA 1757),876,,
+30,0,8,,,446,,{},749,,LAME (UPSID 446),1888,,http://web.phonetik.uni-frankfurt.de/L/L4376.html
+32,0,20,,,923,,{},194,,Langi (PH 923),2568,,
+18,2,20,,,1445,,{},767,,Lango (GM 1445),1260,,
+16,6,10,,,1579,,{},1728,,Lango (GM 1579),1712,,
+21,0,12,,,2320,,{},1010,,Lao (Chieng Khouang) (EA 2320),816,,http://eurphon.info/languages/html?lang_id=422
+21,0,12,,,2385,,{},1010,,Lao (Luang Prabang) (EA 2385),2306,,http://eurphon.info/languages/html?lang_id=467
+28,0,12,,,924,,{},1010,,Lao (PH 924),1027,,
+21,0,21,,,2246,,{},1010,,Lao (Vientiane) (EA 2246),891,,http://eurphon.info/languages/html?lang_id=214
+19,0,6,,,1688,,{},265,,Larantuka Malay (GM 1688),2362,,
+17,0,8,,,3003,,{},1683,,Lardil (ER 3003),2343,,
+18,0,6,,,2642,,{},1857,,Larrakia (ER 2642),1256,,
+38,0,17,,,2593,,{},1427,,Latgalian (Standard) (EA 2593),2222,,http://eurphon.info/languages/html?lang_id=45
+12,0,16,,,1995,,{},1633,,Latunde (SAPHON 1995),1641,,http://linguistics.berkeley.edu/~saphon/en/inv/Latunde.html
+26,0,16,,,2493,,{},1587,,Latvian (Standard) (EA 2493),746,,http://eurphon.info/languages/html?lang_id=83
+15,0,5,,,925,,{},1562,,Lavukaleve (PH 925),1969,,
+33,0,5,,,2341,,{},257,,Laz (Ardeşen) (EA 2341),441,,http://eurphon.info/languages/html?lang_id=423
+29,0,7,,,2410,,{},257,,Laz (Arhavi) (EA 2410),1293,,http://eurphon.info/languages/html?lang_id=4
+33,0,5,,,2254,,{},257,,Laz (Borçka) (EA 2254),1247,,http://eurphon.info/languages/html?lang_id=424
+33,0,5,,,2371,,{},257,,Laz (Hopa) (EA 2371),301,,http://eurphon.info/languages/html?lang_id=425
+29,0,5,,,2300,,{},257,,Laz (Pazar) (EA 2300),1271,,http://eurphon.info/languages/html?lang_id=426
+27,0,5,,,1088,,{},257,,Laz (PH 1088),588,,
+34,0,16,,,1098,,{},813,,Lebanese Arabic (PH 1098),1651,,
+24,0,6,,,1929,,{},146,,Leco (SAPHON 1929),480,,http://linguistics.berkeley.edu/~saphon/en/inv/Leco.html
+18,6,14,,,1259,,{},386,,lega-shabunda (GM 1259),1111,,
+38,3,12,,,1540,,{},959,,Leggbo (GM 1540),852,,
+16,2,10,,,1511,,{},1789,,Leke (GM 1511),2324,,
+23,3,10,,,761,,{},421,,lele (AA 761),2770,,
+23,3,10,,,1275,,{},421,,Lele (GM 1275),1873,,
+19,2,7,,,1516,,{},470,,Lele (GM 1516),823,,
+21,3,10,,,1240,,{},2011,,Lele (Lyélé) (PH 1240),1649,,
+22,0,12,,,441,,{},156,,LELEMI (UPSID 441),1532,,http://web.phonetik.uni-frankfurt.de/L/L4118.html
+15,0,6,,,584,,{},2048,,LENAKEL (UPSID 584),2654,,http://web.phonetik.uni-frankfurt.de/L/L2426.html
+43,4,8,,,762,,{},1534,,lendu (AA 762),2012,,https://archive.org/details/rosettaproject_led_ortho-1
+24,3,5,,,1338,,{},210,,Lengola (GM 1338),2881,,
+26,0,10,,,1758,,{},667,,Lepca (RA 1758),2384,,
+10,0,12,,,1681,,{},1520,,Leti (GM 1681),262,,
+88,0,8,,,2524,,{},384,,Lezgian (Güne) (EA 2524),1154,,http://eurphon.info/languages/html?lang_id=114
+38,0,9,,,2311,,{},384,,Lezgian (İsmayıllı) (EA 2311),2758,,http://eurphon.info/languages/html?lang_id=427
+27,0,23,,,2380,,{},419,,Lhasa Tibetan (EA 2380),1713,,http://eurphon.info/languages/html?lang_id=273
+24,0,12,,,1561,,{},318,,Liberian English (GM 1561),395,,
+22,2,14,,,765,,{},844,,ligbi (AA 765),2558,,https://archive.org/details/rosettaproject_lig_ortho-1
+24,0,21,,,2325,,{},308,,Ligurian (Miogliola) (EA 2325),617,,http://eurphon.info/languages/html?lang_id=303
+33,3,9,,,1334,,{},166,,Lika (GM 1334),1059,,
+21,3,9,,,1326,,{},536,,Likpe (GM 1326),1637,,
+17,0,7,,,766,,{},1373,,limba (AA 766),2041,,
+22,6,7,,,767,,{},467,,limbum (AA 767),1125,,https://archive.org/details/rosettaproject_lmp_ortho-1
+23,0,18,,,1261,,{},467,,limbum (central) (GM 1261),1175,,
+23,0,10,,,1262,,{},467,,limbum (northern) (GM 1262),705,,
+37,0,15,,,1260,,{},467,,limbum (southern) (GM 1260),2815,,
+22,0,3,,,2643,,{},1252,,Limilngan (ER 2643),2501,,
+15,0,7,,,768,,{},982,,lingala (AA 768),1655,,https://archive.org/details/rosettaproject_lin_ortho-1
+24,0,5,,,2912,,{},1090,,Linngithigh (ER 2912),2932,,
+32,0,10,,,2578,,{},1839,,Lisu (Flowery) (EA 2578),1771,,http://eurphon.info/languages/html?lang_id=13
+25,6,8,,,1121,,{},1839,,Lisu (PH 1121),484,,
+45,0,14,,,2282,,{},38,,Lithuanian (North Samogitian) (EA 2282),2069,,http://eurphon.info/languages/html?lang_id=428
+45,0,12,,,2488,,{},38,,Lithuanian (South Samogitian) (EA 2488),2926,,http://eurphon.info/languages/html?lang_id=429
+36,0,11,,,168,,{},38,,Lithuanian (SPA 168),2622,,https://archive.org/details/lit_SPA1979_phon
+36,0,16,,,444,,{},38,,LITHUANIAN (UPSID 444),2102,,http://web.phonetik.uni-frankfurt.de/L/L2007.html
+45,0,15,,,2244,,{},38,,Lithuanian (West Aukštaitian) (EA 2244),1491,,http://eurphon.info/languages/html?lang_id=274
+26,0,14,,,2316,,{},38,,Lithuanian (West Samogitian) (EA 2316),309,,http://eurphon.info/languages/html?lang_id=430
+23,0,8,,,2448,,{},1145,,Livonian (Vidzeme) (EA 2448),2302,,http://eurphon.info/languages/html?lang_id=98
+50,0,8,,,2352,,{},222,,Lizu (EA 2352),1703,,http://eurphon.info/languages/html?lang_id=99
+51,2,8,,,2199,,{},1063,,Lizu (UZ 2199),91,,
+25,3,7,,,1541,,{},1794,,Logba (GM 1541),283,,
+26,3,13,,,151,,{},2039,,Logbara (SPA 151),256,,
+27,3,9,,,1294,,{},984,,Logo (GM 1294),1617,,
+28,0,14,,,763,,{},540,,lɔgɔmagooi (AA 763),398,,
+18,0,7,,,764,,{},117,,lɔkɔ (AA 764),508,,https://archive.org/details/rosettaproject_lok_ortho-1
+16,0,5,,,1805,,{},1047,,Lokono (SAPHON 1805),711,,http://linguistics.berkeley.edu/~saphon/en/inv/Lokono.html
+17,0,20,,,769,,{},1589,,lokpa (AA 769),2760,,https://archive.org/details/rosettaproject_dop_ortho-1
+20,4,7,,,1278,,{},1612,,longto (GM 1278),1128,,
+16,0,7,,,1122,,{},1531,,Loniu (PH 1122),495,,
+21,2,28,,,1517,,{},540,,Looma (GM 1517),1233,,
+35,3,8,,,1759,,{},1836,,Lotha (RA 1759),1506,,
+17,0,5,,,890,,{},1855,,Louyi (PH 890),439,,
+35,0,7,,,2602,,{},40,,Lower Sorbian (EA 2602),1581,,http://eurphon.info/languages/html?lang_id=184
+40,0,4,,,2709,,{},668,,Lower Southern Aranda (ER 2709),178,,
+23,0,14,,,1131,,{},1082,,Low German (PH 1131),2388,,
+20,4,39,,,2168,,{},782,,Luanyjang Dinka (UZ 2168),681,,
+23,0,13,,,493,,{},1166,,LUA (UPSID 493),2807,,http://web.phonetik.uni-frankfurt.de/L/L4151.html
+32,0,10,,,928,,{},2074,,Lucazi (PH 928),2269,,
+21,0,18,,,2374,,{},1454,,Lue (Chieng Hung) (EA 2374),235,,http://eurphon.info/languages/html?lang_id=157
+22,0,9,,,404,,{},1454,,LUE (UPSID 404),1440,,http://web.phonetik.uni-frankfurt.de/L/L2427.html
+19,4,10,,,770,,{},781,,luganda (AA 770),1209,,https://archive.org/details/rosettaproject_lug_ortho-1
+26,3,10,,,771,,{},2039,,lugbara (AA 771),931,,https://archive.org/details/rosettaproject_lgg_ortho-1
+26,0,10,,,442,,{},2039,,LUGBARA (UPSID 442),129,,http://web.phonetik.uni-frankfurt.de/L/L4215.html
+23,0,11,,,94,,{},1548,,Luiseno (SPA 94),1606,,https://archive.org/details/lui_SPA1979_phon
+21,0,5,,,447,,{},1548,,LUISENO (UPSID 447),59,,http://web.phonetik.uni-frankfurt.de/L/L6737.html
+22,0,7,,,929,,{},1120,,Lukundu (PH 929),601,,
+16,0,5,,,1930,,{},2139,,Lule (SAPHON 1930),883,,http://linguistics.berkeley.edu/~saphon/en/inv/Lule.html
+34,3,9,,,1314,,{},2139,,Lulubo (GM 1314),2043,,
+17,2,16,,,1427,,{},1147,,Lumun (GM 1427),1604,,
+22,0,10,,,927,,{},7,,Lunda (PH 927),38,,
+21,0,11,,,502,,{},1990,,LUNGCHOW (UPSID 502),1573,,http://web.phonetik.uni-frankfurt.de/L/L2406.html
+23,3,9,,,153,,{},303,,Luo (SPA 153),1346,,https://archive.org/details/luo_SPA1979_phon
+23,0,9,,,448,,{},303,,LUO (UPSID 448),228,,http://web.phonetik.uni-frankfurt.de/L/L4205.html
+20,4,10,,,1489,,{},175,,Lusaamia (GM 1489),436,,
+33,4,6,,,1760,,{},2104,,Lushai (RA 1760),1230,,
+33,0,4,,,449,,{},1096,,LUSHOOTSEED (UPSID 449),815,,http://web.phonetik.uni-frankfurt.de/L/L6734.html
+18,0,4,,,2913,,{},1776,,Luthigh (ER 2913),490,,
+19,2,10,,,1441,,{},714,,Lutsootso (GM 1441),1868,,
+22,4,10,,,146,,{},1453,,Luvale (SPA 146),1741,,https://archive.org/details/lue_SPA1979_phon
+19,3,10,,,1432,,{},46,,Luwo (GM 1432),1752,,
+26,0,22,,,2337,,{},1747,,Luxembourgish (EA 2337),313,,http://eurphon.info/languages/html?lang_id=166
+24,0,22,,,2200,,{},1747,,Luxembourgish (UZ 2200),1708,,
+20,0,10,,,1640,,{},1168,,Luzinza (GM 1640),514,,
+25,3,31,,,1623,,{},1166,,Lwaa (GM 1623),1760,,
+24,4,16,,,772,,{},2011,,lyélé (AA 772),1528,,
+21,4,18,,,154,,{},1487,,Maasai (SPA 154),2474,,https://archive.org/details/mas_SPA1979_phon
+19,0,9,,,451,,{},1487,,MAASAI (UPSID 451),2507,,http://web.phonetik.uni-frankfurt.de/L/L4204.html
+22,0,10,,,1315,,{},1660,,Maay (GM 1315),530,,
+19,4,22,,,1316,,{},2055,,Mabaan (GM 1316),2745,,
+22,0,7,,,456,,{},106,,MABA (UPSID 456),1186,,http://web.phonetik.uni-frankfurt.de/L/L4202.html
+16,0,6,,,1913,,{},472,,Macaguán (SAPHON 1913),2321,,http://linguistics.berkeley.edu/~saphon/en/inv/Macaguan.html
+26,0,6,,,930,,{},1644,,Macedonian (PH 930),2675,,
+26,0,6,,,2363,,{},1644,,Macedonian (Standard) (EA 2363),1777,,http://eurphon.info/languages/html?lang_id=196
+33,3,10,,,1283,,{},2032,,machame (GM 1283),613,,
+10,0,12,,,2056,,{},1641,,Macuna (SAPHON 2056),997,,http://linguistics.berkeley.edu/~saphon/en/inv/Macuna.html
+10,0,12,,,1877,,{},1345,,Macushi (SAPHON 1877),149,,http://linguistics.berkeley.edu/~saphon/en/inv/Macushi.html
+23,5,13,,,1284,,{},248,,mada (GM 1284),2734,,
+22,5,13,,,931,,{},352,,Mada (PH 931),2275,,
+16,0,4,,,2780,,{},78,,Madhi-Madhi (ER 2780),2767,,
+47,3,9,,,1292,,{},1304,,Madi (GM 1292),817,,
+45,0,9,,,932,,{},288,,Ma''di' (PH 932),30,,
+27,0,8,,,1691,,{},1314,,Madurese (GM 1691),1016,,
+34,0,16,,,2454,,{},398,,Magahi (EA 2454),2615,,http://eurphon.info/languages/html?lang_id=276
+33,2,10,,,152,,{},600,,Mahas-Fiyadikka (SPA 152),3014,,https://archive.org/details/fia_SPA1979_phon
+30,0,28,,,2347,,{},1551,,Mah Meri (EA 2347),1328,,http://eurphon.info/languages/html?lang_id=100
+30,0,28,,,2201,,{},1551,,Mah Meri (UZ 2201),17,,
+18,0,6,,,82,,{},915,,Maidu (SPA 82),2606,,https://archive.org/details/nmu_SPA1979_phon
+17,0,6,,,498,,{},915,,MAIDU (UPSID 498),378,,http://web.phonetik.uni-frankfurt.de/L/L6708.html
+14,0,6,,,2057,,{},1833,,Máíhɨki (SAPHON 2057),1797,,http://linguistics.berkeley.edu/~saphon/en/inv/Maihiki.html
+26,0,25,,,2302,,{},1606,,Maithili (Madhubani) (EA 2302),1761,,http://eurphon.info/languages/html?lang_id=281
+34,0,8,,,1761,,{},1606,,Maithili (RA 1761),1706,,
+22,0,10,,,1982,,{},1128,,Maka (SAPHON 1982),2296,,http://linguistics.berkeley.edu/~saphon/en/inv/Maka.html
+18,0,5,,,1677,,{},12,,Makassar (GM 1677),2076,,
+18,0,5,,,1682,,{},2003,,"Makian, East (Taba) (GM 1682)",1450,,
+10,0,10,,,2095,,{},1292,,Makuráp (SAPHON 2095),1843,,http://linguistics.berkeley.edu/~saphon/en/inv/Makurap.html
+31,0,5,,,31,,{},1559,,Malagasy (SPA 31),1826,,https://archive.org/details/plt_SPA1979_phon
+21,0,4,,,517,,{},1559,,MALAGASY (UPSID 517),2184,,http://web.phonetik.uni-frankfurt.de/L/L2410.html
+14,0,5,,,2633,,{},2112,,Malak-Malak (ER 2633),562,,
+14,0,5,,,466,,{},2112,,MALAKMALAK (UPSID 466),2536,,http://web.phonetik.uni-frankfurt.de/L/L8356.html
+38,0,15,,,2559,,{},592,,Malayalam (EA 2559),101,,http://eurphon.info/languages/html?lang_id=288
+30,0,13,,,1762,,{},592,,Malayalam (RA 1762),2643,,
+21,0,6,,,32,,{},2061,,Malay (SPA 32),630,,https://archive.org/details/zsm_SPA1979_phon
+20,0,6,,,2769,,{},2123,,Malkana (ER 2769),2817,,
+17,0,4,,,2855,,{},475,,Malngin (ER 2855),2105,,
+17,2,22,,,986,,{},1450,,Mal (PH 986),150,,
+45,0,10,,,134,,{},1905,,Maltese (SPA 134),380,,https://archive.org/details/mlt_SPA1979_phon
+24,0,11,,,2275,,{},1905,,Maltese (Standard) (EA 2275),2013,,http://eurphon.info/languages/html?lang_id=167
+17,0,8,,,2892,,{},1124,,Malthanmungu (ER 2892),2755,,
+24,0,10,,,2339,,{},569,,Malto (EA 2339),2469,,http://eurphon.info/languages/html?lang_id=229
+24,0,10,,,1763,,{},569,,Malto (RA 1763),1830,,
+21,0,6,,,2968,,{},1521,,Malyangapa (ER 2968),153,,
+14,0,20,,,1996,,{},182,,Mamaindé (SAPHON 1996),1849,,http://linguistics.berkeley.edu/~saphon/en/inv/Mamainde.html
+26,4,24,,,1054,,{},1995,,Mambay; Mambai (PH 1054),1210,,
+24,4,12,,,773,,{},1622,,mambila (AA 773),2020,,https://archive.org/details/rosettaproject_mcu_ortho-1
+25,2,16,,,774,,{},236,,mambila (AA 774),832,,https://archive.org/details/rosettaproject_mzk_ortho-1
+20,4,11,,,1583,,{},1622,,Mambila (GM 1583),205,,
+19,0,6,,,454,,{},1622,,MAMBILA (UPSID 454),825,,http://web.phonetik.uni-frankfurt.de/L/L4153.html
+39,0,11,,,934,,{},912,,Mamenyan (PH 934),1447,,
+22,0,10,,,775,,{},1283,,mampruli (AA 775),1158,,https://archive.org/details/rosettaproject_maw_ortho-1
+24,2,10,,,1327,,{},1283,,Mampruli (GM 1327),492,,
+19,0,6,,,1686,,{},519,,Manado Malay (GM 1686),688,,
+13,0,5,,,933,,{},1447,,Manam (PH 933),1064,,
+30,0,11,,,2620,,{},1369,,Manange (EA 2620),1123,,http://eurphon.info/languages/html?lang_id=192
+30,5,10,,,935,,{},1369,,Manange (PH 935),1931,,
+13,0,5,,,1821,,{},549,,Manchinere (SAPHON 1821),892,,http://linguistics.berkeley.edu/~saphon/en/inv/Manchinere.html
+18,0,7,,,463,,{},1116,,MANCHU (UPSID 463),258,,http://web.phonetik.uni-frankfurt.de/L/L2169.html
+45,2,5,,,1585,,{},989,,Mandara (GM 1585),1324,,
+27,4,12,,,16,,{},1563,,Mandarin Chinese (SPA 16),1725,,https://archive.org/details/cmn_SPA1979_phon
+25,0,7,,,286,,{},1563,,MANDARIN (UPSID 286),592,,http://web.phonetik.uni-frankfurt.de/L/L2500.html
+20,0,7,,,776,,{},541,,mande (AA 776),1589,,
+20,2,14,,,777,,{},1749,,manding (AA 777),990,,
+19,5,10,,,1126,,{},1285,,Mandingo (PH 1126),1892,,
+17,0,7,,,2826,,{},1289,,Mangala (ER 2826),2580,,
+17,0,5,,,2682,,{},548,,Mangarrayi (ER 2682),646,,
+36,2,9,,,778,,{},1485,,mangbetu (AA 778),2285,,https://archive.org/details/rosettaproject_mdj_ortho-1
+25,0,6,,,2556,,{},747,,Mangghuer (Minhe Monguor) (EA 2556),2305,,http://eurphon.info/languages/html?lang_id=149
+19,0,14,,,779,,{},1708,,maninka-kan (AA 779),918,,
+25,2,6,,,1125,,{},1318,,Manipuri (PH 1125),1905,,
+27,3,8,,,1764,,{},1318,,Manipuri (RA 1764),1015,,
+17,0,6,,,2953,,{},2165,,Manjiljarra (ER 2953),1166,,
+22,3,14,,,1518,,{},2087,,Mano (GM 1518),1999,,
+18,2,7,,,1369,,{},1792,,Manya (GM 1369),872,,
+20,4,6,,,1765,,{},1290,,Mao-Naga (RA 1765),1591,,
+10,0,10,,,42,,{},848,,Maori (SPA 42),1705,,https://archive.org/details/mri_SPA1979_phon
+12,0,7,,,1878,,{},1256,,Mapoyo (SAPHON 1878),2350,,http://linguistics.berkeley.edu/~saphon/en/inv/Mapoyo.html
+22,0,6,,,1802,,{},1086,,Mapudungun (SAPHON 1802),2364,,http://linguistics.berkeley.edu/~saphon/en/inv/Mapudungun.html
+13,0,4,,,471,,{},831,,MARANAO (UPSID 471),1428,,http://web.phonetik.uni-frankfurt.de/L/L2445.html
+19,0,5,,,47,,{},1689,,Maranungku (SPA 47),2435,,https://archive.org/details/zmr_SPA1979_phon
+19,0,5,,,937,,{},1258,,Mara (PH 937),1644,,
+42,0,13,,,1766,,{},1829,,Marathi (RA 1766),1081,,
+25,0,6,,,2817,,{},1469,,Margany (ER 2817),709,,
+36,2,6,,,126,,{},1845,,Margi (SPA 126),2086,,https://archive.org/details/mrt_SPA1979_phon
+30,0,4,,,470,,{},1845,,MARGI (UPSID 470),135,,http://web.phonetik.uni-frankfurt.de/L/L4368.html
+25,0,8,,,460,,{},1367,,MARI (UPSID 460),585,,http://web.phonetik.uni-frankfurt.de/L/L2151.html
+19,0,4,,,2679,,{},1258,,Marra (ER 2679),1425,,
+16,0,4,,,2637,,{},264,,Marramaninyshi (ER 2637),879,,
+23,0,3,,,2667,,{},528,,Marrgu (ER 2667),2248,,
+28,0,4,,,2638,,{},1738,,Marringarr (ER 2638),1742,,
+20,0,4,,,2639,,{},1164,,Marrithiyel (ER 2639),1857,,
+27,0,4,,,2640,,{},413,,Marti Ke (ER 2640),1136,,
+20,0,6,,,2841,,{},1336,,Martuthunira (ER 2841),1190,,
+36,0,10,,,991,,{},785,,Marwari (PH 991),2510,,
+31,4,10,,,1565,,{},2117,,Masalit (GM 1565),1189,,
+34,0,7,,,1458,,{},520,,Masqan (GM 1458),1297,,
+15,0,5,,,988,,{},2155,,Matbat (PH 988),1995,,
+15,0,6,,,2007,,{},2008,,Matís (SAPHON 2007),79,,http://linguistics.berkeley.edu/~saphon/en/inv/Matis.html
+17,0,5,,,2632,,{},1758,,Matngele (ER 2632),1715,,
+15,0,6,,,1124,,{},658,,Matses (PH 1124),772,,
+15,0,6,,,2008,,{},658,,Matsés (SAPHON 2008),667,,http://linguistics.berkeley.edu/~saphon/en/inv/Matses.html
+18,0,9,,,1822,,{},1809,,Matsigenka (SAPHON 1822),1302,,http://linguistics.berkeley.edu/~saphon/en/inv/Matsigenka.html
+15,3,5,,,1266,,{},94,,matuumbi (GM 1266),590,,
+19,0,5,,,48,,{},295,,Maung (SPA 48),90,,https://archive.org/details/mph_SPA1979_phon
+17,0,5,,,467,,{},295,,MAUNG (UPSID 467),2026,,http://web.phonetik.uni-frankfurt.de/L/L8350.html
+21,0,9,,,1569,,{},654,,Mauritian Creole (GM 1569),942,,
+19,0,5,,,2202,,{},1963,,Mavea (UZ 2202),1989,,
+24,3,6,,,1378,,{},625,,Mawa (GM 1378),1602,,
+17,0,5,,,2669,,{},295,,Mawng (ER 2669),106,,
+10,0,10,,,1967,,{},1987,,Maxakalí (SAPHON 1967),2784,,http://linguistics.berkeley.edu/~saphon/en/inv/Maxakali.html
+10,0,10,,,453,,{},1987,,MAXAKALI (UPSID 453),794,,http://web.phonetik.uni-frankfurt.de/L/L6858.html
+22,0,5,,,2661,,{},1787,,Mayali (ER 2661),2210,,
+11,0,5,,,938,,{},1423,,Maybrat (PH 938),1374,,
+18,0,3,,,2829,,{},452,,Mayi-Kulan (ER 2829),1245,,
+18,0,3,,,2830,,{},2136,,Mayi-Kutuna (ER 2830),1372,,
+19,0,3,,,2831,,{},946,,Mayi-Thakurti (ER 2831),2789,,
+18,0,3,,,2832,,{},2114,,Mayi-Yapi (ER 2832),1168,,
+33,3,10,,,1488,,{},369,,Mayogo (GM 1488),2588,,
+45,3,15,,,98,,{},127,,Mazahua (SPA 98),2530,,https://archive.org/details/maz_SPA1979_phon
+45,0,15,,,452,,{},127,,MAZAHUA (UPSID 452),140,,http://web.phonetik.uni-frankfurt.de/L/L6717.html
+22,0,7,,,1042,,{},867,,Mazanderani (PH 1042),1711,,
+26,4,8,,,99,,{},1870,,Mazateco (SPA 99),1811,,https://archive.org/details/maq_SPA1979_phon
+25,0,8,,,450,,{},1870,,MAZATEC (UPSID 450),1884,,http://web.phonetik.uni-frankfurt.de/L/L6727.html
+15,0,12,,,2928,,{},1841,,Mbabaram (ER 2928),858,,
+20,0,4,,,606,,{},1841,,MBABARAM (UPSID 606),1400,,http://web.phonetik.uni-frankfurt.de/L/L8373.html
+23,2,6,,,1502,,{},1005,,Mbalanhu (GM 1502),1100,,
+24,0,7,,,458,,{},1040,,MBA-NE (UPSID 458),2766,,http://web.phonetik.uni-frankfurt.de/L/L4160.html
+17,0,10,,,2927,,{},830,,Mbara (ER 2927),170,,
+22,3,19,,,1474,,{},1922,,Mbay (GM 1474),1844,,
+26,4,7,,,1285,,{},428,,mbe (GM 1285),2857,,
+48,2,7,,,1599,,{},439,,Mbe (GM 1599),1572,,
+28,2,7,,,781,,{},1745,,mbembe (AA 781),1827,,https://archive.org/details/rosettaproject_mfn_ortho-1
+99,5,12,,,1630,,{},11,,Mbembe (GM 1630),1103,,
+23,0,6,,,2914,,{},1958,,Mbiywom (ER 2914),2011,,
+28,3,7,,,1407,,{},815,,Mbodomo (GM 1407),955,,
+28,2,7,,,939,,{},815,,Mbodomo; Mbódɔ̀mɔ́ (PH 939),2751,,
+19,2,14,,,1558,,{},630,,Mbo (Ekanang) (GM 1558),926,,
+21,2,13,,,1560,,{},630,,Mbo (Ngwatta) (GM 1560),2147,,
+20,4,7,,,782,,{},630,,mboó (AA 782),1642,,
+34,3,8,,,1408,,{},666,,Mbuko (GM 1408),1019,,
+22,0,7,,,1270,,{},559,,mbukushu (GM 1270),2601,,
+30,0,8,,,455,,{},2132,,MBUM (UPSID 455),1252,,http://web.phonetik.uni-frankfurt.de/L/L4146.html
+14,0,12,,,2083,,{},125,,Mbyá (SAPHON 2083),894,,http://linguistics.berkeley.edu/~saphon/en/inv/Mbya.html
+21,0,10,,,2506,,{},1367,,Meadow Mari (Joškar-Ola) (EA 2506),1442,,http://eurphon.info/languages/html?lang_id=415
+19,0,8,,,2241,,{},1367,,Meadow Mari (Morki-Sernur) (EA 2241),2659,,http://eurphon.info/languages/html?lang_id=57
+21,0,9,,,2532,,{},1367,,Meadow Mari (Volga) (EA 2532),1504,,http://eurphon.info/languages/html?lang_id=416
+16,0,17,,,1963,,{},1356,,Mebengokre (SAPHON 1963),2320,,http://linguistics.berkeley.edu/~saphon/en/inv/Mebengokre.html
+16,0,9,,,940,,{},1061,,Medumba (PH 940),1880,,
+26,0,14,,,1472,,{},724,,Me'en (GM 1472),984,,
+13,0,10,,,1823,,{},626,,Mehináku (SAPHON 1823),1060,,http://linguistics.berkeley.edu/~saphon/en/inv/Mehinaku.html
+31,0,14,,,2510,,{},1793,,Mehri (Oman) (EA 2510),1208,,http://eurphon.info/languages/html?lang_id=36
+30,4,21,,,783,,{},357,,mekaa (AA 783),532,,https://archive.org/details/rosettaproject_mcp_ortho-1
+23,4,7,,,784,,{},172,,mende (AA 784),2508,,
+18,0,5,,,2649,,{},664,,Mengerrdji (ER 2649),26,,
+28,0,27,,,2224,,{},1888,,Mennonite Plautdietsch (UZ 2224),2965,,
+33,3,8,,,1584,,{},1275,,Mere (GM 1584),2377,,
+20,5,8,,,785,,{},1899,,metta (AA 785),1936,,https://archive.org/details/rosettaproject_mgo_ortho-1
+30,0,20,,,1227,,{},582,,Mewati (PH 1227),2135,,
+74,5,10,,,1601,,{},1574,,Mfumte (GM 1601),2283,,
+13,4,8,,,973,,{},949,,Mianmin (PH 973),133,,
+25,0,16,,,1072,,{},1137,,Michif (PH 1072),563,,
+20,0,5,,,957,,{},1425,,Michoacan Nahual (PH 957),2996,,
+33,0,8,,,375,,{},444,,MIEN (UPSID 375),374,,http://web.phonetik.uni-frankfurt.de/L/L2517.html
+17,0,5,,,2868,,{},1334,,Minang (ER 2868),1557,,
+23,0,10,,,1698,,{},1537,,Minangkabau (GM 1698),1994,,
+15,0,20,,,2562,,{},1957,,Min Dong Chinese (Fuzhou) (EA 2562),1236,,http://eurphon.info/languages/html?lang_id=10
+30,0,5,,,2436,,{},337,,Mingrelian (Martvili) (EA 2436),1011,,
+30,0,5,,,941,,{},337,,Mingrelian (PH 941),225,,
+31,0,5,,,2409,,{},337,,Mingrelian (Senaki) (EA 2409),22,,
+31,0,6,,,2417,,{},337,,Mingrelian (Zugdidi-Samurzaqano) (EA 2417),2619,,http://eurphon.info/languages/html?lang_id=277
+12,0,8,,,2715,,{},583,,Minjungbal (ER 2715),551,,
+20,0,3,,,2691,,{},1239,,Minkin (ER 2691),1014,,
+29,2,19,,,786,,{},1281,,minyanka (AA 786),1531,,https://archive.org/details/rosettaproject_myk_ortho-1
+17,0,14,,,1858,,{},1362,,Miraña (SAPHON 1858),2485,,http://linguistics.berkeley.edu/~saphon/en/inv/Miranya.html
+22,0,27,,,2278,,{},1533,,Mirandese (EA 2278),1838,,http://eurphon.info/languages/html?lang_id=268
+16,0,4,,,2673,,{},105,,Miriwoong (ER 2673),1765,,
+20,0,6,,,2837,,{},300,,Mirrniny (ER 2837),13,,
+34,4,16,,,1767,,{},886,,Mishmi (RA 1767),109,,
+34,3,9,,,1768,,{},1868,,Mising (RA 1768),359,,
+26,0,3,,,2748,,{},594,,Mithaka (ER 2748),1361,,
+14,0,9,,,472,,{},1399,,MIXE (UPSID 472),880,,http://web.phonetik.uni-frankfurt.de/L/L6715.html
+19,3,10,,,100,,{},1739,,Mixtec (SPA 100),2228,,https://archive.org/details/mig_SPA1979_phon
+15,0,10,,,461,,{},1739,,MIXTEC (UPSID 461),2599,,http://web.phonetik.uni-frankfurt.de/L/L6728.html
+14,0,5,,,2453,,{},932,,Miyako (Ogami) (EA 2453),1654,,http://eurphon.info/languages/html?lang_id=235
+15,0,3,,,2805,,{},213,,Miyan (ER 2805),1009,,
+22,0,14,,,1322,,{},1936,,Mmani (GM 1322),1479,,
+27,5,9,,,942,,{},795,,Mmen (PH 942),1691,,
+22,0,30,,,787,,{},1015,,mo (AA 787),1251,,https://archive.org/details/rosettaproject_mzw_ortho-1
+20,0,12,,,1931,,{},662,,Mochica (SAPHON 1931),1665,,http://linguistics.berkeley.edu/~saphon/en/inv/Mochica.html
+23,0,8,,,1127,,{},170,,Mocovi (PH 1127),2211,,
+21,0,8,,,1916,,{},170,,Mocoví (SAPHON 1916),670,,http://linguistics.berkeley.edu/~saphon/en/inv/Mocovi.html
+37,0,8,,,2281,,{},1300,,Modern Aramaic (Northeastern) (EA 2281),1242,,http://eurphon.info/languages/html?lang_id=170
+21,0,5,,,170,,{},597,,Modern Greek (SPA 170),1640,,https://archive.org/details/ell_SPA1979_phon
+24,0,6,,,135,,{},561,,Modern Hebrew (SPA 135),1979,,https://archive.org/details/heb_SPA1979_phon
+35,2,7,,,788,,{},1130,,mofu-gudur (AA 788),266,,
+35,0,5,,,1598,,{},1130,,"Mofu, South (GM 1598)",1991,,
+33,3,14,,,1625,,{},245,,Moghamo (GM 1625),2408,,
+24,0,5,,,459,,{},1191,,MOGHOL (UPSID 459),1612,,http://web.phonetik.uni-frankfurt.de/L/L2174.html
+20,0,18,,,1673,,{},1538,,Moken (GM 1673),1561,,
+22,0,10,,,943,,{},1538,,Moken (PH 943),334,,
+19,0,27,,,1672,,{},287,,Moklen (GM 1672),1512,,
+22,2,7,,,1626,,{},144,,Mokpwe (GM 1626),1258,,
+35,0,6,,,2245,,{},1729,,Moksha (Southwest) (EA 2245),515,,http://eurphon.info/languages/html?lang_id=431
+33,0,7,,,2243,,{},1729,,Moksha (Standard) (EA 2243),2846,,http://eurphon.info/languages/html?lang_id=42
+23,0,7,,,1123,,{},1596,,Molalla (PH 1123),1799,,
+31,6,10,,,1409,,{},938,,Moloko (GM 1409),56,,
+25,0,10,,,2501,,{},747,,Mongghul (Huzhu Monguor) (EA 2501),1791,,http://eurphon.info/languages/html?lang_id=52
+32,0,14,,,2464,,{},1615,,Mongolian (Khalkha) (EA 2464),1424,,http://eurphon.info/languages/html?lang_id=74
+45,4,7,,,1277,,{},901,,mongo-nkundu (GM 1277),1315,,
+23,0,5,,,462,,{},747,,MONGUOR (UPSID 462),1500,,http://web.phonetik.uni-frankfurt.de/L/L2173.html
+35,3,24,,,1344,,{},397,,Mono (GM 1344),361,,
+33,3,8,,,1143,,{},1926,,Mono (PH 1143),1232,,
+17,2,24,,,789,,{},1352,,moore (AA 789),1105,,
+22,0,5,,,1678,,{},977,,Mori Bawah (GM 1678),1118,,
+74,0,4,,,133,,{},1513,,Moroccan Arabic (SPA 133),1666,,https://archive.org/details/ary_SPA1979_phon
+42,2,10,,,1424,,{},651,,Morokodo (GM 1424),2398,,
+22,0,7,,,465,,{},438,,MORO (UPSID 465),372,,http://web.phonetik.uni-frankfurt.de/L/L4101.html
+26,3,9,,,1293,,{},1468,,Moru (GM 1293),2049,,
+14,0,5,,,464,,{},1357,,MOR (UPSID 464),2328,,http://web.phonetik.uni-frankfurt.de/L/L2429.html
+23,0,16,,,1986,,{},595,,Mosetén de Covendo (SAPHON 1986),2380,,http://linguistics.berkeley.edu/~saphon/en/inv/MosetenC.html
+23,0,18,,,1987,,{},595,,Mosetén de Santa Ana (SAPHON 1987),786,,http://linguistics.berkeley.edu/~saphon/en/inv/MosetenSA.html
+26,0,12,,,944,,{},595,,Moseten (PH 944),1692,,
+19,0,10,,,1932,,{},752,,Movima (SAPHON 1932),1367,,http://linguistics.berkeley.edu/~saphon/en/inv/Movima.html
+18,0,5,,,479,,{},752,,MOVIMA (UPSID 479),2470,,http://web.phonetik.uni-frankfurt.de/L/L6860.html
+21,0,4,,,111,,{},853,,Moxo (SPA 111),1068,,https://archive.org/details/ign_SPA1979_phon
+21,0,4,,,366,,{},853,,MOXO (UPSID 366),1874,,http://web.phonetik.uni-frankfurt.de/L/L6827.html
+24,3,13,,,1769,,{},645,,Moyon (RA 1769),1949,,
+22,0,4,,,2915,,{},613,,Mpalitjanh (ER 2915),1178,,
+29,2,7,,,945,,{},1530,,Mpumpun (PH 945),2590,,
+21,6,12,,,790,,{},776,,muan (AA 790),1145,,https://archive.org/details/rosettaproject_moa_ortho-1
+17,0,6,,,2856,,{},407,,Mudburra (ER 2856),1630,,
+34,0,8,,,1459,,{},122,,Muher (GM 1459),1552,,
+17,0,5,,,869,,{},1494,,Muhiang (PH 869),2811,,
+22,0,6,,,1859,,{},1021,,Muinane (SAPHON 1859),275,,http://linguistics.berkeley.edu/~saphon/en/inv/Muinane.html
+22,0,6,,,256,,{},1021,,MUINANE (UPSID 256),2864,,http://web.phonetik.uni-frankfurt.de/L/L6806.html
+16,0,6,,,1893,,{},1212,,Muisca (SAPHON 1893),634,,http://linguistics.berkeley.edu/~saphon/en/inv/Muisca.html
+17,0,5,,,2789,,{},2127,,Muk-Thang (ER 2789),2126,,
+13,0,3,,,2888,,{},823,,Muluridji (ER 2888),830,,
+23,0,11,,,478,,{},1843,,MUMUYE (UPSID 478),1360,,http://web.phonetik.uni-frankfurt.de/L/L4132.html
+28,0,5,,,1214,,{},1849,,Muna (PH 1214),2279,,
+22,4,12,,,1618,,{},1433,,Mundabli (GM 1618),1493,,
+37,3,27,,,1343,,{},367,,Mundang (GM 1343),154,,
+23,4,14,,,791,,{},2103,,mundani (AA 791),631,,https://archive.org/details/rosettaproject_mnf_ortho-1
+23,0,5,,,2295,,{},1481,,Mundari (EA 2295),1459,,http://eurphon.info/languages/html?lang_id=155
+21,0,18,,,1770,,{},1481,,Mundari (RA 1770),2660,,
+32,0,5,,,10,,{},1481,,Mundari (SPA 10),123,,https://archive.org/details/unr_SPA1979_phon
+32,0,5,,,602,,{},1481,,MUNDARI (UPSID 602),477,,http://web.phonetik.uni-frankfurt.de/L/L2300.html
+29,3,9,,,780,,{},1910,,mündü (AA 780),1714,,
+17,2,20,,,1129,,{},1943,,Mundurukú (PH 1129),277,,
+17,0,20,,,2096,,{},1943,,Mundurukú (SAPHON 2096),560,,http://linguistics.berkeley.edu/~saphon/en/inv/Munduruku.html
+21,3,9,,,946,,{},543,,Mungaka (PH 946),2720,,
+24,4,8,,,1617,,{},2046,,Mungbam (GM 1617),912,,
+22,0,5,,,1933,,{},1234,,Muniche (SAPHON 1933),1670,,http://linguistics.berkeley.edu/~saphon/en/inv/Muniche.html
+35,0,9,,,2289,,{},191,,Munji (EA 2289),2863,,http://eurphon.info/languages/html?lang_id=109
+17,0,5,,,792,,{},1065,,munukutuba (AA 792),2407,,
+21,0,5,,,2538,,{},1817,,Muria Gondi (EA 2538),1198,,http://eurphon.info/languages/html?lang_id=102
+21,0,4,,,474,,{},2113,,MURINHPATHA (UPSID 474),69,,http://web.phonetik.uni-frankfurt.de/L/L8349.html
+20,0,14,,,793,,{},1118,,murle (AA 793),1551,,https://archive.org/details/rosettaproject_mur_ortho-1
+24,0,4,,,2634,,{},150,,Murrinh-patha (ER 2634),197,,
+21,0,5,,,473,,{},1118,,MURSI (UPSID 473),1883,,http://web.phonetik.uni-frankfurt.de/L/L4214.html
+19,0,6,,,2720,,{},1509,,Muruwari (ER 2720),1609,,
+27,5,14,,,1410,,{},1981,,Muyang (GM 1410),1823,,
+47,0,8,,,947,,{},2141,,Mvumbo (PH 947),2313,,
+25,0,12,,,794,,{},1754,,mwaghavul (AA 794),264,,https://archive.org/details/rosettaproject_sur_ortho-1
+19,0,5,,,1341,,{},482,,Mwali (GM 1341),2144,,
+15,0,7,,,948,,{},2085,,Mwotlap (PH 948),1755,,
+27,0,21,,,2491,,{},1098,,Myeik Burmese (EA 2491),798,,http://eurphon.info/languages/html?lang_id=249
+29,0,7,,,1263,,{},2001,,myene (GM 1263),1980,,
+21,0,22,,,1927,,{},423,,Mỹky (SAPHON 1927),1093,,http://linguistics.berkeley.edu/~saphon/en/inv/Irantxe.html
+17,0,17,,,1992,,{},454,,Nadëb (SAPHON 1992),2128,,http://linguistics.berkeley.edu/~saphon/en/inv/Nadeb.html
+25,0,19,,,795,,{},2051,,nafaanra (AA 795),641,,https://archive.org/details/rosettaproject_nfr_ortho-1
+26,0,21,,,958,,{},1472,,Nagamese (PH 958),744,,
+16,0,4,,,486,,{},1123,,NAHUATL (UPSID 486),644,,http://web.phonetik.uni-frankfurt.de/L/L6762.html
+36,0,10,,,1771,,{},93,,Naiki (RA 1771),303,,
+25,0,8,,,2607,,{},2129,,Najdi Arabic (EA 2607),471,,http://eurphon.info/languages/html?lang_id=135
+20,0,5,,,2678,,{},1725,,Nakara (ER 2678),995,,
+36,0,8,,,956,,{},313,,Naki (PH 956),1861,,
+19,6,8,,,155,,{},1193,,Nama (SPA 155),537,,https://archive.org/details/naq_SPA1979_phon
+32,0,9,,,482,,{},530,,NAMA (UPSID 482),2639,,http://web.phonetik.uni-frankfurt.de/L/L4906.html
+30,0,17,,,557,,{},1750,,NAMBAKAENGO (UPSID 557),1357,,http://web.phonetik.uni-frankfurt.de/L/L8626.html
+9,0,6,,,949,,{},1505,,Namia (PH 949),1613,,
+18,0,6,,,341,,{},2058,,NANAI (UPSID 341),388,,http://web.phonetik.uni-frankfurt.de/L/L2168.html
+13,0,10,,,954,,{},2168,,Nandi (PH 954),393,,
+60,0,36,,,2489,,{},1682,,Nangchenpa Tibetan (EA 2489),2310,,http://eurphon.info/languages/html?lang_id=128
+14,0,6,,,953,,{},1711,,Nankina (PH 953),1471,,
+18,0,9,,,1824,,{},546,,Nanti (SAPHON 1824),1778,,http://linguistics.berkeley.edu/~saphon/en/inv/Nanti.html
+20,0,3,,,2039,,{},1766,,Napo Quichua (SAPHON 2039),1116,,http://linguistics.berkeley.edu/~saphon/en/inv/NapoQ.html
+43,6,10,,,2203,,{},1417,,Nara (UZ 2203),635,,
+18,0,5,,,2784,,{},2052,,Nari Nari (ER 2784),2146,,
+25,0,24,,,2617,,{},1518,,Nar-Phu (Nar) (EA 2617),2463,,http://eurphon.info/languages/html?lang_id=51
+21,0,6,,,2936,,{},1931,,Narrungga (ER 2936),2450,,
+8,0,10,,,60,,{},1430,,Nasioi (SPA 60),1569,,https://archive.org/details/nas_SPA1979_phon
+8,0,5,,,483,,{},1430,,NASIOI (UPSID 483),234,,http://web.phonetik.uni-frankfurt.de/L/L8624.html
+13,3,24,,,1413,,{},921,,Nateni (GM 1413),2494,,
+18,0,4,,,2291,,{},1628,,Naukan Yupik (EA 2291),2744,,http://eurphon.info/languages/html?lang_id=262
+36,2,16,,,66,,{},728,,Navaho (SPA 66),1097,,https://archive.org/details/nav_SPA1979_phon
+31,0,16,,,484,,{},728,,NAVAJO (UPSID 484),2103,,http://web.phonetik.uni-frankfurt.de/L/L6104.html
+21,0,14,,,796,,{},588,,nawdm (AA 796),2813,,https://archive.org/details/rosettaproject_nmz_ortho-1
+29,2,9,,,1660,,{},151,,Nawuri (GM 1660),2521,,
+38,0,11,,,485,,{},433,,NAXI (UPSID 485),296,,http://web.phonetik.uni-frankfurt.de/L/L2525.html
+21,3,19,,,1264,,{},1673,,N'cam (GM 1264),1265,,
+17,6,18,,,1600,,{},783,,Nchane (GM 1600),2753,,
+26,3,30,,,1656,,{},335,,Nchufie (GM 1656),2379,,
+19,0,5,,,1611,,{},1577,,Ndamba (GM 1611),35,,
+61,2,5,,,1491,,{},917,,Ndebele (GM 1491),459,,
+30,5,18,,,950,,{},1646,,Ndemli (PH 950),2447,,
+16,0,5,,,2676,,{},665,,Ndjebbana (ER 2676),2300,,
+29,4,5,,,1436,,{},2083,,Ndogo (GM 1436),2723,,
+29,2,5,,,1507,,{},1135,,Ndonga (Eunda) (GM 1507),2607,,
+25,0,5,,,1269,,{},1135,,ndonga (GM 1269),2347,,
+29,2,5,,,1506,,{},1135,,Ndonga (Kolonkadhi) (GM 1506),2954,,
+29,2,5,,,1505,,{},1135,,Ndonga (Kwaluudhi) (GM 1505),2791,,
+19,0,4,,,2910,,{},833,,Ndra'ngith (ER 2910),2687,,
+26,0,17,,,1324,,{},832,,Ndut-Falor (GM 1324),1266,,
+27,0,7,,,487,,{},685,,NDUT (UPSID 487),1687,,http://web.phonetik.uni-frankfurt.de/L/L4149.html
+27,0,8,,,638,,{},979,,NENETS (UPSID 638),519,,http://web.phonetik.uni-frankfurt.de/L/L2156.html
+17,2,7,,,1265,,{},2173,,Nen (GM 1265),1894,,
+24,0,16,,,591,,{},1391,,NEO-ARAMAIC (UPSID 591),1329,,http://web.phonetik.uni-frankfurt.de/L/L4355.html
+29,0,15,,,2342,,{},1976,,Nepali (EA 2342),1073,,http://eurphon.info/languages/html?lang_id=29
+35,0,12,,,1772,,{},1976,,Nepali (RA 1772),1478,,
+27,0,12,,,488,,{},260,,NEPALI (UPSID 488),1615,,http://web.phonetik.uni-frankfurt.de/L/L2023.html
+53,0,21,,,2204,,{},1976,,Nepali (UZ 2204),848,,
+17,0,5,,,501,,{},1417,,NERA (UPSID 501),1333,,http://web.phonetik.uni-frankfurt.de/L/L4212.html
+24,0,8,,,489,,{},743,,NEWARI (UPSID 489),2620,,http://web.phonetik.uni-frankfurt.de/L/L2518.html
+26,0,10,,,81,,{},455,,Nez Perce (SPA 81),172,,https://archive.org/details/nez_SPA1979_phon
+25,0,5,,,490,,{},455,,NEZ PERCE (UPSID 490),1238,,http://web.phonetik.uni-frankfurt.de/L/L6706.html
+17,0,6,,,2962,,{},1178,,Ngaanyatjarra (ER 2962),1104,,
+21,0,6,,,1213,,{},215,,Ngad''a; Ngadha' (PH 1213),337,,
+20,0,6,,,2838,,{},300,,Ngadjunmaya (ER 2838),2631,,
+17,0,9,,,960,,{},2059,,Ngalakan (PH 960),578,,
+22,0,5,,,2654,,{},2059,,Ngalakgan (ER 2654),1018,,
+17,0,6,,,2960,,{},846,,Ngalia (ER 2960),2226,,
+17,0,4,,,2684,,{},2013,,Ngaliwurru (ER 2684),3012,,
+18,3,13,,,799,,{},1973,,ngambai (AA 799),561,,
+22,0,3,,,2752,,{},2115,,Ngamini (ER 2752),2906,,
+20,0,10,,,2461,,{},622,,Nganasan (Avam) (EA 2461),1508,,http://eurphon.info/languages/html?lang_id=199
+20,0,9,,,494,,{},622,,NGANASAN (UPSID 494),1945,,http://web.phonetik.uni-frankfurt.de/L/L2157.html
+26,0,9,,,2655,,{},2088,,Ngandi (ER 2655),837,,
+30,2,5,,,1504,,{},263,,Ngandjera (GM 1504),494,,
+19,0,4,,,2635,,{},1542,,Ngan'gityemerri (ER 2635),2928,,
+20,0,8,,,961,,{},1542,,Nganikurungkurr (PH 961),822,,
+14,0,3,,,2990,,{},1691,,Nganyaywana (ER 2990),902,,
+18,0,6,,,2857,,{},281,,Ngardi (ER 2857),1682,,
+18,0,6,,,3018,,{},1240,,Ngardily (ER 3018),1940,,
+15,0,3,,,2998,,{},345,,Ngarigu (ER 2998),2007,,
+18,0,6,,,601,,{},1319,,NGARINJIN (UPSID 601),456,,http://web.phonetik.uni-frankfurt.de/L/L8374.html
+17,0,5,,,3007,,{},1319,,Ngarinyin (ER 3007),621,,
+17,0,6,,,2858,,{},86,,Ngarinyman (ER 2858),2686,,
+17,0,6,,,2842,,{},679,,Ngarla (ER 2842),2824,,
+17,0,6,,,2961,,{},572,,Ngarlawangka (ER 2961),2030,,
+20,0,3,,,2843,,{},631,,Ngarluma (ER 2843),666,,
+17,0,4,,,2686,,{},199,,Ngarnka (ER 2686),2674,,
+18,0,3,,,2833,,{},946,,Ngawun (ER 2833),1323,,
+20,0,3,,,2793,,{},279,,Ngayawang (ER 2793),2761,,
+22,0,12,,,800,,{},623,,ngbaka (AA 800),1929,,https://archive.org/details/rosettaproject_nga_ortho-1
+19,0,12,,,801,,{},188,,ngbandi (AA 801),1831,,https://archive.org/details/rosettaproject_ngb_ortho-1
+29,2,9,,,936,,{},1443,,Ngemba (PH 936),682,,
+19,4,7,,,1628,,{},2175,,Ngiemboon (GM 1628),3020,,
+20,0,3,,,2794,,{},141,,Ngintait (ER 2794),2788,,
+26,2,6,,,959,,{},1893,,Ngishe (PH 959),2303,,
+44,7,5,,,1470,,{},1069,,Ngiti (GM 1470),351,,
+15,0,6,,,2721,,{},1092,,Ngiyambaa (ER 2721),316,,
+15,0,3,,,623,,{},1092,,NGIYAMBAA (UPSID 623),637,,http://web.phonetik.uni-frankfurt.de/L/L8372.html
+34,0,6,,,491,,{},1569,,NGIZIM (UPSID 491),1977,,http://web.phonetik.uni-frankfurt.de/L/L4369.html
+19,0,7,,,2916,,{},424,,Ngkoth (ER 2916),557,,
+19,2,6,,,1411,,{},1621,,Ngomba (GM 1411),191,,
+37,3,19,,,963,,{},468,,Ngombale (PH 963),1220,,
+9,0,14,,,962,,{},1920,,Ngomba (PH 962),2559,,
+17,0,3,,,2692,,{},1262,,Ngumbarl (ER 2692),2249,,
+19,0,6,,,2999,,{},1927,,Ngunawal (ER 2999),2444,,
+24,0,14,,,1286,,{},2091,,ngwe (GM 1286),898,,
+17,4,7,,,802,,{},2175,,ngyembɔɔn (AA 802),605,,https://archive.org/details/rosettaproject_nnh_ortho-1
+27,0,6,,,2770,,{},2067,,Nhanda (ER 2770),1234,,
+17,0,12,,,2142,,{},2057,,Nhandeva (SAPHON 2142),267,,http://linguistics.berkeley.edu/~saphon/en/inv/Nhandeva.html
+25,0,6,,,2978,,{},1403,,Nhangu (ER 2978),323,,
