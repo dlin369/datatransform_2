@@ -8,7 +8,6 @@ cat(paste("Your current working directory is: ",
 # bring in the Austronesian Comparative Dictionary (Proto Language Data)
 acd_data <- read.csv("acdwebscrape.csv")
 
-
 # make a test grouping by token and gloss
 testgroup <- group_by(acd_data, token_data, gloss_data)
 # summarise (remove duplicates) in the grouping
