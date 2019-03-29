@@ -12,18 +12,23 @@ inventories <- read.csv("Contributions.csv")
 acd_data <- read.csv("acdwebscrape.csv")
 
 #use mutate to add a column that calculates the ratio of consonants to vowels
+# # # # # # # # # # # # # # # # # # # # # # # # # 
 ratio <- mutate(inventories, 
                 cvratio = count_consonant / count_vowel)
 
 #arrange the rows by the new column values in descending order
+# # # # # # # # # # # # # # # # # # # # # # # # # 
 ratio_ordered <- arrange(ratio, 
-                         desc(cvratio)
+                         desc(
+                           cvratio
+                           )
                          )
 
 # make a test grouping by token and gloss
-testgroup <- group_by(acd_data, 
-                      token_data, 
-                      gloss_data)
+# # # # # # # # # # # # # # # # # # # # # # # # # 
+testgroup <- group_by(acd_data, #load the main data
+                      token_data, #add a group
+                      gloss_data) #add a second group
 
 # summarise (remove duplicates) in the grouping
 test_sum <- summarise(testgroup)
