@@ -1,6 +1,6 @@
 library(tidyverse)
 
-# print working directory (You should be in ~/Datatransform2)
+# check working directory (You should be in ~/Datatransform2)
 cat(paste("Your current working directory is: ",
           getwd(), 
           sep = "\n"))
