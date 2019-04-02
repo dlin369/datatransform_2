@@ -23,7 +23,9 @@ ratio_ordered <- arrange(ratio,
                            cvratio
                            )
                          )
-
+#######################################
+#        5.6   summarise() & group_by()
+#######################################
 # make a test grouping by token and gloss
 # # # # # # # # # # # # # # # # # # # # # # # # # 
 testgroup <- group_by(acd_data, #load the main data
@@ -55,7 +57,9 @@ ggplot(data = test_sum2, # load plot data
   geom_smooth(se = FALSE) # curve layer
 
 # How to make code simpler? Pipe: %>%
-
+#######################################
+#        5.6.1/.2   Pipe: %>% & NA data
+#######################################
 # rewrite of above code
 ratio_plot <- mutate(inventories, 
                 cvratio = count_consonant / count_vowel
@@ -72,7 +76,9 @@ ggplot(mapping = aes(x = count_consonant, # assign axis data
 ) + 
   geom_point() + # dot layer
   geom_smooth(se = FALSE) # curve layer
-
+#######################################
+#        5.6.3   Counts: n()
+#######################################
 # n() (count)
 # check the prevalence of given values of ratio_mean in the data
 ratio_plot_n <- mutate(inventories, 
